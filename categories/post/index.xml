@@ -1,0 +1,319 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Post on GIP Jens VL 2015 - 2016</title>
+    <link>http://jensvl-immalle.github.io/categories/post/</link>
+    <description>Recent content in Post on GIP Jens VL 2015 - 2016</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 01 Feb 2016 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://jensvl-immalle.github.io/categories/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Case Study - Vervolg</title>
+      <link>http://jensvl-immalle.github.io/post/CaseStudy2/</link>
+      <pubDate>Mon, 01 Feb 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://jensvl-immalle.github.io/post/CaseStudy2/</guid>
+      <description>
+
+&lt;h1 id=&#34;cloud-storage-amazon-aws:d237c511530b79f0226c28f70979dcb8&#34;&gt;Cloud Storage - Amazon AWS&lt;/h1&gt;
+
+&lt;p&gt;&lt;b&gt; Inleiding &lt;/b&gt;&lt;/p&gt;
+
+&lt;p&gt;Amazon Web Services is een cloudplatform van de wereldwijde bekende webshop &lt;a class=&#34;link&#34; href=&#34;http://www.amazon.com/&#34;&gt;Amazon&lt;/a&gt;. Op dit platform zijn verschillende webservices beschikbaar. De meest bekende zijn Amazon S3 en Amazon EC2. Amazon wordt niet veel gebruikt bij particulieren maar wordt vooral gebruikt bij grote bedrijven. Dit komt voordeliger uit dan zelf serverfarms te bouwen.&lt;/p&gt;
+
+&lt;p&gt;&lt;b&gt; Gebruik in GEO Solutions &lt;/b&gt;&lt;/p&gt;
+
+&lt;p&gt;De Amazon AWS kan oppervlakkig vergeleken worden met OneDrive, Dropbox, Google Drive. Hoewel AWS eerder gebruikt wordt door grote bedrijven en de andere cloud storages meer gericht zijn op particulieren. Amazon is meer voor bedrijven vanwege de minder gebruiksvriendelijke interface. Ook heeft Amazon geen synchronisatie met een offlinebibliotheek, terwijl anderen dit wel hebben. Toch werd er voor Amazon gekozen omdat deze ook een elastische server integreert. Dit wilt zeggen dat de grootte van de server ‘elastisch’ mee wordt aangepast. Verder heeft Amazon nog vele functies die men kan toevoegen maar hierover was geen sprake in dit geval.&lt;/p&gt;
+
+&lt;p&gt;&lt;b&gt; Mijn mening &lt;/b&gt;&lt;/p&gt;
+
+&lt;p&gt;Ik heb zelf gebruik mogen maken van een ‘bucket’ (map op de cloud) van Amazon. Ik ondervond dat het makkelijk te gebruiken was bij grote bestanden maar redelijk tijds innemend bij kleine gegevensoverdrachten, het duurde te lang om een klein bestand over te zetten. Wanneer ik Amazon verbond aan een andere applicatie (in dit geval ARC Soft) kwam er veel vertraging op de gegevensoverdracht. Amazon is dus goed te gebruiken als standalone voor grote bestanden. Anders wordt een andere server aangeraden, zoals Azure, in geval van bedrijven. Azure is een goede oplossing vanwege de service die men er bij krijgt. Ook is het veel handiger te gebruiken voor sommigen omdat ze producten van Microsoft al gewoon zijn (zoals Windows).&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>TAAK 19 - Welkomstwoord</title>
+      <link>http://jensvl-immalle.github.io/post/Welkomstwoord/</link>
+      <pubDate>Sun, 29 Nov 2015 23:12:32 +0100</pubDate>
+      
+      <guid>http://jensvl-immalle.github.io/post/Welkomstwoord/</guid>
+      <description>&lt;p&gt;&lt;span style=&#34;text-align: center; font-weight: bold; font-size: 50px&#34;&gt; Welkom op mijn site! &lt;/span&gt;&lt;/p&gt;
+
+&lt;p&gt;Beste bezoeker van mijn site, mag ik u van harte verwelkomen op mijn site. Ik hoop dat ik u alvast een goede indruk heb kunnen geven toen u deze site opende. Om u niet op een onbekende persoon zijn site te laten ronddwalen stel ik mezelf even voor.&lt;/p&gt;
+
+&lt;p&gt;Ik ben Jens Van Loon, een leerling van het Immaculata Instituut te Oostmalle. Geboren in het AZ Middelheim in Antwerpen sta ik al 17 jaar op deze wereld. In deze 17 jaren heb ik 13 jaren gedanst. Met driemaal de titel ‘Belgisch Kampioen’ kan ik toch met trots zeggen dat ik al wat bereikt heb in mijn leven. Naast dansen is informatica ook al altijd een belangrijk deel geweest in mijn leven. Op mijn 3 jaar kon ik al beter overweg met computers dan mijn ouders. Nu bent u hier, bezoeker op mijn website, de website van een zesdejaars in Informaticabeheer.&lt;/p&gt;
+
+&lt;p&gt;Mijn hoofddoel voor deze site was het strak design, iets dat dus ook makkelijk te gebruiken is. Ik heb gekozen om de hoofdzaken makkelijk beschikbaar te stellen. Zo kan u al mijn taken gewoon terugvinden op de hoofdpagina, door op een hiervan te klikken opent hij direct en kan u rustig lezen. U kan steeds teruggaan via het &lt;a class=&#34;link&#34; href=&#34;http://jensvl-immalle.github.io/&#34;&gt;“HOME”&lt;/a&gt; knopje in de navigatiebar, die ook op elke pagina aanwezig is. Op mobiele apparaten heb ik gekozen dit weg te laten en de onderdelen enkel via het menu aan de zijkant te laten zien. Als u op de knop &lt;a class=&#34;link&#34; href=&#34;http://jensvl-immalle.github.io/post&#34;&gt;“POSTS”&lt;/a&gt; klikt, vindt u een duidelijk overzicht van alle taken die doorheen het jaar gemaakt worden. Via de knop &lt;a class=&#34;link&#34; href=&#34;http://jensvl-immalle.github.io/project&#34;&gt;“STAGEVERSLAGEN”&lt;/a&gt; komt u bij mijn stageverslagen terecht die u kan opvolgen van &lt;b&gt;11 januari tot 22 januari.&lt;/b&gt; Verder is het gebruik van de site dat voor zichzelf spreekt.&lt;/p&gt;
+
+&lt;p&gt;Hierbij hoop ik u voldoende te hebben ingeleid op mijn site. Wat u verder van mij kan verwachten? Ik ben een gedreven persoon en als ik iets wil bereiken zal ik hiertoe hard werken. In de IT-wereld is de definitie hard werken letterlijk van toepassing en is het geen geluk hebben. Ik zou ten eerste zeker een master-diploma willen krijgen in de toegepaste informatica. Na wat research te hebben gedaan kwam ik erachter dat Google opleidingen aanbied aan leerlingen met een master-diploma. Dit is dan ook mijn grote wens, om dan nadien in Californië aan de slag te kunnen gaan. Wie weet hoort u later nog van mij op een veel grotere schaal, dat is alvast waarnaar ik streef.&lt;/p&gt;
+
+&lt;p&gt;Hierbij laat ik u volledig los op mijn site. U kan rustig mijn posts lezen of mijn stageverslagen. Indien u mij wilt contacteren kan dit steeds via &lt;a class=&#34;link&#34; href=&#34;mailto:jens.vanloon@immalle.be?SUBJECT=Contact via site&amp;BODY=Uw vraag hier ...&#34;&gt;jens.vanloon@immalle.be&lt;/a&gt;. Alvast veel leesplezier gewenst!&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>From Putt-Putt to C# ... my autobiography!</title>
+      <link>http://jensvl-immalle.github.io/post/IT-Autobiography/</link>
+      <pubDate>Sun, 08 Nov 2015 21:08:37 +0200</pubDate>
+      
+      <guid>http://jensvl-immalle.github.io/post/IT-Autobiography/</guid>
+      <description>
+
+&lt;h1 id=&#34;it-autobiography:8934b5ad9d0d9d0c899665409c700bba&#34;&gt;IT-Autobiography&lt;/h1&gt;
+
+&lt;p&gt;My name is Jens Van Loon. I’m an IT student at Immaculata in Oostmalle. I live in Zoersel and I was born in Antwerp. I have been raised with IT and I will probably die with it. I like playing video games like League of Legends. If I had to compare myself with a computer game, I would have been Super Mario, since I am not that aggressive and my life goal could be saving the princess of my dreams!&lt;/p&gt;
+
+&lt;p&gt;When I was 3 years old, I had my first computer and a game, called Putt-Putt. Surprisingly, no one in my family is interested in IT like me but somehow I like everything that has to do with IT. I taught myself a lot of things, I have never used a guide before. Beyond that, I never specialized myself in programming or hardware. After my second grade I started studying IT and here I am now.&lt;/p&gt;
+
+&lt;p&gt;IT kind of changed my lifestyle, if something can be related to IT, I will do so. After I had learned the basics of programming in school, I started to explore programming languages myself. And so now I am learning Scala and AngularJS. The thing that makes me so interested in IT, is because it is continuously changing, everything evolves and gets futuristic, just how I like it. Now I’ve learned some more about IT, I start feeling a bit more ‘experienced’. When there is a problem with something IT-related in the family, they call me to ask for help. With pride, I will help everyone.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;http://jensvl-immalle.github.io/images/me.jpg&#34; alt=&#34;This is me!&#34; style=&#34;width: 35%; float: right&#34;&gt;
+Since I started studying IT, I have had a whole new job goal. I would like to work in the USA, especially at Google. Google is a company that is an example for me. It has reached a lot, starting with one simple website. I would like to infiltrate into Google and get higher as I get better. Eventually, if I can’t reach this goal, I would like to do the same thing here in Belgium. Having a high function is something I would like to achieve. I’m a leader type and I want to use it. Although I always wanted to make my own operating system, I realized that it is hardly possible to achieve. But I’m quite sure I will get a high position in the IT world since I’m an ambitious person with a great and open mind.
+&lt;/img&gt;&lt;/p&gt;
+
+&lt;p&gt;Accordingly to how my life has already changed into an IT life, I think it will change a lot more. At this moment, I can’t imagine a life without IT. IT has become a big part of me and I will keep it like that. Oh, and the reason I don’t wear glasses like a lot of IT persons, is because I C#.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Case Study - GEO Solutions</title>
+      <link>http://jensvl-immalle.github.io/post/CaseStudy/</link>
+      <pubDate>Wed, 28 Oct 2015 00:00:00 +0000</pubDate>
+      
+      <guid>http://jensvl-immalle.github.io/post/CaseStudy/</guid>
+      <description>
+
+&lt;h1 id=&#34;case-study-bij-geo-solutions:012002a4ccf4c08711ada36cec8a571e&#34;&gt;Case study bij GEO Solutions&lt;/h1&gt;
+
+&lt;p&gt;&lt;b&gt;Onderwerp:&lt;/b&gt;&lt;/p&gt;
+
+&lt;p&gt;Hybride Clouds&lt;/p&gt;
+
+&lt;p&gt;&lt;b&gt; Beschrijving:&lt;/b&gt;&lt;/p&gt;
+
+&lt;p&gt;Het gebruik van verschillende cloudtechnologieën door elkaar. Ik zal het
+gebruik van private en public clouds moeten onderzoeken. Bij de
+publieke cloud staan de services en de software op een externe server
+van de dienstverlener (bv. Google Drive). Bij de private cloud wordt hij
+in een netwerk zelf gecreëerd (bv. Azure). De combinatie zorgt er dus
+voor dat men de voordelen van beide technologieën gaan combineren
+om bv. betere veiligheid te garanderen of rappere gegevensoverdracht.&lt;/p&gt;
+
+&lt;p&gt;&lt;b&gt;Bronnen:&lt;/b&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://nl.wikipedia.org/wiki/Cloud_computing&#34;&gt;Wikipedia&lt;/a&gt; -
+&lt;a class=&#34;link&#34; href=&#34;http://searchcloudcomputing.techtarget.com/definition/hybrid-cloud&#34;&gt;searchcloudcomputing&lt;/a&gt; -
+&lt;a class=&#34;link&#34; href=&#34;http://www.winmagpro.nl/content/cloud-computing-kiezen-tussen-private-public-hybride-cloudd&#34;&gt;winmagpro&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;b&gt;Communicatie:&lt;/b&gt;&lt;/p&gt;
+
+&lt;p&gt;Deze werd in combinatie met een ander gespreksonderwerp gedaan
+en werd ook al vooraf deels besproken op sollicitatiegesprek.&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;Beste
+Ik verwacht spoedig de nodige documenten te kunnen doorsturen. Mijn examens lopen van 2 december tot 15 december.
+Ik heb ook nog voor mijn GIP de opdrachten gekregen om een case study te maken van een component in mijn stage bedrijf. Dit zou iets moeten zijn dat we niet in school kunnen bespreken of wat uniek is aan jullie bedrijf. Indien u een voorstel heeft mag u dit altijd laten weten.
+Alvast bedankt,
+Met vriendelijke groeten,
+Jens Van Loon&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;hr /&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;Hallo Jens,
+Bedankt.
+Laat ons dan ergens tss 15 en 20 dec afspreken.  Die case study zullen we zeker kunnen vinden.
+Mvg, Rombout&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;../CaseStudy2/&#34;&gt;Hier&lt;/a&gt; vindt u deel 2 van deze taak.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>FAQ</title>
+      <link>http://jensvl-immalle.github.io/post/FAQ/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://jensvl-immalle.github.io/post/FAQ/</guid>
+      <description>&lt;div class=&#34;mdl-tabs mdl-js-tabs mdl-js-ripple-effect&#34;&gt;
+  &lt;div class=&#34;mdl-tabs__tab-bar&#34;&gt;
+      &lt;a href=&#34;#Français&#34; class=&#34;mdl-tabs__tab is-active&#34;&gt;Français&lt;/a&gt;
+      &lt;a href=&#34;#Nederlands&#34; class=&#34;mdl-tabs__tab&#34;&gt;Nederlands&lt;/a&gt;
+  &lt;/div&gt;
+
+&lt;p&gt;&lt;div class=&#34;mdl-tabs__panel is-active&#34; id=&#34;Français&#34;&gt;&lt;/p&gt;
+
+&lt;!-- FRANSE VERSIE --&gt;
+
+&lt;p&gt;&lt;span style=&#34;font-size:21.5px; font-style: italic&#34;&gt; Bonjour cher visiteur a mon Foire Aux Questions!
+  Si vous avez des questions sur MS Office 365 &amp;amp; OneDrive, vous trouverez des réponses ici. &lt;/span&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;span class=&#34;ptitel&#34;&gt; Il y a des différences entre Office online et Office offline? &lt;/span&gt;&lt;/p&gt;
+
+&lt;p&gt;Oui, il y a des différences. Ainsi, il y a moins d’options pour la mise en page. Mais pas de souci, Office online a aussi beaucoup de bonnes options.&lt;/p&gt;
+
+&lt;p&gt;&lt;span class=&#34;ptitel&#34;&gt; Où peut-on utiliser OneDrive? &lt;/span&gt;&lt;/p&gt;
+
+&lt;p&gt;OneDrive est une application multiplateforme. Vous pouvez l’utiliser partout.
+  Il y a des applications pour iOS, Mac, Android, Windows. Vous pouvez y gérer tous vos fichiers et plus.&lt;/p&gt;
+
+&lt;p&gt;&lt;span class=&#34;ptitel&#34;&gt; Comment partager des fichiers avec OneDrive for Business? &lt;/span&gt;&lt;/p&gt;
+
+&lt;p&gt;OneDrive a un avantage pour partager des documents.
+  C&amp;rsquo;est facile à utiliser. Suivez ces étapes:&lt;/p&gt;
+
+&lt;ol&gt;
+&lt;li&gt;&lt;p&gt;Vous devez cliquer à gauche du nom de votre fichier pour sélectionner le fichier que vous voulez partager.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Après vous cliquez en haut pour partager.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Maintenant vous voyez un menu avec les options que vous pouvez choisir.&lt;/p&gt;&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;&lt;span class=&#34;ptitel&#34;&gt; Quels types de documents peut-on télécharger? &lt;/span&gt;&lt;/p&gt;
+
+&lt;p&gt;Il y a 2 options pour téléverser des documents en OneDrive online.
+  Vous pouvez créer de nouveaux documents d&amp;rsquo;Office comme PowerPoint, Word, Excel, …
+  mais il y a aussi une option pour téléverser des documents de tous types de votre ordinateur avec un maximum de 10 GiB.&lt;/p&gt;
+
+&lt;p&gt;&lt;span class=&#34;ptitel&#34;&gt; Une connexion Internet est-elle requise pour Office 365 ? &lt;/span&gt;&lt;/p&gt;
+
+&lt;p&gt;Non, pour utiliser Office, une connexion Internet n&amp;rsquo;est pas nécessaire.
+  Néanmoins, l&amp;rsquo;installation exige une connexion.
+  Une connexion offre aussi plus de fonctions que l’utilisation sans connexion:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Services cloud (Synchronisation avec OneDrive et Office online)&lt;/li&gt;
+&lt;li&gt;E-mail&lt;/li&gt;
+&lt;li&gt;IT Management&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Donc, quand vous exécutez des changements lorsque vous êtes déconnecté une synchronisation aura lieu quand vous allez en ligne.&lt;/p&gt;
+
+&lt;p&gt;&lt;span class=&#34;ptitel&#34;&gt; Comment peut-on changer une extension Office 365 ? &lt;/span&gt;&lt;/p&gt;
+
+&lt;p&gt;En Office vous pouvez utiliser plus que les extensions standard seulement.
+  Si vous voulez adapter l&amp;rsquo;extension en PDF dans Word par exemple, c&amp;rsquo;est simple par quelques clics. Procédez comme suit:&lt;/p&gt;
+
+&lt;ol&gt;
+&lt;li&gt;&lt;p&gt;Cliquez sur ‘fichier’ au coin supérieur gauche de votre document et après ‘enregistrer sous’.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Maintenant vous choisissez la place d’enregistrement de votre document.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Sous le cadre ‘enregistrer’ vous voyez le cadre où vous pouvez changer l&amp;rsquo;extension.&lt;/p&gt;&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;&lt;span class=&#34;ptitel&#34;&gt; Qu&amp;rsquo;est-ce que le cloud? &lt;/span&gt;&lt;/p&gt;
+
+&lt;p&gt;Le cloud est une désignation pour les services basés sur le web. Le cloud est utilisé par plusieurs applications.
+  OneDrive est une partie du cloud Office.
+  Dans le cloud, vous pouvez stocker des documents, synchroniser avec OneDrive, téléphoner avec Lync etcétéra.
+  Le cloud n&amp;rsquo;a pas d’interface mais OneDrive apporte certaines fonctions.&lt;/p&gt;
+
+&lt;p&gt;&lt;span class=&#34;ptitel&#34;&gt; Comment pouvez-vous protéger votre document? &lt;/span&gt;&lt;/p&gt;
+
+&lt;p&gt;Quand vous avez un document secret ou quand personne ne peut adapter votre document, vous pouvez protéger votre document:&lt;/p&gt;
+
+&lt;ol&gt;
+&lt;li&gt;&lt;p&gt;Cliquez sur ‘fichier’ au coin supérieur gauche de votre document. Vous voyez un cadre avec le titre &amp;ldquo;Protéger le document&amp;rdquo;.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Comme vous cliquez sur ce cadre vous voyez un menu avec les différentes options pour protéger votre document.
+&lt;/div&gt;
+&lt;div class=&#34;mdl-tabs__panel&#34; id=&#34;Nederlands&#34; markdown=&#34;1&#34;&gt;&lt;/p&gt;&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;&lt;span style=&#34;font-size:20px; font-style: italic&#34;&gt;Welkom op mijn Frequently Asked Questions pagina!
+  Als u een vraag heeft over MS Office 365 &amp;amp; OneDrive, kan u hier een antwoord vinden.&lt;/span&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;span class=&#34;ptitel&#34;&gt; Wat is het verschil tussen OneDrive en Dropbox? &lt;/span&gt;&lt;/p&gt;
+
+&lt;p&gt;Hier ziet u een overzicht van enkele verschillen tussen OneDrive en Dropbox:&lt;/p&gt;
+
+&lt;ol&gt;
+&lt;li&gt;&lt;p&gt;Elk bestandstype kan op beide worden geüpload maar op Dropbox heb je niet de mogelijkheid om bestanden online te bewerken of te openen. Bij OneDrive heb je deze mogelijkheid bij veel bestandstypes wel.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Bij Dropbox start je maar met 2 GiB gratis opslag ruimte, bij OneDrive heb je gratis … GiB opslag ruimte. Beide kan je verhogen door betalingen. Bij Dropbox kan je ook extra GiB opslag ruimte verdienen door bijvoorbeeld je Facebook vrienden uit te nodigen om Dropbox te gebruiken.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Alleen Dropbox is beschikbaar op Linux apparaten maar Dropbox is dan weer niet beschikbaar op Windows Phones. OneDrive kan men op elk apparaat gebruiken behalve met Linux.&lt;/p&gt;&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;&lt;span class=&#34;ptitel&#34;&gt;Wat is er verandert in Office 2013 ten opzichte van Office 2007?&lt;/span&gt;&lt;/p&gt;
+
+&lt;p&gt;Er zijn verschillende punten verandert in Office 2013, hier heeft u een overzicht van de belangrijkste veranderingen:&lt;/p&gt;
+
+&lt;ol&gt;
+&lt;li&gt;&lt;p&gt;Men heeft ervoor gezorgd dat het aangenamer werken is via je tablet of smartphone bij de nieuwe Office versie. De apps zullen een aangepaste lay-out hebben en tussen de bewerkingsknoppen heeft men meer plaats gelaten voor eenvoudigere interactie met vinger of pen.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Office 2013 is enkel maar beschikbaar vanaf Windows 7 of hoger. De interactie tussen Office 2013 en Windows 8 verloopt daardoor perfect.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;De online Cloud services zijn geoptimaliseerd voor betere prestaties. Het online bewerken van documenten verloopt nu vrijwel zonder problemen.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;U kunt via Word snel en eenvoudig online foto&amp;rsquo;s/video&amp;rsquo;s toevoegen aan je Word documenten. Er is daarbij ook een eenvoudige optie om dit via je persoonlijke OneDrive te doen.
+Alles is dus gebruiksvriendelijker en eenvoudiger gemaakt: sneller, verzorgdere lay-out, meer georganiseerd, … .&lt;/p&gt;&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;&lt;span class=&#34;ptitel&#34;&gt; Is er een verschil tussen Office online en Office offline? &lt;/span&gt;&lt;/p&gt;
+
+&lt;p&gt;Ja, er zijn enkele verschillen. Je hebt bijvoorbeeld minder opmaak mogelijkheden bij Office online dan bij Office online.
+  Maar het principe blijft hetzelfde. Er zijn nog altijd wel veel opties ter beschikken in Office online.&lt;/p&gt;
+
+&lt;p&gt;&lt;span class=&#34;ptitel&#34;&gt; Hoe beschermt u uw documenten tegen aanpassingen van andere gebruikers? &lt;/span&gt;
+  Als u een privé document hebt of als u een document hebt dat andere gebruikers
+  mogen lezen maar niet mogen bewerken kunt u altijd uw document beschermen:&lt;/p&gt;
+
+&lt;ol&gt;
+&lt;li&gt;&lt;p&gt;In de linkerbovenhoek van uw document klikt u op &amp;ldquo;Bestand&amp;rdquo;. Vervolgens gaat u naar &amp;ldquo;Info&amp;rdquo;. Hier ziet u het kadertje &amp;ldquo;Document beveiligen&amp;rdquo;.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Als u hierop klikt ziet u een overzicht met de verschillende beveiligingsopties. Nu kan u uw document beveiligen naar hoe u het wilt.&lt;/p&gt;&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;&lt;span class=&#34;ptitel&#34;&gt; Waar kan u OneDrive overal gebruiken? &lt;/span&gt;
+  OneDrive is een toepassing dat op verschillende platformen werkt. U kan het op zo&lt;br /&gt;
+  goed als elk toestel gebruiken. U kan het bijvoorbeeld downloaden op uw computer of het downloaden als een app voor iOS, Android, Windows. Zo heeft u toegang tot al u documenten waar u ook bent.&lt;/p&gt;
+
+&lt;p&gt;&lt;span class=&#34;ptitel&#34;&gt; Hoe kunt u bestanden delen met OneDrive for Business? &lt;/span&gt;&lt;/p&gt;
+
+&lt;p&gt;Het is heel eenvoudig om documenten te delen via OneDrive for Business.
+  Volg deze stappen en u hebt in enkele minuten een bestand gedeeld:&lt;/p&gt;
+
+&lt;ol&gt;
+&lt;li&gt;&lt;p&gt;U moet links naast de naam van u document klikken om het document te selecteren dat u wilt delen.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Daarna klikt u vanboven op delen.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Nu ziet u een menu met verschillende opties voor het delen. U kan hier ook de persoon/personen ingeven waarmee u het bestand wilt delen.&lt;/p&gt;&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;&lt;span class=&#34;ptitel&#34;&gt; Welke bestandstypes kan u uploaden op OneDrive? &lt;/span&gt;&lt;/p&gt;
+
+&lt;p&gt;Er zijn twee opties die u kan kiezen voor het uploaden van bestanden in OneDrive online.
+  U kan een nieuw Office document aanmaken zoals Excel, Word, PowerPoint, …
+  Maar u heeft ook een upload mogelijkheid voor alle verschillende bestanden op uw computer, bijvoorbeeld: muziek, films, … .
+  Per account kan je een maximum van 10 GiB uploaden.
+  &lt;span class=&#34;ptitel&#34;&gt; Hoe verandert u de extensie van een bestand in Office 365? &lt;/span&gt;&lt;/p&gt;
+
+&lt;p&gt;In Office hebt u de mogelijkheid om meerdere extensies te gebruiken dan enkel de standaard extensies van Office.
+  Zo kan u bijvoorbeeld heel eenvoudige een Word document veranderen in een PDF document door enkele eenvoudige stappen:&lt;/p&gt;
+
+&lt;ol&gt;
+&lt;li&gt;&lt;p&gt;Klik in de linkerbovenhoek op &amp;ldquo;Bestand&amp;rdquo; en vervolgens op &amp;ldquo;Opslaan als&amp;rdquo;.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Nu kiest u de plaats waar u het bestand wilt opslaan op uw computer.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Onder de kader waar u de opslagplaats van het bestand kan kiezen ziet u een kadertje waar u de extensie van het bestand kan bepalen door gewoonweg erop te klikken.&lt;/p&gt;
+
+&lt;p&gt;&lt;/div&gt;
+&lt;/div&gt;&lt;/p&gt;&lt;/li&gt;
+&lt;/ol&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

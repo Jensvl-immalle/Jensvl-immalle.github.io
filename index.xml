@@ -1,0 +1,232 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>GIP Jens VL 2015 - 2016</title>
+    <link>http://jensvl-immalle.github.io/</link>
+    <description>Recent content on GIP Jens VL 2015 - 2016</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 17 Mar 2016 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://jensvl-immalle.github.io/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Pour un reportage du photos de GEO Solutions, CLIQUEZ ICI!</title>
+      <link>http://jensvl-immalle.github.io/post/reportage/</link>
+      <pubDate>Thu, 17 Mar 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://jensvl-immalle.github.io/post/reportage/</guid>
+      <description>
+
+&lt;h2 id=&#34;un-reportage-photos-du-geo-solutions:129ab08176e32a7903c8a41ec33d9099&#34;&gt;Un reportage photos du GEO Solutions&lt;/h2&gt;
+
+&lt;iframe src=&#34;https://www.haikudeck.com/e/7a84fb0bda/?isUrlHashEnabled=false&amp;isPreviewEnabled=false&amp;isHeaderVisible=false&#34; width=&#34;640&#34; height=&#34;541&#34; frameborder=&#34;0&#34; marginheight=&#34;0&#34; marginwidth=&#34;0&#34;&gt;&lt;/iframe&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Review of a network tool in the training company - GEO Solutions</title>
+      <link>http://jensvl-immalle.github.io/post/review/</link>
+      <pubDate>Thu, 17 Mar 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://jensvl-immalle.github.io/post/review/</guid>
+      <description>
+
+&lt;h2 id=&#34;my-review-of-amazon-aws:2cd397b25e1ccda644282ccdbd547c8a&#34;&gt;My review of Amazon AWS&lt;/h2&gt;
+
+&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;http://www.pcmag.com/article2/0,2817,2458757,00.asp&#34;&gt;&amp;amp; the review of PCmag&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Amazon AWS are cloud services that are hosted by Amazon. With Amazon AWS you can either store files on the cloud and collect them elsewhere. You can also make use of a virtual server which gives you a server in a server, which can be used in different circumstances. It also has a lot of other advanced features you can use.&lt;/p&gt;
+
+&lt;p&gt;Pcmag wrote an article about Amazon EC2, a part of Amazon AWS. They stated that Amazon AWS probably is the most expansive and customizable cloud server of all. They compared AWS with Azure and Rackspace. Overall, Amazon AWS is the best one in the market. First of all, the pricing is better than Azure and Rackspace. Although the support is worse, if you have the knowledge, you don’t need the support. Amazon AWS is more likely to be used as a standalone server, while Azure is perfect compatible with other Microsoft products (like word, access …). Besides that, Amazon has a marketplace, making it also attractive for the usability with other applications. I definitely agree with the review of pcmag. Amazon AWS is better than most of the other cloud services.&lt;/p&gt;
+
+&lt;p&gt;When I first used Amazon AWS, I noticed it has a complicated interface since it is more used by big companies rather than private. A positive point on the advanced features, and its complicated interface, is that it is customizable to however you like it. The basics of Amazon AWS can be compared with OneDrive, Google Drive, Dropbox, … Another great thing about Amazon AWS is the pricing. It is extremely cheap for what you get and there are no minimum costs.&lt;/p&gt;
+
+&lt;p&gt;After using Amazon AWS for a while and discovering all of its features there is one thing that bothered me the most. Amazon AWS is mostly used as a standalone server and you can feel that when using it. It has a bad compatibility with other applications unlike Microsoft Azure (business version of OneDrive). This can be a big factor as to whether someone chooses for Azure or AWS since usability is a must-have these days. Furthermore you require some skill to use AWS entirely.&lt;/p&gt;
+
+&lt;p&gt;I surely recommend Amazon AWS for big companies. Firstly the prices are interesting, even on a big scale. Because it is more difficult to use I won’t recommend it to smaller businesses or for private usage. You’ll need someone with knowledge of network engineering to get the full use of Amazon AWS.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Case Study - Vervolg</title>
+      <link>http://jensvl-immalle.github.io/post/CaseStudy2/</link>
+      <pubDate>Mon, 01 Feb 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://jensvl-immalle.github.io/post/CaseStudy2/</guid>
+      <description>
+
+&lt;h1 id=&#34;cloud-storage-amazon-aws:d237c511530b79f0226c28f70979dcb8&#34;&gt;Cloud Storage - Amazon AWS&lt;/h1&gt;
+
+&lt;p&gt;&lt;b&gt; Inleiding &lt;/b&gt;&lt;/p&gt;
+
+&lt;p&gt;Amazon Web Services is een cloudplatform van de wereldwijde bekende webshop &lt;a class=&#34;link&#34; href=&#34;http://www.amazon.com/&#34;&gt;Amazon&lt;/a&gt;. Op dit platform zijn verschillende webservices beschikbaar. De meest bekende zijn Amazon S3 en Amazon EC2. Amazon wordt niet veel gebruikt bij particulieren maar wordt vooral gebruikt bij grote bedrijven. Dit komt voordeliger uit dan zelf serverfarms te bouwen.&lt;/p&gt;
+
+&lt;p&gt;&lt;b&gt; Gebruik in GEO Solutions &lt;/b&gt;&lt;/p&gt;
+
+&lt;p&gt;De Amazon AWS kan oppervlakkig vergeleken worden met OneDrive, Dropbox, Google Drive. Hoewel AWS eerder gebruikt wordt door grote bedrijven en de andere cloud storages meer gericht zijn op particulieren. Amazon is meer voor bedrijven vanwege de minder gebruiksvriendelijke interface. Ook heeft Amazon geen synchronisatie met een offlinebibliotheek, terwijl anderen dit wel hebben. Toch werd er voor Amazon gekozen omdat deze ook een elastische server integreert. Dit wilt zeggen dat de grootte van de server ‘elastisch’ mee wordt aangepast. Verder heeft Amazon nog vele functies die men kan toevoegen maar hierover was geen sprake in dit geval.&lt;/p&gt;
+
+&lt;p&gt;&lt;b&gt; Mijn mening &lt;/b&gt;&lt;/p&gt;
+
+&lt;p&gt;Ik heb zelf gebruik mogen maken van een ‘bucket’ (map op de cloud) van Amazon. Ik ondervond dat het makkelijk te gebruiken was bij grote bestanden maar redelijk tijds innemend bij kleine gegevensoverdrachten, het duurde te lang om een klein bestand over te zetten. Wanneer ik Amazon verbond aan een andere applicatie (in dit geval ARC Soft) kwam er veel vertraging op de gegevensoverdracht. Amazon is dus goed te gebruiken als standalone voor grote bestanden. Anders wordt een andere server aangeraden, zoals Azure, in geval van bedrijven. Azure is een goede oplossing vanwege de service die men er bij krijgt. Ook is het veel handiger te gebruiken voor sommigen omdat ze producten van Microsoft al gewoon zijn (zoals Windows).&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Huisstijl van GEO Solutions</title>
+      <link>http://jensvl-immalle.github.io/post/huisstijl/</link>
+      <pubDate>Mon, 01 Feb 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://jensvl-immalle.github.io/post/huisstijl/</guid>
+      <description>
+
+&lt;h2 id=&#34;huisstijl-geo-solutions:e2d1e8b2c3f026f63366bcfa3bb15b30&#34;&gt;HUISSTIJL - GEO SOLUTIONS&lt;/h2&gt;
+
+&lt;p&gt;&lt;img src=&#34;../../images/geologo.png&#34; alt=&#34;geologo&#34;&gt;&lt;/p&gt;
+
+&lt;p&gt;De huisstijl van GEO Solutions is dezelfde lijn overal doorgetrokken. Een abstracte voorstelling van de aarde (de lichtblauwe cirkel) met kruisende wegen (de donkerblauwe lijnen). Dit kleurenpalet wordt dan ook gebruikt bij opmaak van documenten, facturen, etc. Meestal wordt het logo ook in combinatie met de naam gecombineerd, apart komen ze zelden voor. In het bedrijf zijn er ook vaste regels in het opmaken van documenten qua lettertype, grootte, kleur, lijsten, tabellen … Ze gebruiken dan ook veel op voorhand gemaakte ontwerpen. In de bijgevoegde documenten kan u deze informatie en een voorbeeld vinden.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>DAG 10</title>
+      <link>http://jensvl-immalle.github.io/project/dag10/</link>
+      <pubDate>Fri, 22 Jan 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://jensvl-immalle.github.io/project/dag10/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>DAG 9</title>
+      <link>http://jensvl-immalle.github.io/project/dag9/</link>
+      <pubDate>Thu, 21 Jan 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://jensvl-immalle.github.io/project/dag9/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>DAG 8</title>
+      <link>http://jensvl-immalle.github.io/project/dag8/</link>
+      <pubDate>Wed, 20 Jan 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://jensvl-immalle.github.io/project/dag8/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>DAG 7</title>
+      <link>http://jensvl-immalle.github.io/project/dag7/</link>
+      <pubDate>Tue, 19 Jan 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://jensvl-immalle.github.io/project/dag7/</guid>
+      <description>&lt;p&gt;Ik heb vandaag begrepen dat onderzoek een belangrijk onderdeel is in IT. Als je niet weet waarmee je werkt geraak je niet ver. Vandaag heb ik dan mijn kennis van GIS kunnen toepassen en weet ik wat verschillende factoren kunnen zijn die de snelheid van transfer tussen back-end en front-end goed of slecht maken.&lt;/p&gt;
+
+&lt;p&gt;Onderzoek is nooit echt interessant maar wel nuttig voor later gebruik. Nu weet ik waar ik op moet letten als ik morgen snelheidstesten ga doen. Ik begin wat moe te worden van het ‘kantoorleven’ maar het is een aanpassing die te kort is op 2 weken.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>DAG 6</title>
+      <link>http://jensvl-immalle.github.io/project/dag6/</link>
+      <pubDate>Mon, 18 Jan 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://jensvl-immalle.github.io/project/dag6/</guid>
+      <description>&lt;p&gt;Ik ben begonnen met de amazon server te onderzoeken. Ik heb mijn persoonlijke ruimte op de cloud server gekregen en heb de opdracht gekregen alles zelf wat te ontdekken. Ik ben dan ook begonnen aan een analyse over de up- en downloadsnelheid van verschillende cloud servers.&lt;/p&gt;
+
+&lt;p&gt;Ik vind het heel leuk dat ze mij materiaal geven om te ontdekken en dat ik zelf mag uitpluizen wat waarvoor dient. Ik heb een stappenplan om de analyse correct uit te voeren en morgen onderzoek ik de probleemstelling (wat bepaald de snelheid, wat kan er beter, &amp;hellip; )&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>DAG 5</title>
+      <link>http://jensvl-immalle.github.io/project/dag5/</link>
+      <pubDate>Fri, 15 Jan 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://jensvl-immalle.github.io/project/dag5/</guid>
+      <description>&lt;p&gt;De systeemherstel van gisteren heeft niet geholpen en ik heb een andere pc van een collega te leen gekregen. Ik ben dan direct aan de slag gegaan met mijn opdracht. Ik heb het programma PerfQAnalyzer gedownload om performance testen uit te voeren met databases en alles begint op zijn plaats te komen.&lt;/p&gt;
+
+&lt;p&gt;Week 1 ging niet zo vlot maar vandaag is alles in orde gemaakt. Ik heb de laptop mee naar huis gekregen om eventueel al verder te werken om de verloren tijd terug te winnen. Thuis heb ik nog wat geoefend met de performance tool. Maandag mag ik aan de slag gaan met mijn eerste server, Amazon S3.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>DAG 4</title>
+      <link>http://jensvl-immalle.github.io/project/dag4/</link>
+      <pubDate>Wed, 13 Jan 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://jensvl-immalle.github.io/project/dag4/</guid>
+      <description>&lt;p&gt;Mijn stagementor had heel de dag meetings. Hierdoor kon ik niet verder aan een opdracht. Ik heb nog geprobeerd de pc te herstellen maar uiteindelijk resulteerde het in een chaos en kon ik niets doen vandaag. Ik heb wat meegekeken met mijn collega’s die bezig waren met SQL. Zij waren net zoals mij net begonnen met het leren van PHP. De dag afgesloten met een systeemherstel uit te voeren op mijn kapotte pc.&lt;/p&gt;
+
+&lt;p&gt;Vandaag was het geen aangename werkdag. Niets ging vooruit en alles leek in het honderd te lopen. Ik ben al wel blij dat ze met iets bezig waren wat ik dan nog wat snapte en was het dus geen nutteloze dag.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>DAG 3</title>
+      <link>http://jensvl-immalle.github.io/project/dag3/</link>
+      <pubDate>Tue, 12 Jan 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://jensvl-immalle.github.io/project/dag3/</guid>
+      <description>&lt;p&gt;Vandaag heb ik weinig kunnen doen, helaas. Ik had last van een oplosbaar probleem. De computer liet me op geen enkele manier het .NET Framework installeren. Iedereen heeft zitten meedenken maar niets werkte.  Zo had ik tijd gekregen om nog aan andere GIP opdrachten te werken terwijl mijn mentor in een meeting zat. Op het einde van de dag hebben we nog een laatste poging gedaan door heel de pc te resetten, morgen weet ik hier het resultaat van.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>DAG 2</title>
+      <link>http://jensvl-immalle.github.io/project/dag2/</link>
+      <pubDate>Mon, 11 Jan 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://jensvl-immalle.github.io/project/dag2/</guid>
+      <description>&lt;p&gt;Vandaag ging de dag al veel ontspannender. Ik had de opdracht gekregen om verschillende cloudservices te onderzoeken en een kleine kostenraming te maken. Ik heb een eigen laptop ter beschikking gekregen en een pas wat al direct een goed gevoel gaf. Tussendoor keek ik af en toe mee met anderen en zo bleek dat bijvoorbeeld JavaScript veel moeilijker kan zijn dan ik het ken. Vandaag heb ik ook wat netwerken gelegd en gepraat met anderen en hun functies leren kennen.&lt;/p&gt;
+
+&lt;p&gt;Een rustige dag met veel opzoekwerk, zowel digitaal als mondeling. Niet veel bijgeleerd vandaag maar ik denk dat dit een opbouw is naar iets nieuws voor me. Gewoon een idee krijgen van wat de kosten zijn kan soms ook al eens interessant zijn.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>DAG 1</title>
+      <link>http://jensvl-immalle.github.io/project/dag1/</link>
+      <pubDate>Sun, 10 Jan 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://jensvl-immalle.github.io/project/dag1/</guid>
+      <description>&lt;p&gt;Vandaag was mijn eerste dag op het bedrijf. Ik kwam binnen in het nieuwe (indrukwekkende) kantoorgebouw waar ik meteen ontvangen werd door een collega. Ik kreeg uitgelegd hoe ze hier werkten. Ik heb de basis van GIS gekregen omdat dit het element is waar dit bedrijf zich met bezighoudt. Om netwerkgericht te kunnen gaan werken moest ik vandaag dus GIS onderzoeken en mocht ik al met enkele programma&amp;rsquo;s werken zoals QGIS.&lt;/p&gt;
+
+&lt;p&gt;GIS is niet per se waar ik voor gekomen ben maar het is zeker leuk om te weten waar het bedrijf zich met bezighoudt. Zo ben ik te weten gekomen dat ze de kaarten bezorgen voor onderhande TomTom en Pidpa. Ik ben benieuwd wat mijn opdracht de morgen zal zijn.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>IT-Tapa Videos</title>
+      <link>http://jensvl-immalle.github.io/post/videos/</link>
+      <pubDate>Wed, 09 Dec 2015 18:50:21 +0100</pubDate>
+      
+      <guid>http://jensvl-immalle.github.io/post/videos/</guid>
+      <description>&lt;div class=&#34;mdl-tabs mdl-js-tabs mdl-js-ripple-effect&#34;&gt;
+
+  &lt;div class=&#34;mdl-tabs__tab-bar&#34;&gt;  
+      &lt;a href=&#34;#Nederlands&#34; class=&#34;mdl-tabs__tab is-active&#34;&gt;Nederlands&lt;/a&gt;
+      &lt;a href=&#34;#English&#34; class=&#34;mdl-tabs__tab&#34;&gt;English&lt;/a&gt;
+  &lt;/div&gt;
+
+&lt;p&gt;&lt;div class=&#34;mdl-tabs__panel is-active&#34; id=&#34;Nederlands&#34;&gt;
+  Hier vindt u de videos die gemaakt zijn door mij en &lt;a class=&#34;link&#34; href=&#34;http://vincent-boden.github.io/&#34;&gt;Vincent Boden&lt;/a&gt;.&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;&lt;iframe width=&#34;854&#34; height=&#34;480&#34; src=&#34;https://www.youtube.com/embed/2NbMCpBh0x8&#34; frameborder=&#34;0&#34; allowfullscreen&gt;&lt;/iframe&gt;
+  &lt;/div&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;div class=&#34;mdl-tabs__panel&#34; id=&#34;English&#34; markdown=&#34;1&#34;&gt;
+  Here you can find the instruction video I made with &lt;a class=&#34;link&#34; href=&#34;http://vincent-boden.github.io/&#34;&gt;Vincent Boden&lt;/a&gt;.&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;&lt;iframe width=&#34;854&#34; height=&#34;480&#34; src=&#34;https://www.youtube.com/embed/g0GjSCenFNs&#34; frameborder=&#34;0&#34; allowfullscreen&gt;&lt;/iframe&gt;
+    &lt;/div&gt;
+&lt;/div&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

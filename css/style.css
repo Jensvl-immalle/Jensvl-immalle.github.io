@@ -1,0 +1,104 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+a{
+    color: black;
+    text-decoration: none;
+    display: block;
+}
+button{
+    float: left;
+    margin: 1.75%;
+    width: 100px;
+    height: 40px;
+    border: 2px solid white;
+}
+body{
+    background: url("/images/background.jpg");
+    font-family: sans-serif;
+}
+header{
+    background-color: #ffffff;
+    width: 100%;
+    min-height: 100px;
+    text-align: center;
+    border-bottom: 10px solid yellowgreen;
+    color: darkslategray;
+}
+header h1{
+    -webkit-font-smoothing: antialiased;
+    display:inline-block;
+    font: 800 1.313em "proxima-nova",sans-serif;
+    letter-spacing: 8px;
+    line-height: 100px;
+    font-size:3.125em;
+    text-align: center;
+}
+nav{
+    margin: 0 15%;
+    height: 100%;
+    background-color: #ffffff;
+}
+nav ul{
+    font: 800 1.313em "proxima-nova",sans-serif;
+    letter-spacing: 2px;
+    text-transform: uppercase;
+    display: inline-block;
+    text-align: center;
+    height: 80px;
+    padding: 0;
+    width: 33.333%;
+
+    font-size: 18px;
+    font-weight: bold;
+    line-height: 80px;
+}
+.content {
+    display: none;
+    position: absolute;
+    background-color: #ffffff;
+    width: 23.3%;
+    box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2);
+}
+
+.content a {
+    color: black;
+    text-decoration: none;
+    display: inline-block;
+    float: left;
+    width: 50%;
+}
+
+nav ul:hover .content{
+    display: block;
+}
+nav ul a:hover{
+    background-color: yellowgreen;
+    transition: all 0.3s;
+}
+#container{
+    margin: 2% 15%;
+    height: 100vh;
+    width: 70%;
+    background-color: #efefef;
+}
+.active{
+    height: 80px;
+    box-sizing: border-box;
+    background-color: yellowgreen;
+
+}
+canvas{
+    margin: 5% 0;
+    width: 90%;
+}
+
+
+/* KLEUREN PALLET
+#3793cf - lichtblauw
+#e06d5c - roodoranje
+#354458 - donkerblauw
+#29aba4 - appelblauwzeegroen
+#efefef - gebroken wit
+*/
