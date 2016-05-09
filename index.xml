@@ -10,20 +10,6 @@
     <atom:link href="http://jensvl-immalle.github.io/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
-      <title>Pour un reportage du photos de GEO Solutions, CLIQUEZ ICI!</title>
-      <link>http://jensvl-immalle.github.io/post/reportage/</link>
-      <pubDate>Thu, 17 Mar 2016 00:00:00 +0000</pubDate>
-      
-      <guid>http://jensvl-immalle.github.io/post/reportage/</guid>
-      <description>
-
-&lt;h2 id=&#34;un-reportage-photos-du-geo-solutions:129ab08176e32a7903c8a41ec33d9099&#34;&gt;Un reportage photos du GEO Solutions&lt;/h2&gt;
-
-&lt;iframe src=&#34;https://www.haikudeck.com/e/7a84fb0bda/?isUrlHashEnabled=false&amp;isPreviewEnabled=false&amp;isHeaderVisible=false&#34; width=&#34;640&#34; height=&#34;541&#34; frameborder=&#34;0&#34; marginheight=&#34;0&#34; marginwidth=&#34;0&#34;&gt;&lt;/iframe&gt;
-</description>
-    </item>
-    
-    <item>
       <title>Review of a network tool in the training company - GEO Solutions</title>
       <link>http://jensvl-immalle.github.io/post/review/</link>
       <pubDate>Thu, 17 Mar 2016 00:00:00 +0000</pubDate>
@@ -44,6 +30,20 @@
 &lt;p&gt;After using Amazon AWS for a while and discovering all of its features there is one thing that bothered me the most. Amazon AWS is mostly used as a standalone server and you can feel that when using it. It has a bad compatibility with other applications unlike Microsoft Azure (business version of OneDrive). This can be a big factor as to whether someone chooses for Azure or AWS since usability is a must-have these days. Furthermore you require some skill to use AWS entirely.&lt;/p&gt;
 
 &lt;p&gt;I surely recommend Amazon AWS for big companies. Firstly the prices are interesting, even on a big scale. Because it is more difficult to use I won’t recommend it to smaller businesses or for private usage. You’ll need someone with knowledge of network engineering to get the full use of Amazon AWS.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Pour un reportage du photos de GEO Solutions, CLIQUEZ ICI!</title>
+      <link>http://jensvl-immalle.github.io/post/reportage/</link>
+      <pubDate>Thu, 17 Mar 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://jensvl-immalle.github.io/post/reportage/</guid>
+      <description>
+
+&lt;h2 id=&#34;un-reportage-photos-du-geo-solutions:129ab08176e32a7903c8a41ec33d9099&#34;&gt;Un reportage photos du GEO Solutions&lt;/h2&gt;
+
+&lt;iframe src=&#34;https://www.haikudeck.com/e/7a84fb0bda/?isUrlHashEnabled=false&amp;isPreviewEnabled=false&amp;isHeaderVisible=false&#34; width=&#34;640&#34; height=&#34;541&#34; frameborder=&#34;0&#34; marginheight=&#34;0&#34; marginwidth=&#34;0&#34;&gt;&lt;/iframe&gt;
 </description>
     </item>
     
