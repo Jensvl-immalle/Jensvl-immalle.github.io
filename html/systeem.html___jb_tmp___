@@ -7,35 +7,36 @@
     <link type="text/css" rel="stylesheet" href="../../css/style.css">
     <link rel="stylesheet" href="//cdn.jsdelivr.net/chartist.js/latest/chartist.min.css">
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/2.2.2/jquery.min.js"></script>
-
 </head>
 <body>
 <header>
-    <a href="http://jensvanloon.github.io/"><button>terug</button></a>
+    <a href="{{ .Site.BaseUrl }}"><button>terug</button></a>
     <h1>IT-PROFILE - JENS VAN LOON</h1>
 </header>
 <nav>
-    <ul><a href="../../about/index.html">Over mij</a></ul><ul>
-    <a class="active" href="../../html/software/index.html">Software</a>
+    <ul><a href="../../about/index.html">Over mij</a></ul><!--
+    ---><ul>
+    <a href="../../html/software/index.html">Software</a>
     <div class="content">
         <a href="../../html/web/index.html">Web</a>
-        <a class="active" href="../../html/desktop/index.html">Desktop</a>
+        <a href="../../html/desktop/index.html">Desktop</a>
     </div>
-</ul><ul>
-    <a href="../../html/systeem/index.html">Systeem & Netwerkbeheer</a>
-    </div>
+</ul><!--
+    ---><ul>
+    <a class="active" href="../../html/systeem/index.html">Systeem & Netwerkbeheer</a>
 </ul>
 </nav>
 <div id="container">
     <div class="text">
-        Hier vindt u een overzicht van mijn kennis over verschillende Desktop Programming languages.
-        Alhoewel mijn kennis eerder gericht is op webdevelopment, heb ik een stevige basis voor Desktop Development.
+        Doorheen mijn studiejaren hebben we diversen onderwerpen bekeken.
+        Dit ging van hardware tot softwarepakketten om netwerken te beheren.
+        Op mijn stage heb ik het gebruij van Amazon geleerd op minimale basis.
     </div>
-    <div id="c">C#</div>
-    <div id="xaml">XAML</div>
-    <div id="sql">SQL</div>
-    <div id="cmd">CMD</div>
-    <div id="go">Go</div>
+    <div id="wserver">Windows</div>
+    <div id="netwerk">Netwerken</div>
+    <div id="cisco">Cisco</div>
+    <div id="hardware">Hardware</div>
+    <div id="amazon">Amazon AWS</div>
 </div>
 <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/chartist/0.9.7/chartist.min.js"></script>
 <script rel="script" type="text/javascript" src="../../js/script.js"></script>

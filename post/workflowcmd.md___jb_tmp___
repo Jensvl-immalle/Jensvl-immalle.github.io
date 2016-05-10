@@ -1,0 +1,55 @@
+---
+author:
+  description: Leerling 6IB
+  email: jens.vanloon@immalle.be
+  name: Jens Van Loon
+cardbackground: green
+date: 2016-02-01
+title: Huisstijl van GEO Solutions
+vak: Software
+---
+##### Hugo
+
+Hugo is een tool waarmee je blogs of dergelijke kan maken. Je werkt met hugo vanuit je verkenner en command prompt. Eens je hugo geïnstalleerd hebt kan je aan de slag. Met enkele simpele commands heb je je site aan de praat gekregen. Om een mooie layout te geven aan hugo kan je in je root verschillende dingen aanpassen.
+
+De standaard verdeling bij een hugosite ziet er als volgt uit:
+
+- archetypes
+- content
+- layouts
+- public
+- static
+- config files
+
+In de archetypes kan je je standaard posts aanpassen, zo kan je daar meegeven dat hij telkens de auteur 'Jens Van Loon' moet meegeven in de html. In de content komt dan de gevulde posts. Hierin wordt gewerkt met front matter en markdown, net als deze post ;-) Je kan je contect verdelen in verschillende sections of categoriëen, wat afhangt van je layout. In layouts vind je de echtelijke broncode. Die werkt op zijn beurt met een index.html die partials bevat en deze combineert doormiddel van Go. In de public map komt dan je uiteindelijke site te staan, vandaaruit wordt hij gehost en staat de verwerkte code. In static vind je de css en js terug die je dan op zijn beurt gebruikt in de layout. Aangezien er geen "click & drag" is in Hugo maakt het het soms wat ingewikkeld en moeilijker. Om je site dan online te zetten heb je ook kenis van git nodig. Persoonlijk niet mijn favoriete tool maar eens je hugo en git begrijpt zijn het zeker aan te raden tools, en dan voornamelijk voor de vrijheid die je hebt in het crëeren van je blog.
+
+##### WordPress
+
+WordPress is net zoals hugo een tool voor blogs, hoewel WordPress anders gebruikt wordt. Bij WordPress is het principe van "click & drag" wel van toepassing. Je kan naar je browser surfen om dan online je blog aan te passen. Met een simpele klik heb je een thema, layout, blogposts, etc. Als je weinig of niets afweet van programmeren raad ik zeker een tool als WordPress aan. Als dit niet het geval is zou ik zeker en vast Hugo proberen. Het biedt je meer mogelijkheden en je hangt niet af van limieten. Hoewel je bij hugo het risico loopt dat er iets misloopt en dat je soms uren kan zoeken achter 1 fout, uit ervaringen gesproken!
+
+##### Structuur Site
+```
+hugo
+│   archetypes
+│   content   
+│   data
+└───layouts
+|   │   /_default
+|   │   /about
+|   │   /partials
+|   |   /post
+|   │   /project
+|   │   /section
+|   └─── index.html
+|   public
+|   └─── ...
+|   static
+|   └─── ...
+|   config.toml
+```
+---
+
+##### Links
+
+- [Gitlab](https://gitlab.com/jens-vanloon/gipjensvl)
+- [Github](https://github.com/Jensvl-immalle/Jensvl-immalle.github.io)

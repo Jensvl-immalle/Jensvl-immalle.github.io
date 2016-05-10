@@ -11,7 +11,7 @@
         <meta http-equiv="X-UA-Compatible" content="IE=edge">
         <meta name="description" content="My thoughts and rambles">
         <meta name="viewport" content="width=device-width, initial-scale=1">
-        <title>FAQ</title>
+        <title>SQL Database</title>
         
         <meta name="mobile-web-app-capable" content="yes">
         <link rel="icon" sizes="192x192" href="http://inleefreiskenya.github.io/IMG/imma.png">
@@ -128,7 +128,7 @@ $('#modal').click(function () {
   <header style="background-color: white" class="mdl-layout__header">
     <div class="mdl-layout__header-row">
       
-      <span class="mdl-layout-title" style="color: black">FAQ</span>
+      <span class="mdl-layout-title" style="color: black">SQL Database</span>
       
       <div class="mdl-layout-spacer"></div>
       
@@ -161,189 +161,59 @@ $('#modal').click(function () {
     <div class="mdl-card mdl-shadow--4dp mdl-cell mdl-cell--12-col">
 
         <div class="mdl-card__media mdl-color-text--grey-50"  style="background-color:rgb(150,200,80);">
-            <h3 >FAQ</h3>
+            <h3 >SQL Database</h3>
         </div>
 <div class="mdl-color-text--grey-700 mdl-card__supporting-text meta">
   <i class="material-icons">chevron_right</i>
   <div>
     <strong>Jens Van Loon</strong>
-    <span>Oct 28, 2015</span> </div>
+    <span>Feb 1, 2016</span> </div>
   <div class="section-spacer"></div>
 </div>
         <div class="mdl-color-text--grey-700 mdl-card__supporting-text" style="padding-left: 50px;">
-            <div class="mdl-tabs mdl-js-tabs mdl-js-ripple-effect">
-  <div class="mdl-tabs__tab-bar">
-      <a href="#Français" class="mdl-tabs__tab is-active">Français</a>
-      <a href="#Nederlands" class="mdl-tabs__tab">Nederlands</a>
-  </div>
+            
 
-<p><div class="mdl-tabs__panel is-active" id="Français"></p>
+<h1 id="sql-database:d1babb582138b02a13547d2c6eb6df72">SQL Database</h1>
 
-<!-- FRANSE VERSIE -->
+<pre><code class="language-SQL">CREATE DATABASE schoolplatform;
 
-<p><span style="font-size:21.5px; font-style: italic"> Bonjour cher visiteur a mon Foire Aux Questions!
-  Si vous avez des questions sur MS Office 365 &amp; OneDrive, vous trouverez des réponses ici. </span></p>
+use schoolplatform;
 
-<p><span class="ptitel"> Il y a des différences entre Office online et Office offline? </span></p>
+CREATE TABLE Leerling (
+    id INT ,
+    naam VARCHAR(45),
+    leeftijd VARCHAR(45),
+    PRIMARY KEY (id));
 
-<p>Oui, il y a des différences. Ainsi, il y a moins d’options pour la mise en page. Mais pas de souci, Office online a aussi beaucoup de bonnes options.</p>
+CREATE TABLE LeerlingVak (
+    id INT,
+    leerling_id INT,
+    vak_id INT,
+    PRIMARY KEY (id));
 
-<p><span class="ptitel"> Où peut-on utiliser OneDrive? </span></p>
+CREATE TABLE Vak (
+    id INT,
+    vakinhoud VARCHAR(45),
+    leerkracht VARCHAR(45),
+    PRIMARY KEY (id));
 
-<p>OneDrive est une application multiplateforme. Vous pouvez l’utiliser partout.
-  Il y a des applications pour iOS, Mac, Android, Windows. Vous pouvez y gérer tous vos fichiers et plus.</p>
 
-<p><span class="ptitel"> Comment partager des fichiers avec OneDrive for Business? </span></p>
+CREATE TABLE Messages (
+    id INT,
+    leerling_id VARCHAR(45),
+    inhoud VARCHAR(45),
+    tijdstip DATETIME,
+    PRIMARY KEY (id));
 
-<p>OneDrive a un avantage pour partager des documents.
-  C&rsquo;est facile à utiliser. Suivez ces étapes:</p>
+INSERT INTO Leerling (id, naam, leeftijd)
+VALUES (1, &quot;Jens&quot;, 18);
 
-<ol>
-<li><p>Vous devez cliquer à gauche du nom de votre fichier pour sélectionner le fichier que vous voulez partager.</p></li>
-
-<li><p>Après vous cliquez en haut pour partager.</p></li>
-
-<li><p>Maintenant vous voyez un menu avec les options que vous pouvez choisir.</p></li>
-</ol>
-
-<p><span class="ptitel"> Quels types de documents peut-on télécharger? </span></p>
-
-<p>Il y a 2 options pour téléverser des documents en OneDrive online.
-  Vous pouvez créer de nouveaux documents d&rsquo;Office comme PowerPoint, Word, Excel, …
-  mais il y a aussi une option pour téléverser des documents de tous types de votre ordinateur avec un maximum de 10 GiB.</p>
-
-<p><span class="ptitel"> Une connexion Internet est-elle requise pour Office 365 ? </span></p>
-
-<p>Non, pour utiliser Office, une connexion Internet n&rsquo;est pas nécessaire.
-  Néanmoins, l&rsquo;installation exige une connexion.
-  Une connexion offre aussi plus de fonctions que l’utilisation sans connexion:</p>
-
-<ul>
-<li>Services cloud (Synchronisation avec OneDrive et Office online)</li>
-<li>E-mail</li>
-<li>IT Management</li>
-</ul>
-
-<p>Donc, quand vous exécutez des changements lorsque vous êtes déconnecté une synchronisation aura lieu quand vous allez en ligne.</p>
-
-<p><span class="ptitel"> Comment peut-on changer une extension Office 365 ? </span></p>
-
-<p>En Office vous pouvez utiliser plus que les extensions standard seulement.
-  Si vous voulez adapter l&rsquo;extension en PDF dans Word par exemple, c&rsquo;est simple par quelques clics. Procédez comme suit:</p>
-
-<ol>
-<li><p>Cliquez sur ‘fichier’ au coin supérieur gauche de votre document et après ‘enregistrer sous’.</p></li>
-
-<li><p>Maintenant vous choisissez la place d’enregistrement de votre document.</p></li>
-
-<li><p>Sous le cadre ‘enregistrer’ vous voyez le cadre où vous pouvez changer l&rsquo;extension.</p></li>
-</ol>
-
-<p><span class="ptitel"> Qu&rsquo;est-ce que le cloud? </span></p>
-
-<p>Le cloud est une désignation pour les services basés sur le web. Le cloud est utilisé par plusieurs applications.
-  OneDrive est une partie du cloud Office.
-  Dans le cloud, vous pouvez stocker des documents, synchroniser avec OneDrive, téléphoner avec Lync etcétéra.
-  Le cloud n&rsquo;a pas d’interface mais OneDrive apporte certaines fonctions.</p>
-
-<p><span class="ptitel"> Comment pouvez-vous protéger votre document? </span></p>
-
-<p>Quand vous avez un document secret ou quand personne ne peut adapter votre document, vous pouvez protéger votre document:</p>
-
-<ol>
-<li><p>Cliquez sur ‘fichier’ au coin supérieur gauche de votre document. Vous voyez un cadre avec le titre &ldquo;Protéger le document&rdquo;.</p></li>
-
-<li><p>Comme vous cliquez sur ce cadre vous voyez un menu avec les différentes options pour protéger votre document.
-</div>
-<div class="mdl-tabs__panel" id="Nederlands" markdown="1"></p></li>
-</ol>
-
-<p><span style="font-size:20px; font-style: italic">Welkom op mijn Frequently Asked Questions pagina!
-  Als u een vraag heeft over MS Office 365 &amp; OneDrive, kan u hier een antwoord vinden.</span></p>
-
-<p><span class="ptitel"> Wat is het verschil tussen OneDrive en Dropbox? </span></p>
-
-<p>Hier ziet u een overzicht van enkele verschillen tussen OneDrive en Dropbox:</p>
-
-<ol>
-<li><p>Elk bestandstype kan op beide worden geüpload maar op Dropbox heb je niet de mogelijkheid om bestanden online te bewerken of te openen. Bij OneDrive heb je deze mogelijkheid bij veel bestandstypes wel.</p></li>
-
-<li><p>Bij Dropbox start je maar met 2 GiB gratis opslag ruimte, bij OneDrive heb je gratis … GiB opslag ruimte. Beide kan je verhogen door betalingen. Bij Dropbox kan je ook extra GiB opslag ruimte verdienen door bijvoorbeeld je Facebook vrienden uit te nodigen om Dropbox te gebruiken.</p></li>
-
-<li><p>Alleen Dropbox is beschikbaar op Linux apparaten maar Dropbox is dan weer niet beschikbaar op Windows Phones. OneDrive kan men op elk apparaat gebruiken behalve met Linux.</p></li>
-</ol>
-
-<p><span class="ptitel">Wat is er verandert in Office 2013 ten opzichte van Office 2007?</span></p>
-
-<p>Er zijn verschillende punten verandert in Office 2013, hier heeft u een overzicht van de belangrijkste veranderingen:</p>
-
-<ol>
-<li><p>Men heeft ervoor gezorgd dat het aangenamer werken is via je tablet of smartphone bij de nieuwe Office versie. De apps zullen een aangepaste lay-out hebben en tussen de bewerkingsknoppen heeft men meer plaats gelaten voor eenvoudigere interactie met vinger of pen.</p></li>
-
-<li><p>Office 2013 is enkel maar beschikbaar vanaf Windows 7 of hoger. De interactie tussen Office 2013 en Windows 8 verloopt daardoor perfect.</p></li>
-
-<li><p>De online Cloud services zijn geoptimaliseerd voor betere prestaties. Het online bewerken van documenten verloopt nu vrijwel zonder problemen.</p></li>
-
-<li><p>U kunt via Word snel en eenvoudig online foto&rsquo;s/video&rsquo;s toevoegen aan je Word documenten. Er is daarbij ook een eenvoudige optie om dit via je persoonlijke OneDrive te doen.
-Alles is dus gebruiksvriendelijker en eenvoudiger gemaakt: sneller, verzorgdere lay-out, meer georganiseerd, … .</p></li>
-</ol>
-
-<p><span class="ptitel"> Is er een verschil tussen Office online en Office offline? </span></p>
-
-<p>Ja, er zijn enkele verschillen. Je hebt bijvoorbeeld minder opmaak mogelijkheden bij Office online dan bij Office online.
-  Maar het principe blijft hetzelfde. Er zijn nog altijd wel veel opties ter beschikken in Office online.</p>
-
-<p><span class="ptitel"> Hoe beschermt u uw documenten tegen aanpassingen van andere gebruikers? </span>
-  Als u een privé document hebt of als u een document hebt dat andere gebruikers
-  mogen lezen maar niet mogen bewerken kunt u altijd uw document beschermen:</p>
-
-<ol>
-<li><p>In de linkerbovenhoek van uw document klikt u op &ldquo;Bestand&rdquo;. Vervolgens gaat u naar &ldquo;Info&rdquo;. Hier ziet u het kadertje &ldquo;Document beveiligen&rdquo;.</p></li>
-
-<li><p>Als u hierop klikt ziet u een overzicht met de verschillende beveiligingsopties. Nu kan u uw document beveiligen naar hoe u het wilt.</p></li>
-</ol>
-
-<p><span class="ptitel"> Waar kan u OneDrive overal gebruiken? </span>
-  OneDrive is een toepassing dat op verschillende platformen werkt. U kan het op zo<br />
-  goed als elk toestel gebruiken. U kan het bijvoorbeeld downloaden op uw computer of het downloaden als een app voor iOS, Android, Windows. Zo heeft u toegang tot al u documenten waar u ook bent.</p>
-
-<p><span class="ptitel"> Hoe kunt u bestanden delen met OneDrive for Business? </span></p>
-
-<p>Het is heel eenvoudig om documenten te delen via OneDrive for Business.
-  Volg deze stappen en u hebt in enkele minuten een bestand gedeeld:</p>
-
-<ol>
-<li><p>U moet links naast de naam van u document klikken om het document te selecteren dat u wilt delen.</p></li>
-
-<li><p>Daarna klikt u vanboven op delen.</p></li>
-
-<li><p>Nu ziet u een menu met verschillende opties voor het delen. U kan hier ook de persoon/personen ingeven waarmee u het bestand wilt delen.</p></li>
-</ol>
-
-<p><span class="ptitel"> Welke bestandstypes kan u uploaden op OneDrive? </span></p>
-
-<p>Er zijn twee opties die u kan kiezen voor het uploaden van bestanden in OneDrive online.
-  U kan een nieuw Office document aanmaken zoals Excel, Word, PowerPoint, …
-  Maar u heeft ook een upload mogelijkheid voor alle verschillende bestanden op uw computer, bijvoorbeeld: muziek, films, … .
-  Per account kan je een maximum van 10 GiB uploaden.
-  <span class="ptitel"> Hoe verandert u de extensie van een bestand in Office 365? </span></p>
-
-<p>In Office hebt u de mogelijkheid om meerdere extensies te gebruiken dan enkel de standaard extensies van Office.
-  Zo kan u bijvoorbeeld heel eenvoudige een Word document veranderen in een PDF document door enkele eenvoudige stappen:</p>
-
-<ol>
-<li><p>Klik in de linkerbovenhoek op &ldquo;Bestand&rdquo; en vervolgens op &ldquo;Opslaan als&rdquo;.</p></li>
-
-<li><p>Nu kiest u de plaats waar u het bestand wilt opslaan op uw computer.</p></li>
-
-<li><p>Onder de kader waar u de opslagplaats van het bestand kan kiezen ziet u een kadertje waar u de extensie van het bestand kan bepalen door gewoonweg erop te klikken.</p>
-
-<p></div>
-</div></p></li>
-</ol>
+INSERT INTO LeerlingVak(id, leerling_id, vak_id)
+VALUES (1,1,1);
+</code></pre>
 
             <div>
-            <p>1204 woorden | 6 minuten </p>
+            <p>79 woorden | 1 minuten </p>
             </div>
         </div>
 
@@ -353,9 +223,15 @@ Alles is dus gebruiksvriendelijker en eenvoudiger gemaakt: sneller, verzorgdere 
 
     <nav class="hugo-nav mdl-color-text--grey-50 mdl-cell mdl-cell--12-col">
     
+    <a href="/post/workflowcmd/" class="hugo-nav__button">
+        <button class="mdl-button mdl-js-button mdl-js-ripple-effect mdl-button--icon mdl-color--white mdl-color-text--grey-900" role="presentation">
+           <i class="icon ion-android-arrow-back"></i>
+        </button>
+        Vorige
+    </a>
     <div class="section-spacer"></div>
     
-    <a href="/post/CaseStudy/" class="hugo-nav__button">Volgende
+    <a href="/post/huisstijl/" class="hugo-nav__button">Volgende
       <button class="mdl-button mdl-js-button mdl-js-ripple-effect mdl-button--icon mdl-color--white mdl-color-text--grey-900" role="presentation">
            <i class="icon ion-android-arrow-forward"></i>
       </button>

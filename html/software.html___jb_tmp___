@@ -5,35 +5,37 @@
     <title>IT-profile</title>
 
     <link type="text/css" rel="stylesheet" href="../../css/style.css">
-    <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/Chart.js/2.1.1/Chart.min.js"></script>
+    <link rel="stylesheet" href="//cdn.jsdelivr.net/chartist.js/latest/chartist.min.css">
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/2.2.2/jquery.min.js"></script>
 
 </head>
 <body>
 <header>
-    <button style="float: left; margin: 2%; width: 100px; height: 40px">terug</button>
+    <a href="{{ .Site.BaseUrl }}"><button>terug</button></a>
     <h1>IT-PROFILE - JENS VAN LOON</h1>
 </header>
 <nav>
-    <ul><a href="../../about/index.html">Over mij</a></ul><!--
+    <ul><a href="/about/index.html">Over mij</a></ul><!--
     ---><ul>
-    <a class="active" href="../../html/software/index.html">Software</a>
+    <a class="active" href="/html/software/index.html">Software</a>
     <div class="content">
-        <a href="../../html/web/index.html">Web</a>
-        <a href="../../html/desktop/index.html">Desktop</a>
+        <a href="/html/web/index.html">Web</a>
+        <a href="/html/desktop/index.html">Desktop</a>
     </div>
 </ul><!--
     ---><ul>
-    <a href="../../html/systeem/index.html">Systeembeheer</a>
+    <a href="/html/systeem/index.html">Systeembeheer</a>
     <div class="content">
-        <a href="../../html/hardware/index.html">Hardware</a>
-        <a href="../../html/server/index.html">Server</a>
+        <a href="/html/hardware/index.html">Hardware</a>
+        <a href="/html/server/index.html">Server</a>
     </div>
 </ul>
 </nav>
 <div id="container">
-    <canvas id="web"></canvas>
+    <a href="/html/web/index.html"><button>Web</button></a>
+    <a href="/html/desktop/index.html"><button>Desktop</button></a>
 </div>
-<script rel="script" type="text/javascript" src="../../js/script.js"></script>
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/chartist/0.9.7/chartist.min.js"></script>
+<script rel="script" type="text/javascript" src="/js/script.js"></script>
 </body>
 </html>

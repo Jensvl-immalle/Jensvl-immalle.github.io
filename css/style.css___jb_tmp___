@@ -103,14 +103,12 @@ nav ul a:hover{
     max-width: 320px;
 }
 .ct-series-a .ct-slice-donut {
-  stroke: yellowgreen !important;
+  stroke: yellowgreen url('/images/background.png') !important;
   stroke-width: 5px;
-
 }
 .ct-series-b .ct-slice-donut {
   stroke: grey !important;
   stroke-width: 5px;
-  stroke-dasharray: 5px;
 }
 .text{
     text-align: center;

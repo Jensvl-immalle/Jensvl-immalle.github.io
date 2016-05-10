@@ -2,18 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Htmls on GIP Jens VL 2015 - 2016</title>
-    <link>http://jensvl-immalle.github.io/html/</link>
+    <link>http://jensvanloon.github.io/html/</link>
     <description>Recent content in Htmls on GIP Jens VL 2015 - 2016</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <atom:link href="http://jensvl-immalle.github.io/html/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://jensvanloon.github.io/html/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title></title>
-      <link>http://jensvl-immalle.github.io/html/server/</link>
+      <link>http://jensvanloon.github.io/html/software/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://jensvl-immalle.github.io/html/server/</guid>
+      <guid>http://jensvanloon.github.io/html/software/</guid>
       <description>&lt;!DOCTYPE html&gt;
 &lt;html lang=&#34;en&#34;&gt;
 &lt;head&gt;
@@ -31,27 +31,24 @@
     &lt;h1&gt;IT-PROFILE - JENS VAN LOON&lt;/h1&gt;
 &lt;/header&gt;
 &lt;nav&gt;
-    &lt;ul&gt;&lt;a href=&#34;../../about/index.html&#34;&gt;Over mij&lt;/a&gt;&lt;/ul&gt;&lt;!--
+    &lt;ul&gt;&lt;a href=&#34;http://jensvanloon.github.io/about/index.html&#34;&gt;Over mij&lt;/a&gt;&lt;/ul&gt;&lt;!--
     ---&gt;&lt;ul&gt;
-    &lt;a href=&#34;../../html/software/index.html&#34;&gt;Software&lt;/a&gt;
+    &lt;a class=&#34;active&#34; href=&#34;http://jensvanloon.github.io/html/software/index.html&#34;&gt;Software&lt;/a&gt;
     &lt;div class=&#34;content&#34;&gt;
-        &lt;a href=&#34;../../html/web/index.html&#34;&gt;Web&lt;/a&gt;
-        &lt;a href=&#34;../../html/desktop/index.html&#34;&gt;Desktop&lt;/a&gt;
+        &lt;a href=&#34;http://jensvanloon.github.io/html/web/index.html&#34;&gt;Web&lt;/a&gt;
+        &lt;a href=&#34;http://jensvanloon.github.io/html/desktop/index.html&#34;&gt;Desktop&lt;/a&gt;
     &lt;/div&gt;
 &lt;/ul&gt;&lt;!--
     ---&gt;&lt;ul&gt;
-    &lt;a class=&#34;active&#34; href=&#34;../../html/systeem/index.html&#34;&gt;Systeembeheer&lt;/a&gt;
-    &lt;div class=&#34;content&#34;&gt;
-        &lt;a href=&#34;../../html/hardware/index.html&#34;&gt;Hardware&lt;/a&gt;
-        &lt;a class=&#34;active&#34; href=&#34;../../html/server/index.html&#34;&gt;Server&lt;/a&gt;
-    &lt;/div&gt;
+    &lt;a class=&#34;active&#34; href=&#34;../../html/systeem/index.html&#34;&gt;Systeem &amp; Netwerkbeheer&lt;/a&gt;
 &lt;/ul&gt;
 &lt;/nav&gt;
 &lt;div id=&#34;container&#34;&gt;
-    &lt;div class=&#34;server&#34;&gt;&lt;/div&gt;
+    &lt;a href=&#34;http://jensvanloon.github.io/html/web/index.html&#34;&gt;&lt;button&gt;Web&lt;/button&gt;&lt;/a&gt;
+    &lt;a href=&#34;http://jensvanloon.github.io/html/desktop/index.html&#34;&gt;&lt;button&gt;Desktop&lt;/button&gt;&lt;/a&gt;
 &lt;/div&gt;
 &lt;script type=&#34;text/javascript&#34; src=&#34;https://cdnjs.cloudflare.com/ajax/libs/chartist/0.9.7/chartist.min.js&#34;&gt;&lt;/script&gt;
-&lt;script rel=&#34;script&#34; type=&#34;text/javascript&#34; src=&#34;../../js/script.js&#34;&gt;&lt;/script&gt;
+&lt;script rel=&#34;script&#34; type=&#34;text/javascript&#34; src=&#34;http://jensvanloon.github.io/js/script.js&#34;&gt;&lt;/script&gt;
 &lt;/body&gt;
 &lt;/html&gt;
 </description>
@@ -59,59 +56,10 @@
     
     <item>
       <title></title>
-      <link>http://jensvl-immalle.github.io/html/hardware/</link>
+      <link>http://jensvanloon.github.io/html/desktop/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://jensvl-immalle.github.io/html/hardware/</guid>
-      <description>&lt;!DOCTYPE html&gt;
-&lt;html lang=&#34;en&#34;&gt;
-&lt;head&gt;
-    &lt;meta charset=&#34;UTF-8&#34;&gt;
-    &lt;title&gt;IT-profile&lt;/title&gt;
-
-    &lt;link type=&#34;text/css&#34; rel=&#34;stylesheet&#34; href=&#34;../../css/style.css&#34;&gt;
-    &lt;link rel=&#34;stylesheet&#34; href=&#34;//cdn.jsdelivr.net/chartist.js/latest/chartist.min.css&#34;&gt;
-    &lt;script src=&#34;https://ajax.googleapis.com/ajax/libs/jquery/2.2.2/jquery.min.js&#34;&gt;&lt;/script&gt;
-
-&lt;/head&gt;
-&lt;body&gt;
-&lt;header&gt;
-    &lt;a href=&#34;{{ .Site.BaseUrl }}&#34;&gt;&lt;button&gt;terug&lt;/button&gt;&lt;/a&gt;
-    &lt;h1&gt;IT-PROFILE - JENS VAN LOON&lt;/h1&gt;
-&lt;/header&gt;
-&lt;nav&gt;
-    &lt;ul&gt;&lt;a href=&#34;../../about/index.html&#34;&gt;Over mij&lt;/a&gt;&lt;/ul&gt;&lt;!--
-    ---&gt;&lt;ul&gt;
-    &lt;a href=&#34;../../html/software/index.html&#34;&gt;Software&lt;/a&gt;
-    &lt;div class=&#34;content&#34;&gt;
-        &lt;a href=&#34;../../html/web/index.html&#34;&gt;Web&lt;/a&gt;
-        &lt;a href=&#34;../../html/desktop/index.html&#34;&gt;Desktop&lt;/a&gt;
-    &lt;/div&gt;
-&lt;/ul&gt;&lt;!--
-    ---&gt;&lt;ul&gt;
-    &lt;a class=&#34;active&#34; href=&#34;../../html/systeem/index.html&#34;&gt;Systeembeheer&lt;/a&gt;
-    &lt;div class=&#34;content&#34;&gt;
-        &lt;a class=&#34;active&#34; href=&#34;../../html/hardware/index.html&#34;&gt;Hardware&lt;/a&gt;
-        &lt;a href=&#34;../../html/server/index.html&#34;&gt;Server&lt;/a&gt;
-    &lt;/div&gt;
-&lt;/ul&gt;
-&lt;/nav&gt;
-&lt;div id=&#34;container&#34;&gt;
-    &lt;div class=&#34;hardware&#34;&gt;&lt;/div&gt;
-&lt;/div&gt;
-&lt;script type=&#34;text/javascript&#34; src=&#34;https://cdnjs.cloudflare.com/ajax/libs/chartist/0.9.7/chartist.min.js&#34;&gt;&lt;/script&gt;
-&lt;script rel=&#34;script&#34; type=&#34;text/javascript&#34; src=&#34;../../js/script.js&#34;&gt;&lt;/script&gt;
-&lt;/body&gt;
-&lt;/html&gt;
-</description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>http://jensvl-immalle.github.io/html/desktop/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>http://jensvl-immalle.github.io/html/desktop/</guid>
+      <guid>http://jensvanloon.github.io/html/desktop/</guid>
       <description>&lt;!DOCTYPE html&gt;
 &lt;html lang=&#34;en&#34;&gt;
 &lt;head&gt;
@@ -138,15 +86,20 @@
     &lt;/div&gt;
 &lt;/ul&gt;&lt;!--
     ---&gt;&lt;ul&gt;
-    &lt;a href=&#34;../../html/systeem/index.html&#34;&gt;Systeembeheer&lt;/a&gt;
-    &lt;div class=&#34;content&#34;&gt;
-        &lt;a href=&#34;../../html/hardware/index.html&#34;&gt;Hardware&lt;/a&gt;
-        &lt;a href=&#34;../../html/server/index.html&#34;&gt;Server&lt;/a&gt;
+    &lt;a href=&#34;../../html/systeem/index.html&#34;&gt;Systeem &amp; Netwerkbeheer&lt;/a&gt;
     &lt;/div&gt;
 &lt;/ul&gt;
 &lt;/nav&gt;
 &lt;div id=&#34;container&#34;&gt;
-    &lt;div class=&#34;desktop&#34;&gt;&lt;/div&gt;
+    &lt;div class=&#34;text&#34;&gt;
+        Hier vindt u een overzicht van mijn kennis over verschillende Desktop Programming languages.
+        Alhoewel mijn kennis eerder gericht is op webdevelopment, heb ik een stevige basis voor Desktop Development.
+    &lt;/div&gt;
+    &lt;div id=&#34;c&#34;&gt;C#&lt;/div&gt;
+    &lt;div id=&#34;xaml&#34;&gt;XAML&lt;/div&gt;
+    &lt;div id=&#34;sql&#34;&gt;SQL&lt;/div&gt;
+    &lt;div id=&#34;cmd&#34;&gt;CMD&lt;/div&gt;
+    &lt;div id=&#34;go&#34;&gt;Go&lt;/div&gt;
 &lt;/div&gt;
 &lt;script type=&#34;text/javascript&#34; src=&#34;https://cdnjs.cloudflare.com/ajax/libs/chartist/0.9.7/chartist.min.js&#34;&gt;&lt;/script&gt;
 &lt;script rel=&#34;script&#34; type=&#34;text/javascript&#34; src=&#34;../../js/script.js&#34;&gt;&lt;/script&gt;
@@ -157,10 +110,40 @@
     
     <item>
       <title></title>
-      <link>http://jensvl-immalle.github.io/html/systeem/</link>
+      <link>http://jensvanloon.github.io/html/app/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://jensvl-immalle.github.io/html/systeem/</guid>
+      <guid>http://jensvanloon.github.io/html/app/</guid>
+      <description>&lt;html&gt;
+&lt;head&gt;
+    &lt;link type=&#34;text/css&#34; rel=&#34;stylesheet&#34; href=&#34;../../css/app.css&#34;&gt;
+    &lt;script src=&#34;https://cdnjs.cloudflare.com/ajax/libs/gsap/1.18.2/TweenMax.min.js&#34;&gt;&lt;/script&gt;
+    &lt;script src=&#34;https://cdnjs.cloudflare.com/ajax/libs/gsap/1.18.2/utils/Draggable.min.js&#34;&gt;&lt;/script&gt;
+    &lt;script src=&#34;https://ajax.googleapis.com/ajax/libs/jquery/2.2.2/jquery.min.js&#34;&gt;&lt;/script&gt;
+&lt;/head&gt;
+&lt;body&gt;
+&lt;div id=&#34;modal&#34;&gt;
+    &lt;center&gt;&lt;h1&gt;DNAdventure&lt;/h1&gt;&lt;/center&gt;
+    &lt;center&gt;&lt;button id=&#34;clsModal&#34;&gt;Start&lt;/button&gt;&lt;/center&gt;
+&lt;/div&gt;
+&lt;div id=&#34;container&#34;&gt;
+&lt;/div&gt;
+
+&lt;footer&gt;&lt;p id=&#34;status&#34;&gt;&lt;/p&gt;&lt;p id=&#34;timer&#34;&gt;0 seconden&lt;/p&gt;&lt;/footer&gt;
+
+&lt;script src=&#34;https://ajax.googleapis.com/ajax/libs/jqueryui/1.10.3/jquery-ui.min.js&#34;&gt;&lt;/script&gt;
+&lt;script src=&#34;../../js/app.js&#34; rel=&#34;script&#34;&gt;&lt;/script&gt;
+&lt;/body&gt;
+&lt;/html&gt;
+</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://jensvanloon.github.io/html/systeem/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://jensvanloon.github.io/html/systeem/</guid>
       <description>&lt;!DOCTYPE html&gt;
 &lt;html lang=&#34;en&#34;&gt;
 &lt;head&gt;
@@ -186,15 +169,20 @@
     &lt;/div&gt;
 &lt;/ul&gt;&lt;!--
     ---&gt;&lt;ul&gt;
-    &lt;a class=&#34;active&#34; href=&#34;../../html/systeem/index.html&#34;&gt;Systeembeheer&lt;/a&gt;
-    &lt;div class=&#34;content&#34;&gt;
-        &lt;a href=&#34;../../html/hardware/index.html&#34;&gt;Hardware&lt;/a&gt;
-        &lt;a href=&#34;../../html/server/index.html&#34;&gt;Server&lt;/a&gt;
-    &lt;/div&gt;
+    &lt;a class=&#34;active&#34; href=&#34;../../html/systeem/index.html&#34;&gt;Systeem &amp; Netwerkbeheer&lt;/a&gt;
 &lt;/ul&gt;
 &lt;/nav&gt;
 &lt;div id=&#34;container&#34;&gt;
-    &lt;div class=&#34;systeem&#34;&gt;&lt;/div&gt;
+    &lt;div class=&#34;text&#34;&gt;
+        Doorheen mijn studiejaren hebben we diversen onderwerpen bekeken.
+        Dit ging van hardware tot softwarepakketten om netwerken te beheren.
+        Op mijn stage heb ik het gebruik van Amazon geleerd op minimale basis.
+    &lt;/div&gt;
+    &lt;div id=&#34;wserver&#34;&gt;Windows&lt;/div&gt;
+    &lt;div id=&#34;netwerk&#34;&gt;Netwerken&lt;/div&gt;
+    &lt;div id=&#34;cisco&#34;&gt;Cisco&lt;/div&gt;
+    &lt;div id=&#34;hardware&#34;&gt;Hardware&lt;/div&gt;
+    &lt;div id=&#34;amazon&#34;&gt;Amazon AWS&lt;/div&gt;
 &lt;/div&gt;
 &lt;script type=&#34;text/javascript&#34; src=&#34;https://cdnjs.cloudflare.com/ajax/libs/chartist/0.9.7/chartist.min.js&#34;&gt;&lt;/script&gt;
 &lt;script rel=&#34;script&#34; type=&#34;text/javascript&#34; src=&#34;../../js/script.js&#34;&gt;&lt;/script&gt;
@@ -205,59 +193,10 @@
     
     <item>
       <title></title>
-      <link>http://jensvl-immalle.github.io/html/software/</link>
+      <link>http://jensvanloon.github.io/html/web/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://jensvl-immalle.github.io/html/software/</guid>
-      <description>&lt;!DOCTYPE html&gt;
-&lt;html lang=&#34;en&#34;&gt;
-&lt;head&gt;
-    &lt;meta charset=&#34;UTF-8&#34;&gt;
-    &lt;title&gt;IT-profile&lt;/title&gt;
-
-    &lt;link type=&#34;text/css&#34; rel=&#34;stylesheet&#34; href=&#34;../../css/style.css&#34;&gt;
-    &lt;link rel=&#34;stylesheet&#34; href=&#34;//cdn.jsdelivr.net/chartist.js/latest/chartist.min.css&#34;&gt;
-    &lt;script src=&#34;https://ajax.googleapis.com/ajax/libs/jquery/2.2.2/jquery.min.js&#34;&gt;&lt;/script&gt;
-
-&lt;/head&gt;
-&lt;body&gt;
-&lt;header&gt;
-    &lt;a href=&#34;{{ .Site.BaseUrl }}&#34;&gt;&lt;button&gt;terug&lt;/button&gt;&lt;/a&gt;
-    &lt;h1&gt;IT-PROFILE - JENS VAN LOON&lt;/h1&gt;
-&lt;/header&gt;
-&lt;nav&gt;
-    &lt;ul&gt;&lt;a href=&#34;http://jensvl-immalle.github.io/about/index.html&#34;&gt;Over mij&lt;/a&gt;&lt;/ul&gt;&lt;!--
-    ---&gt;&lt;ul&gt;
-    &lt;a class=&#34;active&#34; href=&#34;http://jensvl-immalle.github.io/html/software/index.html&#34;&gt;Software&lt;/a&gt;
-    &lt;div class=&#34;content&#34;&gt;
-        &lt;a href=&#34;http://jensvl-immalle.github.io/html/web/index.html&#34;&gt;Web&lt;/a&gt;
-        &lt;a href=&#34;http://jensvl-immalle.github.io/html/desktop/index.html&#34;&gt;Desktop&lt;/a&gt;
-    &lt;/div&gt;
-&lt;/ul&gt;&lt;!--
-    ---&gt;&lt;ul&gt;
-    &lt;a href=&#34;http://jensvl-immalle.github.io/html/systeem/index.html&#34;&gt;Systeembeheer&lt;/a&gt;
-    &lt;div class=&#34;content&#34;&gt;
-        &lt;a href=&#34;http://jensvl-immalle.github.io/html/hardware/index.html&#34;&gt;Hardware&lt;/a&gt;
-        &lt;a href=&#34;http://jensvl-immalle.github.io/html/server/index.html&#34;&gt;Server&lt;/a&gt;
-    &lt;/div&gt;
-&lt;/ul&gt;
-&lt;/nav&gt;
-&lt;div id=&#34;container&#34;&gt;
-    &lt;div class=&#34;software&#34;&gt;&lt;/div&gt;
-&lt;/div&gt;
-&lt;script type=&#34;text/javascript&#34; src=&#34;https://cdnjs.cloudflare.com/ajax/libs/chartist/0.9.7/chartist.min.js&#34;&gt;&lt;/script&gt;
-&lt;script rel=&#34;script&#34; type=&#34;text/javascript&#34; src=&#34;http://jensvl-immalle.github.io/js/script.js&#34;&gt;&lt;/script&gt;
-&lt;/body&gt;
-&lt;/html&gt;
-</description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>http://jensvl-immalle.github.io/html/web/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>http://jensvl-immalle.github.io/html/web/</guid>
+      <guid>http://jensvanloon.github.io/html/web/</guid>
       <description>&lt;!DOCTYPE html&gt;
 &lt;html lang=&#34;en&#34;&gt;
 &lt;head&gt;
@@ -284,15 +223,22 @@
     &lt;/div&gt;
 &lt;/ul&gt;&lt;!--
     ---&gt;&lt;ul&gt;
-    &lt;a href=&#34;../../html/systeem/index.html&#34;&gt;Systeembeheer&lt;/a&gt;
-    &lt;div class=&#34;content&#34;&gt;
-        &lt;a href=&#34;../../html/hardware/index.html&#34;&gt;Hardware&lt;/a&gt;
-        &lt;a href=&#34;../../html/server/index.html&#34;&gt;Server&lt;/a&gt;
-    &lt;/div&gt;
+    &lt;a href=&#34;../../html/systeem/index.html&#34;&gt;Systeem &amp; Netwerkbeheer&lt;/a&gt;
 &lt;/ul&gt;
 &lt;/nav&gt;
 &lt;div id=&#34;container&#34;&gt;
-    &lt;div class=&#34;web&#34;&gt;&lt;/div&gt;
+    &lt;div class=&#34;text&#34;&gt;
+        Hier vindt u een overzicht van mijn kennis over verschillende webprogramming languages.
+        Om u een duidelijker beeld te geven van wat ik allemaal kan, kan u deze sites bezoeken die ik gemaakt heb:
+        &lt;p&gt;&lt;br&gt;&lt;/p&gt;
+        &lt;a href=&#34;http://jensvanloon.github.io/&#34;&gt;Karel de Grote - opdracht&lt;/a&gt;
+        &lt;a href=&#34;http://auto-7.be/&#34;&gt;Auto-7 - site voor kennis&lt;/a&gt;
+    &lt;/div&gt;
+    &lt;div id=&#34;html&#34;&gt;HTML&lt;/div&gt;
+    &lt;div id=&#34;css&#34;&gt;CSS&lt;/div&gt;
+    &lt;div id=&#34;js&#34;&gt;JavaScript&lt;/div&gt;
+    &lt;div id=&#34;php&#34;&gt;PHP&lt;/div&gt;
+    &lt;div id=&#34;jquery&#34;&gt;jQuery&lt;/div&gt;
 &lt;/div&gt;
 &lt;script type=&#34;text/javascript&#34; src=&#34;https://cdnjs.cloudflare.com/ajax/libs/chartist/0.9.7/chartist.min.js&#34;&gt;&lt;/script&gt;
 &lt;script rel=&#34;script&#34; type=&#34;text/javascript&#34; src=&#34;../../js/script.js&#34;&gt;&lt;/script&gt;
