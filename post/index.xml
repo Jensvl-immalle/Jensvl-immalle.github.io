@@ -2,19 +2,19 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on GIP Jens VL 2015 - 2016</title>
-    <link>http://jensvanloon.github.io/post/</link>
+    <link>http://jensvl-immalle.github.io/post/</link>
     <description>Recent content in Posts on GIP Jens VL 2015 - 2016</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 17 Mar 2016 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://jensvanloon.github.io/post/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://jensvl-immalle.github.io/post/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Pour un reportage du photos de GEO Solutions, CLIQUEZ ICI!</title>
-      <link>http://jensvanloon.github.io/post/reportage/</link>
+      <link>http://jensvl-immalle.github.io/post/reportage/</link>
       <pubDate>Thu, 17 Mar 2016 00:00:00 +0000</pubDate>
       
-      <guid>http://jensvanloon.github.io/post/reportage/</guid>
+      <guid>http://jensvl-immalle.github.io/post/reportage/</guid>
       <description>
 
 &lt;h2 id=&#34;un-reportage-photos-du-geo-solutions:129ab08176e32a7903c8a41ec33d9099&#34;&gt;Un reportage photos du GEO Solutions&lt;/h2&gt;
@@ -25,10 +25,10 @@
     
     <item>
       <title>Review of a network tool in the training company - GEO Solutions</title>
-      <link>http://jensvanloon.github.io/post/review/</link>
+      <link>http://jensvl-immalle.github.io/post/review/</link>
       <pubDate>Thu, 17 Mar 2016 00:00:00 +0000</pubDate>
       
-      <guid>http://jensvanloon.github.io/post/review/</guid>
+      <guid>http://jensvl-immalle.github.io/post/review/</guid>
       <description>
 
 &lt;h2 id=&#34;my-review-of-amazon-aws:2cd397b25e1ccda644282ccdbd547c8a&#34;&gt;My review of Amazon AWS&lt;/h2&gt;
@@ -49,10 +49,10 @@
     
     <item>
       <title>Applicatie met JavaScript</title>
-      <link>http://jensvanloon.github.io/post/app/</link>
+      <link>http://jensvl-immalle.github.io/post/app/</link>
       <pubDate>Mon, 01 Feb 2016 00:00:00 +0000</pubDate>
       
-      <guid>http://jensvanloon.github.io/post/app/</guid>
+      <guid>http://jensvl-immalle.github.io/post/app/</guid>
       <description>
 
 &lt;h1 id=&#34;dnadventure:fa48a1428a04477b93a032492644bb9c&#34;&gt;DNAdventure&lt;/h1&gt;
@@ -63,10 +63,10 @@
     
     <item>
       <title>Case Study - Vervolg</title>
-      <link>http://jensvanloon.github.io/post/CaseStudy2/</link>
+      <link>http://jensvl-immalle.github.io/post/CaseStudy2/</link>
       <pubDate>Mon, 01 Feb 2016 00:00:00 +0000</pubDate>
       
-      <guid>http://jensvanloon.github.io/post/CaseStudy2/</guid>
+      <guid>http://jensvl-immalle.github.io/post/CaseStudy2/</guid>
       <description>
 
 &lt;h1 id=&#34;cloud-storage-amazon-aws:d237c511530b79f0226c28f70979dcb8&#34;&gt;Cloud Storage - Amazon AWS&lt;/h1&gt;
@@ -87,10 +87,10 @@
     
     <item>
       <title>Huisstijl van GEO Solutions</title>
-      <link>http://jensvanloon.github.io/post/huisstijl/</link>
+      <link>http://jensvl-immalle.github.io/post/huisstijl/</link>
       <pubDate>Mon, 01 Feb 2016 00:00:00 +0000</pubDate>
       
-      <guid>http://jensvanloon.github.io/post/huisstijl/</guid>
+      <guid>http://jensvl-immalle.github.io/post/huisstijl/</guid>
       <description>
 
 &lt;h2 id=&#34;huisstijl-geo-solutions:e2d1e8b2c3f026f63366bcfa3bb15b30&#34;&gt;HUISSTIJL - GEO SOLUTIONS&lt;/h2&gt;
@@ -103,10 +103,10 @@
     
     <item>
       <title>SQL Database</title>
-      <link>http://jensvanloon.github.io/post/sql/</link>
+      <link>http://jensvl-immalle.github.io/post/sql/</link>
       <pubDate>Mon, 01 Feb 2016 00:00:00 +0000</pubDate>
       
-      <guid>http://jensvanloon.github.io/post/sql/</guid>
+      <guid>http://jensvl-immalle.github.io/post/sql/</guid>
       <description>
 
 &lt;h1 id=&#34;sql-database:d1babb582138b02a13547d2c6eb6df72&#34;&gt;SQL Database&lt;/h1&gt;
@@ -152,10 +152,10 @@ VALUES (1,1,1);
     
     <item>
       <title>Vergelijken van Workflows</title>
-      <link>http://jensvanloon.github.io/post/workflowcmd/</link>
+      <link>http://jensvl-immalle.github.io/post/workflowcmd/</link>
       <pubDate>Mon, 01 Feb 2016 00:00:00 +0000</pubDate>
       
-      <guid>http://jensvanloon.github.io/post/workflowcmd/</guid>
+      <guid>http://jensvl-immalle.github.io/post/workflowcmd/</guid>
       <description>
 
 &lt;h5 id=&#34;hugo:37794aa3c628e9040a4c15d01a2b7df1&#34;&gt;Hugo&lt;/h5&gt;
@@ -213,10 +213,10 @@ VALUES (1,1,1);
     
     <item>
       <title>IT-Tapa Videos</title>
-      <link>http://jensvanloon.github.io/post/videos/</link>
+      <link>http://jensvl-immalle.github.io/post/videos/</link>
       <pubDate>Wed, 09 Dec 2015 18:50:21 +0100</pubDate>
       
-      <guid>http://jensvanloon.github.io/post/videos/</guid>
+      <guid>http://jensvl-immalle.github.io/post/videos/</guid>
       <description>&lt;div class=&#34;mdl-tabs mdl-js-tabs mdl-js-ripple-effect&#34;&gt;
 
   &lt;div class=&#34;mdl-tabs__tab-bar&#34;&gt;  
@@ -245,10 +245,10 @@ VALUES (1,1,1);
     
     <item>
       <title>IT-Tapa Sessie</title>
-      <link>http://jensvanloon.github.io/post/instructionvideo/</link>
+      <link>http://jensvl-immalle.github.io/post/instructionvideo/</link>
       <pubDate>Mon, 07 Dec 2015 16:55:24 +0100</pubDate>
       
-      <guid>http://jensvanloon.github.io/post/instructionvideo/</guid>
+      <guid>http://jensvl-immalle.github.io/post/instructionvideo/</guid>
       <description>
 
 &lt;h1 id=&#34;it-tapa-sessie:7729c935db047d9388a2d2a9fed64e89&#34;&gt;IT-Tapa Sessie&lt;/h1&gt;
@@ -265,7 +265,7 @@ die enkel beschikbaar is voor OneDrive for Business, kan je nog makkelijker best
 Buiten OneDrive bevat Office365 ook de welbekende applicaties zoals Word, PowerPoint en nog vele andere&lt;/p&gt;
 
 &lt;p&gt;Indien u nog vragen hebt over OneDrive of Office 365 kan u het antwoord vinden via &lt;a class=&#34;link&#34; href=&#34;https://support.office.com/nl-be/article/OneDrive-Help-5943c2b9-fafc-4cb4-95c0-9cc73fcabb30&#34;&gt;deze&lt;/a&gt; link.
-Onze instructiefilmpjes over OneDrive vindt u &lt;a class=&#34;link&#34; href=&#34;http://jensvanloon.github.io/post/videos&#34;&gt;hier&lt;/a&gt;. Onze FB-pagina vind u &lt;a class=&#34;link&#34; href=&#34;https://www.facebook.com/IT-tapa-588405757863108/?fref=ts&#34;&gt;hier&lt;/a&gt;.&lt;/p&gt;
+Onze instructiefilmpjes over OneDrive vindt u &lt;a class=&#34;link&#34; href=&#34;http://jensvl-immalle.github.io/post/videos&#34;&gt;hier&lt;/a&gt;. Onze FB-pagina vind u &lt;a class=&#34;link&#34; href=&#34;https://www.facebook.com/IT-tapa-588405757863108/?fref=ts&#34;&gt;hier&lt;/a&gt;.&lt;/p&gt;
 
 &lt;div id=&#34;myCarousel&#34; class=&#34;carousel slide&#34; data-ride=&#34;carousel&#34; style=&#34;width:85%; margin: auto auto&#34;&gt;
   &lt;ol class=&#34;carousel-indicators&#34;&gt;
@@ -275,13 +275,13 @@ Onze instructiefilmpjes over OneDrive vindt u &lt;a class=&#34;link&#34; href=&#
   &lt;/ol&gt;
   &lt;div class=&#34;carousel-inner&#34; role=&#34;listbox&#34;&gt;
   &lt;div class=&#34;item active&#34;&gt;
-    &lt;img src=&#34;http://jensvanloon.github.io/images/3.jpg&#34; alt=&#34;1&#34;&gt;
+    &lt;img src=&#34;http://jensvl-immalle.github.io/images/3.jpg&#34; alt=&#34;1&#34;&gt;
   &lt;/div&gt;
     &lt;div class=&#34;item&#34;&gt;
-      &lt;img src=&#34;http://jensvanloon.github.io/images/1.jpg&#34; alt=&#34;2&#34;&gt;
+      &lt;img src=&#34;http://jensvl-immalle.github.io/images/1.jpg&#34; alt=&#34;2&#34;&gt;
     &lt;/div&gt;
     &lt;div class=&#34;item&#34;&gt;
-      &lt;img src=&#34;http://jensvanloon.github.io/images/2.jpg&#34; alt=&#34;3&#34;&gt;
+      &lt;img src=&#34;http://jensvl-immalle.github.io/images/2.jpg&#34; alt=&#34;3&#34;&gt;
     &lt;/div&gt;
   &lt;/div&gt;
   &lt;a class=&#34;left carousel-control&#34; href=&#34;#myCarousel&#34; role=&#34;button&#34; data-slide=&#34;prev&#34;&gt;
@@ -298,17 +298,17 @@ Onze instructiefilmpjes over OneDrive vindt u &lt;a class=&#34;link&#34; href=&#
     
     <item>
       <title>TAAK 19 - Welkomstwoord</title>
-      <link>http://jensvanloon.github.io/post/Welkomstwoord/</link>
+      <link>http://jensvl-immalle.github.io/post/Welkomstwoord/</link>
       <pubDate>Sun, 29 Nov 2015 23:12:32 +0100</pubDate>
       
-      <guid>http://jensvanloon.github.io/post/Welkomstwoord/</guid>
+      <guid>http://jensvl-immalle.github.io/post/Welkomstwoord/</guid>
       <description>&lt;p&gt;&lt;span style=&#34;text-align: center; font-weight: bold; font-size: 50px&#34;&gt; Welkom op mijn site! &lt;/span&gt;&lt;/p&gt;
 
 &lt;p&gt;Beste bezoeker van mijn site, mag ik u van harte verwelkomen op mijn site. Ik hoop dat ik u alvast een goede indruk heb kunnen geven toen u deze site opende. Om u niet op een onbekende persoon zijn site te laten ronddwalen stel ik mezelf even voor.&lt;/p&gt;
 
 &lt;p&gt;Ik ben Jens Van Loon, een leerling van het Immaculata Instituut te Oostmalle. Geboren in het AZ Middelheim in Antwerpen sta ik al 17 jaar op deze wereld. In deze 17 jaren heb ik 13 jaren gedanst. Met driemaal de titel ‘Belgisch Kampioen’ kan ik toch met trots zeggen dat ik al wat bereikt heb in mijn leven. Naast dansen is informatica ook al altijd een belangrijk deel geweest in mijn leven. Op mijn 3 jaar kon ik al beter overweg met computers dan mijn ouders. Nu bent u hier, bezoeker op mijn website, de website van een zesdejaars in Informaticabeheer.&lt;/p&gt;
 
-&lt;p&gt;Mijn hoofddoel voor deze site was het strak design, iets dat dus ook makkelijk te gebruiken is. Ik heb gekozen om de hoofdzaken makkelijk beschikbaar te stellen. Zo kan u al mijn taken gewoon terugvinden op de hoofdpagina, door op een hiervan te klikken opent hij direct en kan u rustig lezen. U kan steeds teruggaan via het &lt;a class=&#34;link&#34; href=&#34;http://jensvanloon.github.io/&#34;&gt;“HOME”&lt;/a&gt; knopje in de navigatiebar, die ook op elke pagina aanwezig is. Op mobiele apparaten heb ik gekozen dit weg te laten en de onderdelen enkel via het menu aan de zijkant te laten zien. Als u op de knop &lt;a class=&#34;link&#34; href=&#34;http://jensvanloon.github.io/post&#34;&gt;“POSTS”&lt;/a&gt; klikt, vindt u een duidelijk overzicht van alle taken die doorheen het jaar gemaakt worden. Via de knop &lt;a class=&#34;link&#34; href=&#34;http://jensvanloon.github.io/project&#34;&gt;“STAGEVERSLAGEN”&lt;/a&gt; komt u bij mijn stageverslagen terecht die u kan opvolgen van &lt;b&gt;11 januari tot 22 januari.&lt;/b&gt; Verder is het gebruik van de site dat voor zichzelf spreekt.&lt;/p&gt;
+&lt;p&gt;Mijn hoofddoel voor deze site was het strak design, iets dat dus ook makkelijk te gebruiken is. Ik heb gekozen om de hoofdzaken makkelijk beschikbaar te stellen. Zo kan u al mijn taken gewoon terugvinden op de hoofdpagina, door op een hiervan te klikken opent hij direct en kan u rustig lezen. U kan steeds teruggaan via het &lt;a class=&#34;link&#34; href=&#34;http://jensvl-immalle.github.io/&#34;&gt;“HOME”&lt;/a&gt; knopje in de navigatiebar, die ook op elke pagina aanwezig is. Op mobiele apparaten heb ik gekozen dit weg te laten en de onderdelen enkel via het menu aan de zijkant te laten zien. Als u op de knop &lt;a class=&#34;link&#34; href=&#34;http://jensvl-immalle.github.io/post&#34;&gt;“POSTS”&lt;/a&gt; klikt, vindt u een duidelijk overzicht van alle taken die doorheen het jaar gemaakt worden. Via de knop &lt;a class=&#34;link&#34; href=&#34;http://jensvl-immalle.github.io/project&#34;&gt;“STAGEVERSLAGEN”&lt;/a&gt; komt u bij mijn stageverslagen terecht die u kan opvolgen van &lt;b&gt;11 januari tot 22 januari.&lt;/b&gt; Verder is het gebruik van de site dat voor zichzelf spreekt.&lt;/p&gt;
 
 &lt;p&gt;Hierbij hoop ik u voldoende te hebben ingeleid op mijn site. Wat u verder van mij kan verwachten? Ik ben een gedreven persoon en als ik iets wil bereiken zal ik hiertoe hard werken. In de IT-wereld is de definitie hard werken letterlijk van toepassing en is het geen geluk hebben. Ik zou ten eerste zeker een master-diploma willen krijgen in de toegepaste informatica. Na wat research te hebben gedaan kwam ik erachter dat Google opleidingen aanbied aan leerlingen met een master-diploma. Dit is dan ook mijn grote wens, om dan nadien in Californië aan de slag te kunnen gaan. Wie weet hoort u later nog van mij op een veel grotere schaal, dat is alvast waarnaar ik streef.&lt;/p&gt;
 
@@ -318,10 +318,10 @@ Onze instructiefilmpjes over OneDrive vindt u &lt;a class=&#34;link&#34; href=&#
     
     <item>
       <title>From Putt-Putt to C# ... my autobiography!</title>
-      <link>http://jensvanloon.github.io/post/IT-Autobiography/</link>
+      <link>http://jensvl-immalle.github.io/post/IT-Autobiography/</link>
       <pubDate>Sun, 08 Nov 2015 21:08:37 +0200</pubDate>
       
-      <guid>http://jensvanloon.github.io/post/IT-Autobiography/</guid>
+      <guid>http://jensvl-immalle.github.io/post/IT-Autobiography/</guid>
       <description>
 
 &lt;h1 id=&#34;it-autobiography:8934b5ad9d0d9d0c899665409c700bba&#34;&gt;IT-Autobiography&lt;/h1&gt;
@@ -332,7 +332,7 @@ Onze instructiefilmpjes over OneDrive vindt u &lt;a class=&#34;link&#34; href=&#
 
 &lt;p&gt;IT kind of changed my lifestyle, if something can be related to IT, I will do so. After I had learned the basics of programming in school, I started to explore programming languages myself. And so now I am learning Scala and AngularJS. The thing that makes me so interested in IT, is because it is continuously changing, everything evolves and gets futuristic, just how I like it. Now I’ve learned some more about IT, I start feeling a bit more ‘experienced’. When there is a problem with something IT-related in the family, they call me to ask for help. With pride, I will help everyone.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&#34;http://jensvanloon.github.io/images/me.jpg&#34; alt=&#34;This is me!&#34; style=&#34;width: 35%; float: right&#34;&gt;
+&lt;p&gt;&lt;img src=&#34;http://jensvl-immalle.github.io/images/me.jpg&#34; alt=&#34;This is me!&#34; style=&#34;width: 35%; float: right&#34;&gt;
 Since I started studying IT, I have had a whole new job goal. I would like to work in the USA, especially at Google. Google is a company that is an example for me. It has reached a lot, starting with one simple website. I would like to infiltrate into Google and get higher as I get better. Eventually, if I can’t reach this goal, I would like to do the same thing here in Belgium. Having a high function is something I would like to achieve. I’m a leader type and I want to use it. Although I always wanted to make my own operating system, I realized that it is hardly possible to achieve. But I’m quite sure I will get a high position in the IT world since I’m an ambitious person with a great and open mind.
 &lt;/img&gt;&lt;/p&gt;
 
@@ -342,10 +342,10 @@ Since I started studying IT, I have had a whole new job goal. I would like to wo
     
     <item>
       <title>Case Study - GEO Solutions</title>
-      <link>http://jensvanloon.github.io/post/CaseStudy/</link>
+      <link>http://jensvl-immalle.github.io/post/CaseStudy/</link>
       <pubDate>Wed, 28 Oct 2015 00:00:00 +0000</pubDate>
       
-      <guid>http://jensvanloon.github.io/post/CaseStudy/</guid>
+      <guid>http://jensvl-immalle.github.io/post/CaseStudy/</guid>
       <description>
 
 &lt;h1 id=&#34;case-study-bij-geo-solutions:012002a4ccf4c08711ada36cec8a571e&#34;&gt;Case study bij GEO Solutions&lt;/h1&gt;
@@ -401,10 +401,10 @@ Mvg, Rombout&lt;/p&gt;
     
     <item>
       <title>FAQ</title>
-      <link>http://jensvanloon.github.io/post/FAQ/</link>
+      <link>http://jensvl-immalle.github.io/post/FAQ/</link>
       <pubDate>Wed, 28 Oct 2015 00:00:00 +0000</pubDate>
       
-      <guid>http://jensvanloon.github.io/post/FAQ/</guid>
+      <guid>http://jensvl-immalle.github.io/post/FAQ/</guid>
       <description>&lt;div class=&#34;mdl-tabs mdl-js-tabs mdl-js-ripple-effect&#34;&gt;
   &lt;div class=&#34;mdl-tabs__tab-bar&#34;&gt;
       &lt;a href=&#34;#Français&#34; class=&#34;mdl-tabs__tab is-active&#34;&gt;Français&lt;/a&gt;
