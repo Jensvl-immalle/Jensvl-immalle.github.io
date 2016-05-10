@@ -10,45 +10,29 @@
     
     <item>
       <title></title>
-      <link>http://jensvl-immalle.github.io/html/software/</link>
+      <link>http://jensvl-immalle.github.io/html/app/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://jensvl-immalle.github.io/html/software/</guid>
-      <description>&lt;!DOCTYPE html&gt;
-&lt;html lang=&#34;en&#34;&gt;
+      <guid>http://jensvl-immalle.github.io/html/app/</guid>
+      <description>&lt;html&gt;
 &lt;head&gt;
-    &lt;meta charset=&#34;UTF-8&#34;&gt;
-    &lt;title&gt;IT-profile&lt;/title&gt;
-
-    &lt;link type=&#34;text/css&#34; rel=&#34;stylesheet&#34; href=&#34;../../css/style.css&#34;&gt;
-    &lt;link rel=&#34;stylesheet&#34; href=&#34;//cdn.jsdelivr.net/chartist.js/latest/chartist.min.css&#34;&gt;
+    &lt;link type=&#34;text/css&#34; rel=&#34;stylesheet&#34; href=&#34;../../css/app.css&#34;&gt;
+    &lt;script src=&#34;https://cdnjs.cloudflare.com/ajax/libs/gsap/1.18.2/TweenMax.min.js&#34;&gt;&lt;/script&gt;
+    &lt;script src=&#34;https://cdnjs.cloudflare.com/ajax/libs/gsap/1.18.2/utils/Draggable.min.js&#34;&gt;&lt;/script&gt;
     &lt;script src=&#34;https://ajax.googleapis.com/ajax/libs/jquery/2.2.2/jquery.min.js&#34;&gt;&lt;/script&gt;
-
 &lt;/head&gt;
 &lt;body&gt;
-&lt;header&gt;
-    &lt;a href=&#34;{{ .Site.BaseUrl }}&#34;&gt;&lt;button&gt;terug&lt;/button&gt;&lt;/a&gt;
-    &lt;h1&gt;IT-PROFILE - JENS VAN LOON&lt;/h1&gt;
-&lt;/header&gt;
-&lt;nav&gt;
-    &lt;ul&gt;&lt;a href=&#34;http://jensvl-immalle.github.io/about/index.html&#34;&gt;Over mij&lt;/a&gt;&lt;/ul&gt;&lt;!--
-    ---&gt;&lt;ul&gt;
-    &lt;a class=&#34;active&#34; href=&#34;http://jensvl-immalle.github.io/html/software/index.html&#34;&gt;Software&lt;/a&gt;
-    &lt;div class=&#34;content&#34;&gt;
-        &lt;a href=&#34;http://jensvl-immalle.github.io/html/web/index.html&#34;&gt;Web&lt;/a&gt;
-        &lt;a href=&#34;http://jensvl-immalle.github.io/html/desktop/index.html&#34;&gt;Desktop&lt;/a&gt;
-    &lt;/div&gt;
-&lt;/ul&gt;&lt;!--
-    ---&gt;&lt;ul&gt;
-    &lt;a class=&#34;active&#34; href=&#34;../../html/systeem/index.html&#34;&gt;Systeem &amp; Netwerkbeheer&lt;/a&gt;
-&lt;/ul&gt;
-&lt;/nav&gt;
-&lt;div id=&#34;container&#34;&gt;
-    &lt;a href=&#34;http://jensvl-immalle.github.io/html/web/index.html&#34;&gt;&lt;button&gt;Web&lt;/button&gt;&lt;/a&gt;
-    &lt;a href=&#34;http://jensvl-immalle.github.io/html/desktop/index.html&#34;&gt;&lt;button&gt;Desktop&lt;/button&gt;&lt;/a&gt;
+&lt;div id=&#34;modal&#34;&gt;
+    &lt;center&gt;&lt;h1&gt;DNAdventure&lt;/h1&gt;&lt;/center&gt;
+    &lt;center&gt;&lt;button id=&#34;clsModal&#34;&gt;Start&lt;/button&gt;&lt;/center&gt;
 &lt;/div&gt;
-&lt;script type=&#34;text/javascript&#34; src=&#34;https://cdnjs.cloudflare.com/ajax/libs/chartist/0.9.7/chartist.min.js&#34;&gt;&lt;/script&gt;
-&lt;script rel=&#34;script&#34; type=&#34;text/javascript&#34; src=&#34;http://jensvl-immalle.github.io/js/script.js&#34;&gt;&lt;/script&gt;
+&lt;div id=&#34;container&#34;&gt;
+&lt;/div&gt;
+
+&lt;footer&gt;&lt;p id=&#34;status&#34;&gt;&lt;/p&gt;&lt;p id=&#34;timer&#34;&gt;0 seconden&lt;/p&gt;&lt;/footer&gt;
+
+&lt;script src=&#34;https://ajax.googleapis.com/ajax/libs/jqueryui/1.10.3/jquery-ui.min.js&#34;&gt;&lt;/script&gt;
+&lt;script src=&#34;../../js/app.js&#34; rel=&#34;script&#34;&gt;&lt;/script&gt;
 &lt;/body&gt;
 &lt;/html&gt;
 </description>
@@ -110,29 +94,45 @@
     
     <item>
       <title></title>
-      <link>http://jensvl-immalle.github.io/html/app/</link>
+      <link>http://jensvl-immalle.github.io/html/software/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://jensvl-immalle.github.io/html/app/</guid>
-      <description>&lt;html&gt;
+      <guid>http://jensvl-immalle.github.io/html/software/</guid>
+      <description>&lt;!DOCTYPE html&gt;
+&lt;html lang=&#34;en&#34;&gt;
 &lt;head&gt;
-    &lt;link type=&#34;text/css&#34; rel=&#34;stylesheet&#34; href=&#34;../../css/app.css&#34;&gt;
-    &lt;script src=&#34;https://cdnjs.cloudflare.com/ajax/libs/gsap/1.18.2/TweenMax.min.js&#34;&gt;&lt;/script&gt;
-    &lt;script src=&#34;https://cdnjs.cloudflare.com/ajax/libs/gsap/1.18.2/utils/Draggable.min.js&#34;&gt;&lt;/script&gt;
+    &lt;meta charset=&#34;UTF-8&#34;&gt;
+    &lt;title&gt;IT-profile&lt;/title&gt;
+
+    &lt;link type=&#34;text/css&#34; rel=&#34;stylesheet&#34; href=&#34;../../css/style.css&#34;&gt;
+    &lt;link rel=&#34;stylesheet&#34; href=&#34;//cdn.jsdelivr.net/chartist.js/latest/chartist.min.css&#34;&gt;
     &lt;script src=&#34;https://ajax.googleapis.com/ajax/libs/jquery/2.2.2/jquery.min.js&#34;&gt;&lt;/script&gt;
+
 &lt;/head&gt;
 &lt;body&gt;
-&lt;div id=&#34;modal&#34;&gt;
-    &lt;center&gt;&lt;h1&gt;DNAdventure&lt;/h1&gt;&lt;/center&gt;
-    &lt;center&gt;&lt;button id=&#34;clsModal&#34;&gt;Start&lt;/button&gt;&lt;/center&gt;
-&lt;/div&gt;
+&lt;header&gt;
+    &lt;a href=&#34;{{ .Site.BaseUrl }}&#34;&gt;&lt;button&gt;terug&lt;/button&gt;&lt;/a&gt;
+    &lt;h1&gt;IT-PROFILE - JENS VAN LOON&lt;/h1&gt;
+&lt;/header&gt;
+&lt;nav&gt;
+    &lt;ul&gt;&lt;a href=&#34;http://jensvl-immalle.github.io/about/index.html&#34;&gt;Over mij&lt;/a&gt;&lt;/ul&gt;&lt;!--
+    ---&gt;&lt;ul&gt;
+    &lt;a class=&#34;active&#34; href=&#34;http://jensvl-immalle.github.io/html/software/index.html&#34;&gt;Software&lt;/a&gt;
+    &lt;div class=&#34;content&#34;&gt;
+        &lt;a href=&#34;http://jensvl-immalle.github.io/html/web/index.html&#34;&gt;Web&lt;/a&gt;
+        &lt;a href=&#34;http://jensvl-immalle.github.io/html/desktop/index.html&#34;&gt;Desktop&lt;/a&gt;
+    &lt;/div&gt;
+&lt;/ul&gt;&lt;!--
+    ---&gt;&lt;ul&gt;
+    &lt;a href=&#34;../../html/systeem/index.html&#34;&gt;Systeem &amp; Netwerkbeheer&lt;/a&gt;
+&lt;/ul&gt;
+&lt;/nav&gt;
 &lt;div id=&#34;container&#34;&gt;
+    &lt;a href=&#34;http://jensvl-immalle.github.io/html/web/index.html&#34;&gt;&lt;button&gt;Web&lt;/button&gt;&lt;/a&gt;
+    &lt;a href=&#34;http://jensvl-immalle.github.io/html/desktop/index.html&#34;&gt;&lt;button&gt;Desktop&lt;/button&gt;&lt;/a&gt;
 &lt;/div&gt;
-
-&lt;footer&gt;&lt;p id=&#34;status&#34;&gt;&lt;/p&gt;&lt;p id=&#34;timer&#34;&gt;0 seconden&lt;/p&gt;&lt;/footer&gt;
-
-&lt;script src=&#34;https://ajax.googleapis.com/ajax/libs/jqueryui/1.10.3/jquery-ui.min.js&#34;&gt;&lt;/script&gt;
-&lt;script src=&#34;../../js/app.js&#34; rel=&#34;script&#34;&gt;&lt;/script&gt;
+&lt;script type=&#34;text/javascript&#34; src=&#34;https://cdnjs.cloudflare.com/ajax/libs/chartist/0.9.7/chartist.min.js&#34;&gt;&lt;/script&gt;
+&lt;script rel=&#34;script&#34; type=&#34;text/javascript&#34; src=&#34;http://jensvl-immalle.github.io/js/script.js&#34;&gt;&lt;/script&gt;
 &lt;/body&gt;
 &lt;/html&gt;
 </description>
