@@ -1,0 +1,53 @@
+---
+author:
+  description: Leerling 6IB
+  email: jens.vanloon@immalle.be
+  name: Jens Van Loon
+cardbackground: green
+date: 2015-12-07T16:55:24+01:00
+title: IT-Tapa Sessie
+vak: Engels & Systeembeheer
+---
+# IT-Tapa Sessie
+
+Ik heb samen met <a class="link" href="http://vincent-boden.github.io/">Vincent Boden</a> gewerkt rond Office365 en OneDrive.
+Onze sessie verliep zeer vlot en het was voor ons heel aangenaam. Het deed me een plezier te weten dat ik de leerkrachten wat bijleerde.
+Ik zal de sessie onthouden als een leerrijke opdracht op verschillende aspecten zoals zelfstandigheid, structuur, groepswerk ...
+Een tweede keer? Gerust!
+
+OneDrive is de cloudopslag van Office365 en is zeer handig om te gebruiken in ons schoolnetwerk met de OneDrive for Business.
+Je kan met OneDrive je bestanden synchroniseren vanop je computer, deze bestanden kan je dan ook terugvinden op OneDrive Online.
+Zo hebt u ook de mogelijkheid bestanden te delen en samen te bewerken, heel vlot en simpel. Door de functie 'groepen',
+die enkel beschikbaar is voor OneDrive for Business, kan je nog makkelijker bestanden delen met bv. je werkgroep, leerlingen ...
+Buiten OneDrive bevat Office365 ook de welbekende applicaties zoals Word, PowerPoint en nog vele andere
+
+Indien u nog vragen hebt over OneDrive of Office 365 kan u het antwoord vinden via <a class="link" href="https://support.office.com/nl-be/article/OneDrive-Help-5943c2b9-fafc-4cb4-95c0-9cc73fcabb30">deze</a> link.
+Onze instructiefilmpjes over OneDrive vindt u <a class="link" href="/post/videos">hier</a>. Onze FB-pagina vind u <a class="link" href="https://www.facebook.com/IT-tapa-588405757863108/?fref=ts">hier</a>.
+
+
+<div id="myCarousel" class="carousel slide" data-ride="carousel" style="width:85%; margin: auto auto">
+  <ol class="carousel-indicators">
+    <li data-target="#myCarousel" data-slide-to="0" class="active"></li>
+    <li data-target="#myCarousel" data-slide-to="1"></li>
+    <li data-target="#myCarousel" data-slide-to="2"></li>
+  </ol>
+  <div class="carousel-inner" role="listbox">
+  <div class="item active">
+    <img src="/images/3.jpg" alt="1">
+  </div>
+    <div class="item">
+      <img src="/images/1.jpg" alt="2">
+    </div>
+    <div class="item">
+      <img src="/images/2.jpg" alt="3">
+    </div>
+  </div>
+  <a class="left carousel-control" href="#myCarousel" role="button" data-slide="prev">
+    <span class="glyphicon glyphicon-chevron-left" aria-hidden="true"></span>
+    <span class="sr-only">Vorige</span>
+  </a>
+  <a class="right carousel-control" href="#myCarousel" role="button" data-slide="next">
+    <span class="glyphicon glyphicon-chevron-right" aria-hidden="true"></span>
+    <span class="sr-only">Volgende</span>
+  </a>
+</div>

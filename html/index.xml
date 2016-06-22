@@ -10,29 +10,131 @@
     
     <item>
       <title></title>
-      <link>http://jensvl-immalle.github.io/html/app/</link>
+      <link>http://jensvl-immalle.github.io/html/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://jensvl-immalle.github.io/html/app/</guid>
-      <description>&lt;html&gt;
+      <guid>http://jensvl-immalle.github.io/html/about/</guid>
+      <description>&lt;!DOCTYPE html&gt;
+&lt;html lang=&#34;en&#34;&gt;
 &lt;head&gt;
-    &lt;link type=&#34;text/css&#34; rel=&#34;stylesheet&#34; href=&#34;../../css/app.css&#34;&gt;
-    &lt;script src=&#34;https://cdnjs.cloudflare.com/ajax/libs/gsap/1.18.2/TweenMax.min.js&#34;&gt;&lt;/script&gt;
-    &lt;script src=&#34;https://cdnjs.cloudflare.com/ajax/libs/gsap/1.18.2/utils/Draggable.min.js&#34;&gt;&lt;/script&gt;
+    &lt;meta charset=&#34;UTF-8&#34;&gt;
+    &lt;title&gt;IT-profile&lt;/title&gt;
+
+
+    &lt;link rel=&#34;stylesheet&#34; href=&#34;https://code.getmdl.io/1.1.3/material.grey-light_green.min.css&#34;&gt;
+    &lt;link type=&#34;text/css&#34; rel=&#34;stylesheet&#34; href=&#34;../../css/style.css&#34;&gt;
+    &lt;link rel=&#34;stylesheet&#34; href=&#34;//cdn.jsdelivr.net/chartist.js/latest/chartist.min.css&#34;&gt;
     &lt;script src=&#34;https://ajax.googleapis.com/ajax/libs/jquery/2.2.2/jquery.min.js&#34;&gt;&lt;/script&gt;
+
 &lt;/head&gt;
 &lt;body&gt;
-&lt;div id=&#34;modal&#34;&gt;
-    &lt;center&gt;&lt;h1&gt;DNAdventure&lt;/h1&gt;&lt;/center&gt;
-    &lt;center&gt;&lt;button id=&#34;clsModal&#34;&gt;Start&lt;/button&gt;&lt;/center&gt;
-&lt;/div&gt;
+&lt;header&gt;
+    &lt;a href=&#34;{{ .Site.BaseUrl }}&#34;&gt;&lt;button&gt;terug&lt;/button&gt;&lt;/a&gt;
+    &lt;h1&gt;IT-PROFILE - JENS VAN LOON&lt;/h1&gt;
+&lt;/header&gt;
+&lt;nav&gt;
+    &lt;ul&gt;&lt;a class=&#34;active&#34; href=&#34;../../html/about&#34;&gt;Over mij&lt;/a&gt;&lt;/ul&gt;&lt;!--
+    ---&gt;&lt;ul&gt;
+    &lt;a href=&#34;../../html/software&#34;&gt;Software&lt;/a&gt;
+    &lt;div class=&#34;content&#34;&gt;
+        &lt;a href=&#34;../../html/web&#34;&gt;Web&lt;/a&gt;
+        &lt;a href=&#34;../../html/desktop&#34;&gt;Desktop&lt;/a&gt;
+    &lt;/div&gt;
+&lt;/ul&gt;&lt;!--
+    ---&gt;&lt;ul&gt;
+    &lt;a href=&#34;../../html/systeem&#34;&gt;Systeem &amp; Netwerkbeheer&lt;/a&gt;
+    &lt;/div&gt;
+&lt;/ul&gt;
+&lt;/nav&gt;
 &lt;div id=&#34;container&#34;&gt;
+    &lt;article&gt;
+        &lt;h3&gt;Algemene info&lt;/h3&gt;
+        &lt;section class=&#34;hide&#34;&gt;
+            &lt;img src=&#34;../../images/aboutme.jpg&#34;&gt;
+            &lt;p&gt;
+                Ik ben Jens Van Loon, een leerling van het Immaculata Instituut te Oostmalle.
+                Geboren op 22/02/1998 in het AZ Middelheimin Antwerpen sta ik al 18 jaar op deze wereld.
+                In deze 18 jaren heb ik 13 jaren gedanst.
+                Met driemaal de titel ‘Belgisch Kampioen’ kan ik toch met trots zeggen dat ik al wat bereikt heb in mijn leven.
+                Naast dansen is informatica ook al altijd een belangrijk deel geweest in mijn leven.
+                Op mijn 3 jaar kon ik al beter overweg met computers dan mijn ouders.
+            &lt;/p&gt;
+        &lt;/section&gt;
+    &lt;/article&gt;
+    &lt;article&gt;
+        &lt;h3&gt;Interesses&lt;/h3&gt;
+        &lt;section class=&#34;hide&#34;&gt;
+            &lt;style&gt;
+                .demo-list-item {
+                    width: 300px;
+                }
+            &lt;/style&gt;
+
+            &lt;ul class=&#34;demo-list-item mdl-list&#34;&gt;
+                &lt;li class=&#34;mdl-list__item&#34;&gt;
+                    &lt;span class=&#34;mdl-list__item-primary-content&#34;&gt;
+                        Dansen
+                    &lt;/span&gt;
+                &lt;/li&gt;
+                &lt;li class=&#34;mdl-list__item&#34;&gt;
+                    &lt;span class=&#34;mdl-list__item-primary-content&#34;&gt;
+                        Superhelden
+                    &lt;/span&gt;
+                &lt;/li&gt;
+                &lt;li class=&#34;mdl-list__item&#34;&gt;
+                    &lt;span class=&#34;mdl-list__item-primary-content&#34;&gt;
+                        Televisieseries
+                    &lt;/span&gt;
+                &lt;/li&gt;
+                &lt;li class=&#34;mdl-list__item&#34;&gt;
+                    &lt;span class=&#34;mdl-list__item-primary-content&#34;&gt;
+                        Acteren
+                    &lt;/span&gt;
+                &lt;/li&gt;
+                &lt;li class=&#34;mdl-list__item&#34;&gt;
+                    &lt;span class=&#34;mdl-list__item-primary-content&#34;&gt;
+                        Gamen
+                    &lt;/span&gt;
+                &lt;/li&gt;
+            &lt;/ul&gt;
+        &lt;/section&gt;
+    &lt;/article&gt;
+    &lt;article&gt;
+        &lt;h3&gt;Ambities&lt;/h3&gt;
+        &lt;section class=&#34;hide&#34;&gt;
+            &lt;ul class=&#34;demo-list-item mdl-list&#34;&gt;
+                &lt;li class=&#34;mdl-list__item&#34;&gt;
+                    &lt;span class=&#34;mdl-list__item-primary-content&#34;&gt;
+                        Job bij Google, Mt. View
+                    &lt;/span&gt;
+                &lt;/li&gt;
+                &lt;li class=&#34;mdl-list__item&#34;&gt;
+                    &lt;span class=&#34;mdl-list__item-primary-content&#34;&gt;
+                        Verhuizen naar Californië
+                    &lt;/span&gt;
+                &lt;/li&gt;
+                &lt;li class=&#34;mdl-list__item&#34;&gt;
+                    &lt;span class=&#34;mdl-list__item-primary-content&#34;&gt;
+                        Eigen mobiele app ontwikkelen
+                    &lt;/span&gt;
+                &lt;/li&gt;
+                &lt;li class=&#34;mdl-list__item&#34;&gt;
+                    &lt;span class=&#34;mdl-list__item-primary-content&#34;&gt;
+                        Java leren
+                    &lt;/span&gt;
+                &lt;/li&gt;
+            &lt;/ul&gt;
+        &lt;/section&gt;
+    &lt;/article&gt;
+    &lt;article&gt;
+        &lt;h3&gt;Extra&lt;/h3&gt;
+        &lt;section class=&#34;hide&#34;&gt;
+            &lt;p&gt;Niet veel speciaal :)&lt;/p&gt;
+        &lt;/section&gt;
+    &lt;/article&gt;
 &lt;/div&gt;
-
-&lt;footer&gt;&lt;p id=&#34;status&#34;&gt;&lt;/p&gt;&lt;p id=&#34;timer&#34;&gt;0 seconden&lt;/p&gt;&lt;/footer&gt;
-
-&lt;script src=&#34;https://ajax.googleapis.com/ajax/libs/jqueryui/1.10.3/jquery-ui.min.js&#34;&gt;&lt;/script&gt;
-&lt;script src=&#34;../../js/app.js&#34; rel=&#34;script&#34;&gt;&lt;/script&gt;
+&lt;script type=&#34;text/javascript&#34; src=&#34;https://cdnjs.cloudflare.com/ajax/libs/chartist/0.9.7/chartist.min.js&#34;&gt;&lt;/script&gt;
+&lt;script rel=&#34;script&#34; type=&#34;text/javascript&#34; src=&#34;../../js/script.js&#34;&gt;&lt;/script&gt;
 &lt;/body&gt;
 &lt;/html&gt;
 </description>
@@ -61,16 +163,16 @@
     &lt;h1&gt;IT-PROFILE - JENS VAN LOON&lt;/h1&gt;
 &lt;/header&gt;
 &lt;nav&gt;
-    &lt;ul&gt;&lt;a href=&#34;../../about/index.html&#34;&gt;Over mij&lt;/a&gt;&lt;/ul&gt;&lt;!--
+    &lt;ul&gt;&lt;a href=&#34;../../html/about&#34;&gt;Over mij&lt;/a&gt;&lt;/ul&gt;&lt;!--
     ---&gt;&lt;ul&gt;
-    &lt;a class=&#34;active&#34; href=&#34;../../html/software/index.html&#34;&gt;Software&lt;/a&gt;
+    &lt;a class=&#34;active&#34; href=&#34;../../html/software&#34;&gt;Software&lt;/a&gt;
     &lt;div class=&#34;content&#34;&gt;
-        &lt;a href=&#34;../../html/web/index.html&#34;&gt;Web&lt;/a&gt;
-        &lt;a class=&#34;active&#34; href=&#34;../../html/desktop/index.html&#34;&gt;Desktop&lt;/a&gt;
+        &lt;a href=&#34;../../html/web&#34;&gt;Web&lt;/a&gt;
+        &lt;a class=&#34;active&#34; href=&#34;../../html/desktop&#34;&gt;Desktop&lt;/a&gt;
     &lt;/div&gt;
 &lt;/ul&gt;&lt;!--
     ---&gt;&lt;ul&gt;
-    &lt;a href=&#34;../../html/systeem/index.html&#34;&gt;Systeem &amp; Netwerkbeheer&lt;/a&gt;
+    &lt;a href=&#34;../../html/systeem&#34;&gt;Systeem &amp; Netwerkbeheer&lt;/a&gt;
     &lt;/div&gt;
 &lt;/ul&gt;
 &lt;/nav&gt;
@@ -84,6 +186,94 @@
     &lt;div id=&#34;sql&#34;&gt;SQL&lt;/div&gt;
     &lt;div id=&#34;cmd&#34;&gt;CMD&lt;/div&gt;
     &lt;div id=&#34;go&#34;&gt;Go&lt;/div&gt;
+&lt;/div&gt;
+&lt;script type=&#34;text/javascript&#34; src=&#34;https://cdnjs.cloudflare.com/ajax/libs/chartist/0.9.7/chartist.min.js&#34;&gt;&lt;/script&gt;
+&lt;script rel=&#34;script&#34; type=&#34;text/javascript&#34; src=&#34;../../js/script.js&#34;&gt;&lt;/script&gt;
+&lt;/body&gt;
+&lt;/html&gt;
+</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://jensvl-immalle.github.io/html/app/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://jensvl-immalle.github.io/html/app/</guid>
+      <description>&lt;html&gt;
+&lt;head&gt;
+    &lt;link type=&#34;text/css&#34; rel=&#34;stylesheet&#34; href=&#34;../../css/app.css&#34;&gt;
+    &lt;script src=&#34;https://cdnjs.cloudflare.com/ajax/libs/gsap/1.18.2/utils/Draggable.min.js&#34;&gt;&lt;/script&gt;
+    &lt;script src=&#34;https://ajax.googleapis.com/ajax/libs/jquery/2.2.2/jquery.min.js&#34;&gt;&lt;/script&gt;
+&lt;/head&gt;
+&lt;body&gt;
+&lt;div id=&#34;modal&#34;&gt;
+        &lt;center&gt;&lt;h1&gt;DNAdventure&lt;/h1&gt;&lt;/center&gt;
+        &lt;center&gt;
+         &lt;p id=&#34;intro&#34;&gt;
+            Het doel is om alle slechte eiwitten weg te krijgen voor een goede replicate van DNA! &lt;br&gt;
+            Dit doe je door erop te klikken. Vervolgens moeten we de eiwitten combineren voor een goede DNA replicatie. &lt;br&gt;
+            Simpelweg verslepen en combineren, succes!
+        &lt;/p&gt;&lt;br&gt;&lt;/center&gt;
+        &lt;center&gt;&lt;button id=&#34;clsModal&#34;&gt;Start&lt;/button&gt;&lt;/center&gt;
+&lt;/div&gt;
+&lt;div id=&#34;container&#34;&gt;
+&lt;/div&gt;
+
+&lt;footer&gt;&lt;p id=&#34;status&#34;&gt;&lt;/p&gt;&lt;p id=&#34;timer&#34;&gt;0 seconden&lt;/p&gt;&lt;/footer&gt;
+
+&lt;script src=&#34;https://ajax.googleapis.com/ajax/libs/jqueryui/1.10.3/jquery-ui.min.js&#34;&gt;&lt;/script&gt;
+&lt;script src=&#34;../../js/app.js&#34; rel=&#34;script&#34;&gt;&lt;/script&gt;
+&lt;/body&gt;
+&lt;/html&gt;
+</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://jensvl-immalle.github.io/html/systeem/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://jensvl-immalle.github.io/html/systeem/</guid>
+      <description>&lt;!DOCTYPE html&gt;
+&lt;html lang=&#34;en&#34;&gt;
+&lt;head&gt;
+    &lt;meta charset=&#34;UTF-8&#34;&gt;
+    &lt;title&gt;IT-profile&lt;/title&gt;
+
+    &lt;link type=&#34;text/css&#34; rel=&#34;stylesheet&#34; href=&#34;../../css/style.css&#34;&gt;
+    &lt;link rel=&#34;stylesheet&#34; href=&#34;//cdn.jsdelivr.net/chartist.js/latest/chartist.min.css&#34;&gt;
+    &lt;script src=&#34;https://ajax.googleapis.com/ajax/libs/jquery/2.2.2/jquery.min.js&#34;&gt;&lt;/script&gt;
+&lt;/head&gt;
+&lt;body&gt;
+&lt;header&gt;
+    &lt;a href=&#34;{{ .Site.BaseUrl }}&#34;&gt;&lt;button&gt;terug&lt;/button&gt;&lt;/a&gt;
+    &lt;h1&gt;IT-PROFILE - JENS VAN LOON&lt;/h1&gt;
+&lt;/header&gt;
+&lt;nav&gt;
+    &lt;ul&gt;&lt;a href=&#34;../../html/about&#34;&gt;Over mij&lt;/a&gt;&lt;/ul&gt;&lt;!--
+    ---&gt;&lt;ul&gt;
+    &lt;a href=&#34;../../html/software&#34;&gt;Software&lt;/a&gt;
+    &lt;div class=&#34;content&#34;&gt;
+        &lt;a href=&#34;../../html/web&#34;&gt;Web&lt;/a&gt;
+        &lt;a href=&#34;../../html/desktop&#34;&gt;Desktop&lt;/a&gt;
+    &lt;/div&gt;
+&lt;/ul&gt;&lt;!--
+    ---&gt;&lt;ul&gt;
+    &lt;a class=&#34;active&#34; href=&#34;../../html/systeem&#34;&gt;Systeem &amp; Netwerkbeheer&lt;/a&gt;
+&lt;/ul&gt;
+&lt;/nav&gt;
+&lt;div id=&#34;container&#34;&gt;
+    &lt;div class=&#34;text&#34;&gt;
+        Doorheen mijn studiejaren hebben we diversen onderwerpen bekeken.
+        Dit ging van hardware tot softwarepakketten om netwerken te beheren.
+        Op mijn stage heb ik het gebruik van Amazon geleerd op minimale basis.
+    &lt;/div&gt;
+    &lt;div id=&#34;wserver&#34;&gt;Windows&lt;/div&gt;
+    &lt;div id=&#34;netwerk&#34;&gt;Netwerken&lt;/div&gt;
+    &lt;div id=&#34;cisco&#34;&gt;Cisco&lt;/div&gt;
+    &lt;div id=&#34;hardware&#34;&gt;Hardware&lt;/div&gt;
+    &lt;div id=&#34;amazon&#34;&gt;Amazon AWS&lt;/div&gt;
 &lt;/div&gt;
 &lt;script type=&#34;text/javascript&#34; src=&#34;https://cdnjs.cloudflare.com/ajax/libs/chartist/0.9.7/chartist.min.js&#34;&gt;&lt;/script&gt;
 &lt;script rel=&#34;script&#34; type=&#34;text/javascript&#34; src=&#34;../../js/script.js&#34;&gt;&lt;/script&gt;
@@ -115,16 +305,16 @@
     &lt;h1&gt;IT-PROFILE - JENS VAN LOON&lt;/h1&gt;
 &lt;/header&gt;
 &lt;nav&gt;
-    &lt;ul&gt;&lt;a href=&#34;http://jensvl-immalle.github.io/about/index.html&#34;&gt;Over mij&lt;/a&gt;&lt;/ul&gt;&lt;!--
+    &lt;ul&gt;&lt;a href=&#34;../../html/about&#34;&gt;Over mij&lt;/a&gt;&lt;/ul&gt;&lt;!--
     ---&gt;&lt;ul&gt;
-    &lt;a class=&#34;active&#34; href=&#34;http://jensvl-immalle.github.io/html/software/index.html&#34;&gt;Software&lt;/a&gt;
+    &lt;a class=&#34;active&#34; href=&#34;http://jensvl-immalle.github.io/html/software&#34;&gt;Software&lt;/a&gt;
     &lt;div class=&#34;content&#34;&gt;
         &lt;a href=&#34;http://jensvl-immalle.github.io/html/web/index.html&#34;&gt;Web&lt;/a&gt;
-        &lt;a href=&#34;http://jensvl-immalle.github.io/html/desktop/index.html&#34;&gt;Desktop&lt;/a&gt;
+        &lt;a href=&#34;http://jensvl-immalle.github.io/html/desktop&#34;&gt;Desktop&lt;/a&gt;
     &lt;/div&gt;
 &lt;/ul&gt;&lt;!--
     ---&gt;&lt;ul&gt;
-    &lt;a href=&#34;../../html/systeem/index.html&#34;&gt;Systeem &amp; Netwerkbeheer&lt;/a&gt;
+    &lt;a href=&#34;../../html/systeem&#34;&gt;Systeem &amp; Netwerkbeheer&lt;/a&gt;
 &lt;/ul&gt;
 &lt;/nav&gt;
 &lt;div id=&#34;container&#34;&gt;
@@ -133,59 +323,6 @@
 &lt;/div&gt;
 &lt;script type=&#34;text/javascript&#34; src=&#34;https://cdnjs.cloudflare.com/ajax/libs/chartist/0.9.7/chartist.min.js&#34;&gt;&lt;/script&gt;
 &lt;script rel=&#34;script&#34; type=&#34;text/javascript&#34; src=&#34;http://jensvl-immalle.github.io/js/script.js&#34;&gt;&lt;/script&gt;
-&lt;/body&gt;
-&lt;/html&gt;
-</description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>http://jensvl-immalle.github.io/html/systeem/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>http://jensvl-immalle.github.io/html/systeem/</guid>
-      <description>&lt;!DOCTYPE html&gt;
-&lt;html lang=&#34;en&#34;&gt;
-&lt;head&gt;
-    &lt;meta charset=&#34;UTF-8&#34;&gt;
-    &lt;title&gt;IT-profile&lt;/title&gt;
-
-    &lt;link type=&#34;text/css&#34; rel=&#34;stylesheet&#34; href=&#34;../../css/style.css&#34;&gt;
-    &lt;link rel=&#34;stylesheet&#34; href=&#34;//cdn.jsdelivr.net/chartist.js/latest/chartist.min.css&#34;&gt;
-    &lt;script src=&#34;https://ajax.googleapis.com/ajax/libs/jquery/2.2.2/jquery.min.js&#34;&gt;&lt;/script&gt;
-&lt;/head&gt;
-&lt;body&gt;
-&lt;header&gt;
-    &lt;a href=&#34;{{ .Site.BaseUrl }}&#34;&gt;&lt;button&gt;terug&lt;/button&gt;&lt;/a&gt;
-    &lt;h1&gt;IT-PROFILE - JENS VAN LOON&lt;/h1&gt;
-&lt;/header&gt;
-&lt;nav&gt;
-    &lt;ul&gt;&lt;a href=&#34;../../about/index.html&#34;&gt;Over mij&lt;/a&gt;&lt;/ul&gt;&lt;!--
-    ---&gt;&lt;ul&gt;
-    &lt;a href=&#34;../../html/software/index.html&#34;&gt;Software&lt;/a&gt;
-    &lt;div class=&#34;content&#34;&gt;
-        &lt;a href=&#34;../../html/web/index.html&#34;&gt;Web&lt;/a&gt;
-        &lt;a href=&#34;../../html/desktop/index.html&#34;&gt;Desktop&lt;/a&gt;
-    &lt;/div&gt;
-&lt;/ul&gt;&lt;!--
-    ---&gt;&lt;ul&gt;
-    &lt;a class=&#34;active&#34; href=&#34;../../html/systeem/index.html&#34;&gt;Systeem &amp; Netwerkbeheer&lt;/a&gt;
-&lt;/ul&gt;
-&lt;/nav&gt;
-&lt;div id=&#34;container&#34;&gt;
-    &lt;div class=&#34;text&#34;&gt;
-        Doorheen mijn studiejaren hebben we diversen onderwerpen bekeken.
-        Dit ging van hardware tot softwarepakketten om netwerken te beheren.
-        Op mijn stage heb ik het gebruik van Amazon geleerd op minimale basis.
-    &lt;/div&gt;
-    &lt;div id=&#34;wserver&#34;&gt;Windows&lt;/div&gt;
-    &lt;div id=&#34;netwerk&#34;&gt;Netwerken&lt;/div&gt;
-    &lt;div id=&#34;cisco&#34;&gt;Cisco&lt;/div&gt;
-    &lt;div id=&#34;hardware&#34;&gt;Hardware&lt;/div&gt;
-    &lt;div id=&#34;amazon&#34;&gt;Amazon AWS&lt;/div&gt;
-&lt;/div&gt;
-&lt;script type=&#34;text/javascript&#34; src=&#34;https://cdnjs.cloudflare.com/ajax/libs/chartist/0.9.7/chartist.min.js&#34;&gt;&lt;/script&gt;
-&lt;script rel=&#34;script&#34; type=&#34;text/javascript&#34; src=&#34;../../js/script.js&#34;&gt;&lt;/script&gt;
 &lt;/body&gt;
 &lt;/html&gt;
 </description>
@@ -214,16 +351,16 @@
     &lt;h1&gt;IT-PROFILE - JENS VAN LOON&lt;/h1&gt;
 &lt;/header&gt;
 &lt;nav&gt;
-    &lt;ul&gt;&lt;a href=&#34;../../about/index.html&#34;&gt;Over mij&lt;/a&gt;&lt;/ul&gt;&lt;!--
+    &lt;ul&gt;&lt;a href=&#34;../../html/about&#34;&gt;Over mij&lt;/a&gt;&lt;/ul&gt;&lt;!--
     ---&gt;&lt;ul&gt;
-    &lt;a class=&#34;active&#34; href=&#34;../../html/software/index.html&#34;&gt;Software&lt;/a&gt;
+    &lt;a class=&#34;active&#34; href=&#34;../../html/software&#34;&gt;Software&lt;/a&gt;
     &lt;div class=&#34;content&#34;&gt;
-        &lt;a class=&#34;active&#34; href=&#34;../../html/web/index.html&#34;&gt;Web&lt;/a&gt;
-        &lt;a href=&#34;../../html/desktop/index.html&#34;&gt;Desktop&lt;/a&gt;
+        &lt;a class=&#34;active&#34; href=&#34;../../html/web&#34;&gt;Web&lt;/a&gt;
+        &lt;a href=&#34;../../html/desktop&#34;&gt;Desktop&lt;/a&gt;
     &lt;/div&gt;
 &lt;/ul&gt;&lt;!--
     ---&gt;&lt;ul&gt;
-    &lt;a href=&#34;../../html/systeem/index.html&#34;&gt;Systeem &amp; Netwerkbeheer&lt;/a&gt;
+    &lt;a href=&#34;../../html/systeem&#34;&gt;Systeem &amp; Netwerkbeheer&lt;/a&gt;
 &lt;/ul&gt;
 &lt;/nav&gt;
 &lt;div id=&#34;container&#34;&gt;

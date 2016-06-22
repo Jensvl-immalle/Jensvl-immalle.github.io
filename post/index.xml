@@ -10,7 +10,7 @@
     <atom:link href="http://jensvl-immalle.github.io/post/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
-      <title>Pour un reportage du photos de GEO Solutions, CLIQUEZ ICI!</title>
+      <title>Reportage du photos de GEO Solutions</title>
       <link>http://jensvl-immalle.github.io/post/reportage/</link>
       <pubDate>Thu, 17 Mar 2016 00:00:00 +0000</pubDate>
       
@@ -57,7 +57,16 @@
 
 &lt;h1 id=&#34;dnadventure:fa48a1428a04477b93a032492644bb9c&#34;&gt;DNAdventure&lt;/h1&gt;
 
-&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;../../html/app/index.html&#34;&gt;Hier&lt;/a&gt; kan u de JavaScript-applicatie vinden.&lt;/p&gt;
+&lt;p&gt;Ik heb een &amp;lsquo;simulatie&amp;rsquo; van een DNA replicatie. Door straling zijn er echter wel slechte eiwitten gecrëerd.
+De speler kan deze wegdoen door hier op te klikken. Nadien de juiste eiwitten combineren voor een geslaagde DNA replicatie.&lt;/p&gt;
+
+&lt;p&gt;Er zitten nog enkele bugs in het spel maar ik ben persoonlijk zeer tevreden van het resultaat.
+Er zitten enkele stukjes code in met een zeer moeilijke, maar logische algoritmes.
+Ik vond het een heel leuke opdracht en ik kon mijn kennis van JavaScript goed gebruiken.&lt;/p&gt;
+
+&lt;p&gt;de JavaScript code vind je &lt;a class=&#34;link&#34; href=&#34;https://github.com/Jensvl-immalle/jensvl-immalle.github.io/blob/master/js/app.js&#34;&gt;hier&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;../../html/app&#34;&gt;&lt;button&gt;DNAdventure&lt;/button&gt;&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     
@@ -147,6 +156,122 @@ VALUES (1, &amp;quot;Jens&amp;quot;, 18);
 INSERT INTO LeerlingVak(id, leerling_id, vak_id)
 VALUES (1,1,1);
 &lt;/code&gt;&lt;/pre&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Testopstelling - Moodle</title>
+      <link>http://jensvl-immalle.github.io/post/testopstelling/</link>
+      <pubDate>Mon, 01 Feb 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://jensvl-immalle.github.io/post/testopstelling/</guid>
+      <description>
+
+&lt;h1 id=&#34;testopstelling-moodle:c36ee4a195c72d275a44931f82064b64&#34;&gt;Testopstelling - Moodle&lt;/h1&gt;
+
+&lt;p&gt;Hieronder enkele vaststellingen die we hebben waargenomen tijdens het testopstellen van het programma Moodle. Aangezien Moodle niet zo’n bekend programma is, hebben we eerst heel wat onderzoek moeten doen vooraleer we konden starten. Moodle is een open source softwarepakket en kan online gevonden worden. Na het downloaden van een tar.gz pakket van moodle kan men aan de slag met de installatie. Voor een vlotte installatie dien je op voorhand de volgende dingen reeds te hebben geïnstalleerd:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;LAMP (Linux, Apache2, Mysql-server, PHP5)&lt;/li&gt;
+&lt;li&gt;PHP-cURL en PHP-Zip&lt;/li&gt;
+&lt;li&gt;Een werkende database genaamd ‘moodle’&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Als je dit hebt kan je de installatie beginnen, wat een kwestie van invullen is. Je gaat naar je hostingpagina, in ons geval ‘localhost’. De install.php wordt automatisch geopend en je kan verder met de installatie. Moodle is heel makkelijk te installeren mits een minimale kennis van LAMP-servers. Men geeft ook steeds een duidelijk overzicht of alles correct verlopen is. Na het installeren kan je je instellingen aanpassen naar diens wens. Met een vanzelfsprekende layout is het heel makkelijk te gebruiken. Moest er een probleem zijn met je installatie, of na de installatie, geen schrik. Moodle heeft een heel goede community waar ze steeds elkaar helpen. Er zijn zelfs forums in verschillende talen om iedereen de makkelijkste oplossing te geven. Zeker een groot voordeel aan moodle.&lt;/p&gt;
+
+&lt;p&gt;Toch hadden we de installatie van Moodle enkele malen opnieuw moeten doen. Het probleem lag niet echt in de software van Moodle maar in de opstelling ervan. Het is niet altijd even gemakkelijk om met PHP, MySql en dergelijke te werken. Zo had je soms een extra plugin nodig op PHP, of moest je kiezen uit verschillende type databases. Als beginner, amateur in dit genre was het geen simpele klus om dit te begrijpen. Maar, na enkele keren proberen, genoeg dingen opzoeken, informatie verzamelen, … kom je er wel.&lt;/p&gt;
+
+&lt;p&gt;Ik zou moodle zeker aanraden als je iemand kent met een grondige kennis van PHP en het opzetten van databases. Zo kan ik mij voorstellen dat de installatie in één keer vlekkeloos moet gaan. Het is open-source dus het wordt steeds aangepast en vernieuwd wat ook zeer goed is! Je hangt niet vast aan licensies of dergelijke dus de kosten blijven ook steeds laag. Moest er ooit iets fout gaan met je Moodle is er de back-up functie. Je hoeft dus nooit te vrezen om heel je ‘organisatie’ kwijt te raken. Een druk op de knop en het is terug.&lt;/p&gt;
+
+&lt;h3 id=&#34;pro-s:c36ee4a195c72d275a44931f82064b64&#34;&gt;Pro’s&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Goede community&lt;/li&gt;
+&lt;li&gt;Veel personalisering mogelijkheden&lt;/li&gt;
+&lt;li&gt;Kost weinig om te hosten&lt;/li&gt;
+&lt;li&gt;Open-source&lt;/li&gt;
+&lt;li&gt;Makkelijk te leren&lt;/li&gt;
+&lt;li&gt;Je hebt backup en restore function&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Hoewel moodle een leuk tooltje is om uit te testen heeft het ook wel zijn nadelen die (makkelijk) opgelost kunnen worden.&lt;/p&gt;
+
+&lt;h3 id=&#34;con-s:c36ee4a195c72d275a44931f82064b64&#34;&gt;Con’s&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Je moet wat technische ervaring hebben met Moodle ( + MySql) voor het te gebruiken.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Met andere woorden, IT-kennis voor het installeren van Moodle en een basis MySQL kennis voor het onderhouden van de databank die er voor nodig is.&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Er is geen ondersteunings dienst (tech support) aanwezig&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Je zal op je eentje moeten uitpluizen hoe je jouw probleem juist oplost. Er zijn uiteraard wel fora’s waar je gelijkaardige problemen van andere mensen zal tegenkomen.&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Het is kleinschalig (niet echt te gebruiken voor grote projecten)&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Het is moeilijk te onderhouden als er teveel accounts actief zijn. Dit kan zorgen voor een onduidelijke en rommelige Moodle.&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Het is niet gebruiksvriendelijk en complex&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Als er bij de installatie iets fout loopt, worden er zeer weinig tot geen details bekend gemaakt waaraan het juist liegt. Je moet dit zelf weten te vinden en dat gaat niet altijd even gemakkelijk.&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Weten hoe je Moodle voor het eerst moet gebruiken is niet zo voor de hand liggend&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Op zich lijkt Moodle iets handig, maar eens je het hebt opgestart zal je naar voorbeelden moeten zoeken om te zien hoe je het zou moeten gebruiken.&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Weinig templates waaruit je kan kiezen&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;De templates zijn allemaal eigenlijk verschillende varianten van hetzelfde thema in Moodle.&lt;/p&gt;
+
+&lt;div id=&#34;myCarousel&#34; class=&#34;carousel slide&#34; data-ride=&#34;carousel&#34; style=&#34;width:85%; margin: auto auto&#34;&gt;
+    &lt;ol class=&#34;carousel-indicators&#34;&gt;
+        &lt;li data-target=&#34;#myCarousel&#34; data-slide-to=&#34;0&#34; class=&#34;active&#34;&gt;&lt;/li&gt;
+        &lt;li data-target=&#34;#myCarousel&#34; data-slide-to=&#34;1&#34;&gt;&lt;/li&gt;
+        &lt;li data-target=&#34;#myCarousel&#34; data-slide-to=&#34;2&#34;&gt;&lt;/li&gt;
+    &lt;/ol&gt;
+    &lt;div class=&#34;carousel-inner&#34; role=&#34;listbox&#34;&gt;
+        &lt;div class=&#34;item active&#34;&gt;
+            &lt;img src=&#34;http://jensvl-immalle.github.io/images/moodle (1).png&#34; alt=&#34;1&#34;&gt;
+        &lt;/div&gt;
+        &lt;div class=&#34;item&#34;&gt;
+            &lt;img src=&#34;http://jensvl-immalle.github.io/images/moodle (2).png&#34; alt=&#34;2&#34;&gt;
+        &lt;/div&gt;
+        &lt;div class=&#34;item&#34;&gt;
+            &lt;img src=&#34;http://jensvl-immalle.github.io/images/moodle (3).png&#34; alt=&#34;3&#34;&gt;
+        &lt;/div&gt;
+        &lt;div class=&#34;item&#34;&gt;
+            &lt;img src=&#34;http://jensvl-immalle.github.io/images/moodle (4).png&#34; alt=&#34;4&#34;&gt;
+        &lt;/div&gt;
+        &lt;div class=&#34;item&#34;&gt;
+            &lt;img src=&#34;http://jensvl-immalle.github.io/images/moodle (5).png&#34; alt=&#34;5&#34;&gt;
+        &lt;/div&gt;
+        &lt;div class=&#34;item&#34;&gt;
+            &lt;img src=&#34;http://jensvl-immalle.github.io/images/moodle (6).png&#34; alt=&#34;6&#34;&gt;
+        &lt;/div&gt;
+        &lt;div class=&#34;item&#34;&gt;
+            &lt;img src=&#34;http://jensvl-immalle.github.io/images/moodle (7).png&#34; alt=&#34;7&#34;&gt;
+        &lt;/div&gt;
+    &lt;/div&gt;
+  &lt;a class=&#34;left carousel-control&#34; href=&#34;#myCarousel&#34; role=&#34;button&#34; data-slide=&#34;prev&#34;&gt;
+    &lt;span class=&#34;glyphicon glyphicon-chevron-left&#34; aria-hidden=&#34;true&#34;&gt;&lt;/span&gt;
+    &lt;span class=&#34;sr-only&#34;&gt;Vorige&lt;/span&gt;
+  &lt;/a&gt;
+  &lt;a class=&#34;right carousel-control&#34; href=&#34;#myCarousel&#34; role=&#34;button&#34; data-slide=&#34;next&#34;&gt;
+    &lt;span class=&#34;glyphicon glyphicon-chevron-right&#34; aria-hidden=&#34;true&#34;&gt;&lt;/span&gt;
+    &lt;span class=&#34;sr-only&#34;&gt;Volgende&lt;/span&gt;
+  &lt;/a&gt;
+&lt;/div&gt;
 </description>
     </item>
     
@@ -245,13 +370,13 @@ VALUES (1,1,1);
     
     <item>
       <title>IT-Tapa Sessie</title>
-      <link>http://jensvl-immalle.github.io/post/instructionvideo/</link>
+      <link>http://jensvl-immalle.github.io/post/ittapa/</link>
       <pubDate>Mon, 07 Dec 2015 16:55:24 +0100</pubDate>
       
-      <guid>http://jensvl-immalle.github.io/post/instructionvideo/</guid>
+      <guid>http://jensvl-immalle.github.io/post/ittapa/</guid>
       <description>
 
-&lt;h1 id=&#34;it-tapa-sessie:7729c935db047d9388a2d2a9fed64e89&#34;&gt;IT-Tapa Sessie&lt;/h1&gt;
+&lt;h1 id=&#34;it-tapa-sessie:795936a43e4a7abf742eb2567b931599&#34;&gt;IT-Tapa Sessie&lt;/h1&gt;
 
 &lt;p&gt;Ik heb samen met &lt;a class=&#34;link&#34; href=&#34;http://vincent-boden.github.io/&#34;&gt;Vincent Boden&lt;/a&gt; gewerkt rond Office365 en OneDrive.
 Onze sessie verliep zeer vlot en het was voor ons heel aangenaam. Het deed me een plezier te weten dat ik de leerkrachten wat bijleerde.

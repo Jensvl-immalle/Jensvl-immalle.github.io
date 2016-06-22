@@ -1,0 +1,100 @@
+---
+author:
+  description: Leerling 6IB
+  email: jens.vanloon@immalle.be
+  name: Jens Van Loon
+cardbackground: green
+date: 2016-02-01
+title: Testopstelling - Moodle
+vak: Software
+---
+
+# Testopstelling - Moodle
+
+Hieronder enkele vaststellingen die we hebben waargenomen tijdens het testopstellen van het programma Moodle. Aangezien Moodle niet zo’n bekend programma is, hebben we eerst heel wat onderzoek moeten doen vooraleer we konden starten. Moodle is een open source softwarepakket en kan online gevonden worden. Na het downloaden van een tar.gz pakket van moodle kan men aan de slag met de installatie. Voor een vlotte installatie dien je op voorhand de volgende dingen reeds te hebben geïnstalleerd:
+
+- LAMP (Linux, Apache2, Mysql-server, PHP5)
+- PHP-cURL en PHP-Zip
+- Een werkende database genaamd ‘moodle’
+
+Als je dit hebt kan je de installatie beginnen, wat een kwestie van invullen is. Je gaat naar je hostingpagina, in ons geval ‘localhost’. De install.php wordt automatisch geopend en je kan verder met de installatie. Moodle is heel makkelijk te installeren mits een minimale kennis van LAMP-servers. Men geeft ook steeds een duidelijk overzicht of alles correct verlopen is. Na het installeren kan je je instellingen aanpassen naar diens wens. Met een vanzelfsprekende layout is het heel makkelijk te gebruiken. Moest er een probleem zijn met je installatie, of na de installatie, geen schrik. Moodle heeft een heel goede community waar ze steeds elkaar helpen. Er zijn zelfs forums in verschillende talen om iedereen de makkelijkste oplossing te geven. Zeker een groot voordeel aan moodle.
+
+Toch hadden we de installatie van Moodle enkele malen opnieuw moeten doen. Het probleem lag niet echt in de software van Moodle maar in de opstelling ervan. Het is niet altijd even gemakkelijk om met PHP, MySql en dergelijke te werken. Zo had je soms een extra plugin nodig op PHP, of moest je kiezen uit verschillende type databases. Als beginner, amateur in dit genre was het geen simpele klus om dit te begrijpen. Maar, na enkele keren proberen, genoeg dingen opzoeken, informatie verzamelen, … kom je er wel.
+
+Ik zou moodle zeker aanraden als je iemand kent met een grondige kennis van PHP en het opzetten van databases. Zo kan ik mij voorstellen dat de installatie in één keer vlekkeloos moet gaan. Het is open-source dus het wordt steeds aangepast en vernieuwd wat ook zeer goed is! Je hangt niet vast aan licensies of dergelijke dus de kosten blijven ook steeds laag. Moest er ooit iets fout gaan met je Moodle is er de back-up functie. Je hoeft dus nooit te vrezen om heel je ‘organisatie’ kwijt te raken. Een druk op de knop en het is terug.
+
+### Pro’s
+
+- Goede community
+- Veel personalisering mogelijkheden
+- Kost weinig om te hosten
+- Open-source
+- Makkelijk te leren
+- Je hebt backup en restore function
+
+Hoewel moodle een leuk tooltje is om uit te testen heeft het ook wel zijn nadelen die (makkelijk) opgelost kunnen worden.
+
+### Con’s
+
+-   Je moet wat technische ervaring hebben met Moodle ( + MySql) voor het te gebruiken.
+
+Met andere woorden, IT-kennis voor het installeren van Moodle en een basis MySQL kennis voor het onderhouden van de databank die er voor nodig is.
+
+-   Er is geen ondersteunings dienst (tech support) aanwezig
+
+Je zal op je eentje moeten uitpluizen hoe je jouw probleem juist oplost. Er zijn uiteraard wel fora’s waar je gelijkaardige problemen van andere mensen zal tegenkomen.
+
+-   Het is kleinschalig (niet echt te gebruiken voor grote projecten)
+
+Het is moeilijk te onderhouden als er teveel accounts actief zijn.
+
+-   Het is niet gebruiksvriendelijk en complex
+
+Als er bij de installatie iets fout loopt, worden er zeer weinig tot geen details bekend gemaakt waaraan het juist liegt. Je moet dit zelf weten te vinden en dat gaat niet altijd even gemakkelijk.
+
+-   Weten hoe je Moodle voor het eerst moet gebruiken is niet zo voor de hand liggend
+
+Op zich lijkt Moodle iets handig, maar eens je het hebt opgestart zal je naar voorbeelden moeten zoeken om te zien hoe je het zou moeten gebruiken.
+
+-   Weinig templates waaruit je kan kiezen
+
+De templates zijn allemaal eigenlijk verschillende varianten van hetzelfde thema in Moodle.
+
+<div id="myCarousel" class="carousel slide" data-ride="carousel" style="width:85%; margin: auto auto">
+    <ol class="carousel-indicators">
+        <li data-target="#myCarousel" data-slide-to="0" class="active"></li>
+        <li data-target="#myCarousel" data-slide-to="1"></li>
+        <li data-target="#myCarousel" data-slide-to="2"></li>
+    </ol>
+    <div class="carousel-inner" role="listbox">
+        <div class="item active">
+            <img src="/images/moodle (1).png" alt="1">
+        </div>
+        <div class="item">
+            <img src="/images/moodle (2).png" alt="2">
+        </div>
+        <div class="item">
+            <img src="/images/moodle (3).png" alt="3">
+        </div>
+        <div class="item">
+            <img src="/images/moodle (4).png" alt="4">
+        </div>
+        <div class="item">
+            <img src="/images/moodle (5).png" alt="5">
+        </div>
+        <div class="item">
+            <img src="/images/moodle (6).png" alt="6">
+        </div>
+        <div class="item">
+            <img src="/images/moodle (7).png" alt="7">
+        </div>
+    </div>
+  <a class="left carousel-control" href="#myCarousel" role="button" data-slide="prev">
+    <span class="glyphicon glyphicon-chevron-left" aria-hidden="true"></span>
+    <span class="sr-only">Vorige</span>
+  </a>
+  <a class="right carousel-control" href="#myCarousel" role="button" data-slide="next">
+    <span class="glyphicon glyphicon-chevron-right" aria-hidden="true"></span>
+    <span class="sr-only">Volgende</span>
+  </a>
+</div>

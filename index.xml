@@ -10,6 +10,20 @@
     <atom:link href="http://jensvl-immalle.github.io/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
+      <title>Reportage du photos de GEO Solutions</title>
+      <link>http://jensvl-immalle.github.io/post/reportage/</link>
+      <pubDate>Thu, 17 Mar 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://jensvl-immalle.github.io/post/reportage/</guid>
+      <description>
+
+&lt;h2 id=&#34;un-reportage-photos-du-geo-solutions:129ab08176e32a7903c8a41ec33d9099&#34;&gt;Un reportage photos du GEO Solutions&lt;/h2&gt;
+
+&lt;iframe src=&#34;https://www.haikudeck.com/e/7a84fb0bda/?isUrlHashEnabled=false&amp;isPreviewEnabled=false&amp;isHeaderVisible=false&#34; width=&#34;640&#34; height=&#34;541&#34; frameborder=&#34;0&#34; marginheight=&#34;0&#34; marginwidth=&#34;0&#34;&gt;&lt;/iframe&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Review of a network tool in the training company - GEO Solutions</title>
       <link>http://jensvl-immalle.github.io/post/review/</link>
       <pubDate>Thu, 17 Mar 2016 00:00:00 +0000</pubDate>
@@ -30,20 +44,6 @@
 &lt;p&gt;After using Amazon AWS for a while and discovering all of its features there is one thing that bothered me the most. Amazon AWS is mostly used as a standalone server and you can feel that when using it. It has a bad compatibility with other applications unlike Microsoft Azure (business version of OneDrive). This can be a big factor as to whether someone chooses for Azure or AWS since usability is a must-have these days. Furthermore you require some skill to use AWS entirely.&lt;/p&gt;
 
 &lt;p&gt;I surely recommend Amazon AWS for big companies. Firstly the prices are interesting, even on a big scale. Because it is more difficult to use I won’t recommend it to smaller businesses or for private usage. You’ll need someone with knowledge of network engineering to get the full use of Amazon AWS.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Pour un reportage du photos de GEO Solutions, CLIQUEZ ICI!</title>
-      <link>http://jensvl-immalle.github.io/post/reportage/</link>
-      <pubDate>Thu, 17 Mar 2016 00:00:00 +0000</pubDate>
-      
-      <guid>http://jensvl-immalle.github.io/post/reportage/</guid>
-      <description>
-
-&lt;h2 id=&#34;un-reportage-photos-du-geo-solutions:129ab08176e32a7903c8a41ec33d9099&#34;&gt;Un reportage photos du GEO Solutions&lt;/h2&gt;
-
-&lt;iframe src=&#34;https://www.haikudeck.com/e/7a84fb0bda/?isUrlHashEnabled=false&amp;isPreviewEnabled=false&amp;isHeaderVisible=false&#34; width=&#34;640&#34; height=&#34;541&#34; frameborder=&#34;0&#34; marginheight=&#34;0&#34; marginwidth=&#34;0&#34;&gt;&lt;/iframe&gt;
 </description>
     </item>
     
@@ -81,7 +81,16 @@
 
 &lt;h1 id=&#34;dnadventure:fa48a1428a04477b93a032492644bb9c&#34;&gt;DNAdventure&lt;/h1&gt;
 
-&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;../../html/app/index.html&#34;&gt;Hier&lt;/a&gt; kan u de JavaScript-applicatie vinden.&lt;/p&gt;
+&lt;p&gt;Ik heb een &amp;lsquo;simulatie&amp;rsquo; van een DNA replicatie. Door straling zijn er echter wel slechte eiwitten gecrëerd.
+De speler kan deze wegdoen door hier op te klikken. Nadien de juiste eiwitten combineren voor een geslaagde DNA replicatie.&lt;/p&gt;
+
+&lt;p&gt;Er zitten nog enkele bugs in het spel maar ik ben persoonlijk zeer tevreden van het resultaat.
+Er zitten enkele stukjes code in met een zeer moeilijke, maar logische algoritmes.
+Ik vond het een heel leuke opdracht en ik kon mijn kennis van JavaScript goed gebruiken.&lt;/p&gt;
+
+&lt;p&gt;de JavaScript code vind je &lt;a class=&#34;link&#34; href=&#34;https://github.com/Jensvl-immalle/jensvl-immalle.github.io/blob/master/js/app.js&#34;&gt;hier&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;../../html/app&#34;&gt;&lt;button&gt;DNAdventure&lt;/button&gt;&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     
@@ -98,6 +107,122 @@
 &lt;p&gt;&lt;img src=&#34;../../images/geologo.png&#34; alt=&#34;geologo&#34;&gt;&lt;/p&gt;
 
 &lt;p&gt;De huisstijl van GEO Solutions is dezelfde lijn overal doorgetrokken. Een abstracte voorstelling van de aarde (de lichtblauwe cirkel) met kruisende wegen (de donkerblauwe lijnen). Dit kleurenpalet wordt dan ook gebruikt bij opmaak van documenten, facturen, etc. Meestal wordt het logo ook in combinatie met de naam gecombineerd, apart komen ze zelden voor. In het bedrijf zijn er ook vaste regels in het opmaken van documenten qua lettertype, grootte, kleur, lijsten, tabellen … Ze gebruiken dan ook veel op voorhand gemaakte ontwerpen. In de bijgevoegde documenten kan u deze informatie en een voorbeeld vinden.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Testopstelling - Moodle</title>
+      <link>http://jensvl-immalle.github.io/post/testopstelling/</link>
+      <pubDate>Mon, 01 Feb 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://jensvl-immalle.github.io/post/testopstelling/</guid>
+      <description>
+
+&lt;h1 id=&#34;testopstelling-moodle:c36ee4a195c72d275a44931f82064b64&#34;&gt;Testopstelling - Moodle&lt;/h1&gt;
+
+&lt;p&gt;Hieronder enkele vaststellingen die we hebben waargenomen tijdens het testopstellen van het programma Moodle. Aangezien Moodle niet zo’n bekend programma is, hebben we eerst heel wat onderzoek moeten doen vooraleer we konden starten. Moodle is een open source softwarepakket en kan online gevonden worden. Na het downloaden van een tar.gz pakket van moodle kan men aan de slag met de installatie. Voor een vlotte installatie dien je op voorhand de volgende dingen reeds te hebben geïnstalleerd:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;LAMP (Linux, Apache2, Mysql-server, PHP5)&lt;/li&gt;
+&lt;li&gt;PHP-cURL en PHP-Zip&lt;/li&gt;
+&lt;li&gt;Een werkende database genaamd ‘moodle’&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Als je dit hebt kan je de installatie beginnen, wat een kwestie van invullen is. Je gaat naar je hostingpagina, in ons geval ‘localhost’. De install.php wordt automatisch geopend en je kan verder met de installatie. Moodle is heel makkelijk te installeren mits een minimale kennis van LAMP-servers. Men geeft ook steeds een duidelijk overzicht of alles correct verlopen is. Na het installeren kan je je instellingen aanpassen naar diens wens. Met een vanzelfsprekende layout is het heel makkelijk te gebruiken. Moest er een probleem zijn met je installatie, of na de installatie, geen schrik. Moodle heeft een heel goede community waar ze steeds elkaar helpen. Er zijn zelfs forums in verschillende talen om iedereen de makkelijkste oplossing te geven. Zeker een groot voordeel aan moodle.&lt;/p&gt;
+
+&lt;p&gt;Toch hadden we de installatie van Moodle enkele malen opnieuw moeten doen. Het probleem lag niet echt in de software van Moodle maar in de opstelling ervan. Het is niet altijd even gemakkelijk om met PHP, MySql en dergelijke te werken. Zo had je soms een extra plugin nodig op PHP, of moest je kiezen uit verschillende type databases. Als beginner, amateur in dit genre was het geen simpele klus om dit te begrijpen. Maar, na enkele keren proberen, genoeg dingen opzoeken, informatie verzamelen, … kom je er wel.&lt;/p&gt;
+
+&lt;p&gt;Ik zou moodle zeker aanraden als je iemand kent met een grondige kennis van PHP en het opzetten van databases. Zo kan ik mij voorstellen dat de installatie in één keer vlekkeloos moet gaan. Het is open-source dus het wordt steeds aangepast en vernieuwd wat ook zeer goed is! Je hangt niet vast aan licensies of dergelijke dus de kosten blijven ook steeds laag. Moest er ooit iets fout gaan met je Moodle is er de back-up functie. Je hoeft dus nooit te vrezen om heel je ‘organisatie’ kwijt te raken. Een druk op de knop en het is terug.&lt;/p&gt;
+
+&lt;h3 id=&#34;pro-s:c36ee4a195c72d275a44931f82064b64&#34;&gt;Pro’s&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Goede community&lt;/li&gt;
+&lt;li&gt;Veel personalisering mogelijkheden&lt;/li&gt;
+&lt;li&gt;Kost weinig om te hosten&lt;/li&gt;
+&lt;li&gt;Open-source&lt;/li&gt;
+&lt;li&gt;Makkelijk te leren&lt;/li&gt;
+&lt;li&gt;Je hebt backup en restore function&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Hoewel moodle een leuk tooltje is om uit te testen heeft het ook wel zijn nadelen die (makkelijk) opgelost kunnen worden.&lt;/p&gt;
+
+&lt;h3 id=&#34;con-s:c36ee4a195c72d275a44931f82064b64&#34;&gt;Con’s&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Je moet wat technische ervaring hebben met Moodle ( + MySql) voor het te gebruiken.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Met andere woorden, IT-kennis voor het installeren van Moodle en een basis MySQL kennis voor het onderhouden van de databank die er voor nodig is.&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Er is geen ondersteunings dienst (tech support) aanwezig&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Je zal op je eentje moeten uitpluizen hoe je jouw probleem juist oplost. Er zijn uiteraard wel fora’s waar je gelijkaardige problemen van andere mensen zal tegenkomen.&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Het is kleinschalig (niet echt te gebruiken voor grote projecten)&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Het is moeilijk te onderhouden als er teveel accounts actief zijn. Dit kan zorgen voor een onduidelijke en rommelige Moodle.&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Het is niet gebruiksvriendelijk en complex&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Als er bij de installatie iets fout loopt, worden er zeer weinig tot geen details bekend gemaakt waaraan het juist liegt. Je moet dit zelf weten te vinden en dat gaat niet altijd even gemakkelijk.&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Weten hoe je Moodle voor het eerst moet gebruiken is niet zo voor de hand liggend&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Op zich lijkt Moodle iets handig, maar eens je het hebt opgestart zal je naar voorbeelden moeten zoeken om te zien hoe je het zou moeten gebruiken.&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Weinig templates waaruit je kan kiezen&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;De templates zijn allemaal eigenlijk verschillende varianten van hetzelfde thema in Moodle.&lt;/p&gt;
+
+&lt;div id=&#34;myCarousel&#34; class=&#34;carousel slide&#34; data-ride=&#34;carousel&#34; style=&#34;width:85%; margin: auto auto&#34;&gt;
+    &lt;ol class=&#34;carousel-indicators&#34;&gt;
+        &lt;li data-target=&#34;#myCarousel&#34; data-slide-to=&#34;0&#34; class=&#34;active&#34;&gt;&lt;/li&gt;
+        &lt;li data-target=&#34;#myCarousel&#34; data-slide-to=&#34;1&#34;&gt;&lt;/li&gt;
+        &lt;li data-target=&#34;#myCarousel&#34; data-slide-to=&#34;2&#34;&gt;&lt;/li&gt;
+    &lt;/ol&gt;
+    &lt;div class=&#34;carousel-inner&#34; role=&#34;listbox&#34;&gt;
+        &lt;div class=&#34;item active&#34;&gt;
+            &lt;img src=&#34;http://jensvl-immalle.github.io/images/moodle (1).png&#34; alt=&#34;1&#34;&gt;
+        &lt;/div&gt;
+        &lt;div class=&#34;item&#34;&gt;
+            &lt;img src=&#34;http://jensvl-immalle.github.io/images/moodle (2).png&#34; alt=&#34;2&#34;&gt;
+        &lt;/div&gt;
+        &lt;div class=&#34;item&#34;&gt;
+            &lt;img src=&#34;http://jensvl-immalle.github.io/images/moodle (3).png&#34; alt=&#34;3&#34;&gt;
+        &lt;/div&gt;
+        &lt;div class=&#34;item&#34;&gt;
+            &lt;img src=&#34;http://jensvl-immalle.github.io/images/moodle (4).png&#34; alt=&#34;4&#34;&gt;
+        &lt;/div&gt;
+        &lt;div class=&#34;item&#34;&gt;
+            &lt;img src=&#34;http://jensvl-immalle.github.io/images/moodle (5).png&#34; alt=&#34;5&#34;&gt;
+        &lt;/div&gt;
+        &lt;div class=&#34;item&#34;&gt;
+            &lt;img src=&#34;http://jensvl-immalle.github.io/images/moodle (6).png&#34; alt=&#34;6&#34;&gt;
+        &lt;/div&gt;
+        &lt;div class=&#34;item&#34;&gt;
+            &lt;img src=&#34;http://jensvl-immalle.github.io/images/moodle (7).png&#34; alt=&#34;7&#34;&gt;
+        &lt;/div&gt;
+    &lt;/div&gt;
+  &lt;a class=&#34;left carousel-control&#34; href=&#34;#myCarousel&#34; role=&#34;button&#34; data-slide=&#34;prev&#34;&gt;
+    &lt;span class=&#34;glyphicon glyphicon-chevron-left&#34; aria-hidden=&#34;true&#34;&gt;&lt;/span&gt;
+    &lt;span class=&#34;sr-only&#34;&gt;Vorige&lt;/span&gt;
+  &lt;/a&gt;
+  &lt;a class=&#34;right carousel-control&#34; href=&#34;#myCarousel&#34; role=&#34;button&#34; data-slide=&#34;next&#34;&gt;
+    &lt;span class=&#34;glyphicon glyphicon-chevron-right&#34; aria-hidden=&#34;true&#34;&gt;&lt;/span&gt;
+    &lt;span class=&#34;sr-only&#34;&gt;Volgende&lt;/span&gt;
+  &lt;/a&gt;
+&lt;/div&gt;
 </description>
     </item>
     
@@ -217,7 +342,10 @@ VALUES (1,1,1);
       <pubDate>Fri, 22 Jan 2016 00:00:00 +0000</pubDate>
       
       <guid>http://jensvl-immalle.github.io/project/dag10/</guid>
-      <description></description>
+      <description>&lt;p&gt;Vandaag mijn laatste dag. Ik heb mijn opdrachten afgewerkt, nog wat kleine dingen uitgetest en resterende taken voor school gemaakt.
+Mijn collega&amp;rsquo;s hebben me nog vanalle technische aspecten uitgelegd voor school.
+Ik ben heel moe en blij dat ik naar huis mag. Ik weet nu toch wel dat dit niets voor mij is.&lt;/p&gt;
+</description>
     </item>
     
     <item>
@@ -226,7 +354,8 @@ VALUES (1,1,1);
       <pubDate>Thu, 21 Jan 2016 00:00:00 +0000</pubDate>
       
       <guid>http://jensvl-immalle.github.io/project/dag9/</guid>
-      <description></description>
+      <description>&lt;p&gt;Vandaag moest ik de gegevens van mijn test&lt;/p&gt;
+</description>
     </item>
     
     <item>
@@ -235,7 +364,11 @@ VALUES (1,1,1);
       <pubDate>Wed, 20 Jan 2016 00:00:00 +0000</pubDate>
       
       <guid>http://jensvl-immalle.github.io/project/dag8/</guid>
-      <description></description>
+      <description>&lt;p&gt;Vandaag heb ik enkele tests mogen uitvoeren met de Amazon-server.
+Ik kreeg verschillende pakketten vol data in de vorm van digitale kaarten.
+In het begin ging het wat stroef maar na enkele dingen uit te testen ging het heel vlot.
+Ik merktte al snel dat Amazon een niet zo slimme oplossing is en dus ging ik zoeken wat wel slim is.&lt;/p&gt;
+</description>
     </item>
     
     <item>
@@ -244,9 +377,12 @@ VALUES (1,1,1);
       <pubDate>Tue, 19 Jan 2016 00:00:00 +0000</pubDate>
       
       <guid>http://jensvl-immalle.github.io/project/dag7/</guid>
-      <description>&lt;p&gt;Ik heb vandaag begrepen dat onderzoek een belangrijk onderdeel is in IT. Als je niet weet waarmee je werkt geraak je niet ver. Vandaag heb ik dan mijn kennis van GIS kunnen toepassen en weet ik wat verschillende factoren kunnen zijn die de snelheid van transfer tussen back-end en front-end goed of slecht maken.&lt;/p&gt;
-
-&lt;p&gt;Onderzoek is nooit echt interessant maar wel nuttig voor later gebruik. Nu weet ik waar ik op moet letten als ik morgen snelheidstesten ga doen. Ik begin wat moe te worden van het ‘kantoorleven’ maar het is een aanpassing die te kort is op 2 weken.&lt;/p&gt;
+      <description>&lt;p&gt;Ik heb vandaag begrepen dat onderzoek een belangrijk onderdeel is in IT.
+Als je niet weet waarmee je werkt geraak je niet ver.
+Vandaag heb ik dan mijn kennis van GIS kunnen toepassen en weet ik wat verschillende factoren kunnen zijn die de snelheid van transfer tussen back-end en front-end goed of slecht maken.
+Onderzoek is nooit echt interessant maar wel nuttig voor later gebruik.
+Nu weet ik waar ik op moet letten als ik morgen snelheidstesten ga doen.
+Ik begin wat moe te worden van het ‘kantoorleven’ maar het is een aanpassing die te kort is op 2 weken.&lt;/p&gt;
 </description>
     </item>
     
@@ -283,16 +419,6 @@ VALUES (1,1,1);
       <description>&lt;p&gt;Mijn stagementor had heel de dag meetings. Hierdoor kon ik niet verder aan een opdracht. Ik heb nog geprobeerd de pc te herstellen maar uiteindelijk resulteerde het in een chaos en kon ik niets doen vandaag. Ik heb wat meegekeken met mijn collega’s die bezig waren met SQL. Zij waren net zoals mij net begonnen met het leren van PHP. De dag afgesloten met een systeemherstel uit te voeren op mijn kapotte pc.&lt;/p&gt;
 
 &lt;p&gt;Vandaag was het geen aangename werkdag. Niets ging vooruit en alles leek in het honderd te lopen. Ik ben al wel blij dat ze met iets bezig waren wat ik dan nog wat snapte en was het dus geen nutteloze dag.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>DAG 3</title>
-      <link>http://jensvl-immalle.github.io/project/dag3/</link>
-      <pubDate>Tue, 12 Jan 2016 00:00:00 +0000</pubDate>
-      
-      <guid>http://jensvl-immalle.github.io/project/dag3/</guid>
-      <description>&lt;p&gt;Vandaag heb ik weinig kunnen doen, helaas. Ik had last van een oplosbaar probleem. De computer liet me op geen enkele manier het .NET Framework installeren. Iedereen heeft zitten meedenken maar niets werkte.  Zo had ik tijd gekregen om nog aan andere GIP opdrachten te werken terwijl mijn mentor in een meeting zat. Op het einde van de dag hebben we nog een laatste poging gedaan door heel de pc te resetten, morgen weet ik hier het resultaat van.&lt;/p&gt;
 </description>
     </item>
     

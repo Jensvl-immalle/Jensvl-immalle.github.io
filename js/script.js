@@ -297,6 +297,10 @@ function checkCollisions(){
   if (match) { alert("Collision"); }
 }
 
+$("article").click(function () {
+    $(this).children(":nth-child(2)").toggle("hide");
+});
+
 
 
 

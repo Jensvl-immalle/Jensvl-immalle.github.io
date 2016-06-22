@@ -121,10 +121,7 @@ $('#modal').click(function () {
         
     
 
-        
-
-    
-<div class="mdl-layout mdl-js-layout mdl-layout--fixed-header">
+    <div class="mdl-layout mdl-js-layout mdl-layout--fixed-header">
   <header style="background-color: white" class="mdl-layout__header">
     <div class="mdl-layout__header-row">
       
@@ -133,20 +130,20 @@ $('#modal').click(function () {
       <div class="mdl-layout-spacer"></div>
       
       <nav class="mdl-navigation mdl-layout--large-screen-only">
-        <a class="hvr-fade mdl-layout__tab-panel is-active mdl-navigation__link" href="http://jensvl-immalle.github.io/">Home<a/>
+        <a class="hvr-fade mdl-layout__tab-panel is-active mdl-navigation__link" href="http://localhost:1313/">Home<a/>
         <a class="hvr-fade mdl-layout__tab-panel is-active mdl-navigation__link" href="/post">Posts</a>
         <a class="hvr-fade mdl-layout__tab-panel is-active mdl-navigation__link" href="/project">Stageverslagen</a>
-        <a class="hvr-fade mdl-layout__tab-panel is-active mdl-navigation__link" href="/about">IT-Profile</a>
+        <a class="hvr-fade mdl-layout__tab-panel is-active mdl-navigation__link" href="/html/about">IT-Profile</a>
 
       </nav>
     </div>
   </header>
   <div class="mdl-layout__drawer" >
       <nav class="mdl-navigation">
-          <a class="hvr-fade mdl-layout__tab-panel is-active mdl-navigation__link" href="http://jensvl-immalle.github.io/">Home<a/>
+          <a class="hvr-fade mdl-layout__tab-panel is-active mdl-navigation__link" href="http://localhost:1313/">Home<a/>
           <a class="hvr-fade mdl-layout__tab-panel is-active mdl-navigation__link" href="/post">Posts</a>
           <a class="hvr-fade mdl-layout__tab-panel is-active mdl-navigation__link" href="/project">Stageverslagen</a>
-          <a class="hvr-fade mdl-layout__tab-panel is-active mdl-navigation__link" href="/about">IT-Profile</a>
+          <a class="hvr-fade mdl-layout__tab-panel is-active mdl-navigation__link" href="/html/about">IT-Profile</a>
 
       </nav>
   </div>
@@ -217,7 +214,7 @@ Onze instructiefilmpjes over OneDrive vindt u <a class="link" href="/post/videos
 </div>
 
             <div>
-            <p>188 woorden | 1 minuten </p>
+            <p>188 woorden | 1 minuten</p>
             </div>
         </div>
 
@@ -279,6 +276,9 @@ Onze instructiefilmpjes over OneDrive vindt u <a class="link" href="/post/videos
     </div>
     <script src="/js/material.min.js"></script>
 
-</body>
+<script data-no-instant>document.write('<script src="http://'
+        + (location.host || 'localhost').split(':')[0]
+		+ ':1313/livereload.js?mindelay=10"></'
+        + 'script>')</script></body>
 </html>
 

@@ -1,0 +1,17 @@
+---
+author:
+  description: Leerling 6IB
+  email: jens.vanloon@immalle.be
+  name: Jens Van Loon
+cardbackground: green
+date: 2016-02-01
+title: Applicatie met JavaScript
+vak: Software
+---
+
+# DNAdventure
+
+Ik heb een 'simulatie' van een DNA replicatie. Door straling zijn er echter wel slechte eiwitten gecrëerd.
+De speler kan deze wegdoen door hier op te klikken. Nadien de juiste DNA
+
+<a class="link" href="../../html/app"><button>DNAdventure</button></a>

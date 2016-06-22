@@ -9,7 +9,6 @@ a{
 }
 button{
     float: left;
-    margin: 1.75%;
     width: 100px;
     height: 40px;
     border: 2px solid white;
@@ -28,17 +27,16 @@ body{
 header{
     background-color: #ffffff;
     width: 100%;
-    min-height: 100px;
+    max-height: 100px;
     text-align: center;
     border-bottom: 10px solid yellowgreen;
     color: darkslategray;
 }
 header h1{
-    -webkit-font-smoothing: antialiased;
+    font-smoothing: antialiased;
     display:inline-block;
     font: 800 1.313em "proxima-nova",sans-serif;
     letter-spacing: 8px;
-    line-height: 100px;
     font-size:3.125em;
     text-align: center;
 }
@@ -68,7 +66,6 @@ nav ul{
     width: 23.3%;
     box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2);
 }
-
 .content a {
     color: black;
     text-decoration: none;
@@ -103,16 +100,44 @@ nav ul a:hover{
     max-width: 320px;
 }
 .ct-series-a .ct-slice-donut {
-  stroke: yellowgreen url('/images/background.png') !important;
+  stroke: yellowgreen !important;
   stroke-width: 5px;
+
 }
 .ct-series-b .ct-slice-donut {
   stroke: grey !important;
   stroke-width: 5px;
+  stroke-dasharray: 5px;
 }
 .text{
     text-align: center;
     width: 300px;
+}/* */
+.hide{
+    display: none;
+}
+
+article{
+    width: 44%;
+    margin: 2.5%;
+    display: inline-table;
+    background-color: white;
+    box-shadow: 10px 10px 5px #888888;
+}
+h3{
+    margin: 0 auto;
+    padding: 2%;
+    font-size: 35px;
+    border: solid black;
+    border-width: 0 0 2px 0;
+}
+section{
+    width: 92%;
+    margin: 4%;
+}
+section img{
+    width: 50%;
+    margin: 10px 25%;
 }
 /* KLEUREN PALLET
 #3793cf - lichtblauw

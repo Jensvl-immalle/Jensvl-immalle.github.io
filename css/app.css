@@ -11,7 +11,6 @@ body{
     margin-top: 10%;
     background-color: green;
     padding: 20px;
-
 }
 button, input[type=button] {
     height: 40px;
@@ -22,18 +21,22 @@ button, input[type=button] {
 article{
     text-align: center;
     display: inline-block;
-    /*width:5.3333%;*/
-    width: 100px;
-    height:100px;
+    width: 5vw;
+    height: 5vw;
     border: 1px solid white;
+    cursor: move;
 }
 .x{
     color: white;
+    cursor: pointer;
 }
 p{
     font-weight: bold;
     font-family: sans-serif;
     margin: 40%;
+}
+#intro{
+    margin: 0;
 }
 h1{
     font-size: 100px;

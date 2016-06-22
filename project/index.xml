@@ -15,7 +15,10 @@
       <pubDate>Fri, 22 Jan 2016 00:00:00 +0000</pubDate>
       
       <guid>http://jensvl-immalle.github.io/project/dag10/</guid>
-      <description></description>
+      <description>&lt;p&gt;Vandaag mijn laatste dag. Ik heb mijn opdrachten afgewerkt, nog wat kleine dingen uitgetest en resterende taken voor school gemaakt.
+Mijn collega&amp;rsquo;s hebben me nog vanalle technische aspecten uitgelegd voor school.
+Ik ben heel moe en blij dat ik naar huis mag. Ik weet nu toch wel dat dit niets voor mij is.&lt;/p&gt;
+</description>
     </item>
     
     <item>
@@ -24,7 +27,8 @@
       <pubDate>Thu, 21 Jan 2016 00:00:00 +0000</pubDate>
       
       <guid>http://jensvl-immalle.github.io/project/dag9/</guid>
-      <description></description>
+      <description>&lt;p&gt;Vandaag moest ik de gegevens van mijn test&lt;/p&gt;
+</description>
     </item>
     
     <item>
@@ -33,7 +37,11 @@
       <pubDate>Wed, 20 Jan 2016 00:00:00 +0000</pubDate>
       
       <guid>http://jensvl-immalle.github.io/project/dag8/</guid>
-      <description></description>
+      <description>&lt;p&gt;Vandaag heb ik enkele tests mogen uitvoeren met de Amazon-server.
+Ik kreeg verschillende pakketten vol data in de vorm van digitale kaarten.
+In het begin ging het wat stroef maar na enkele dingen uit te testen ging het heel vlot.
+Ik merktte al snel dat Amazon een niet zo slimme oplossing is en dus ging ik zoeken wat wel slim is.&lt;/p&gt;
+</description>
     </item>
     
     <item>
@@ -42,9 +50,12 @@
       <pubDate>Tue, 19 Jan 2016 00:00:00 +0000</pubDate>
       
       <guid>http://jensvl-immalle.github.io/project/dag7/</guid>
-      <description>&lt;p&gt;Ik heb vandaag begrepen dat onderzoek een belangrijk onderdeel is in IT. Als je niet weet waarmee je werkt geraak je niet ver. Vandaag heb ik dan mijn kennis van GIS kunnen toepassen en weet ik wat verschillende factoren kunnen zijn die de snelheid van transfer tussen back-end en front-end goed of slecht maken.&lt;/p&gt;
-
-&lt;p&gt;Onderzoek is nooit echt interessant maar wel nuttig voor later gebruik. Nu weet ik waar ik op moet letten als ik morgen snelheidstesten ga doen. Ik begin wat moe te worden van het ‘kantoorleven’ maar het is een aanpassing die te kort is op 2 weken.&lt;/p&gt;
+      <description>&lt;p&gt;Ik heb vandaag begrepen dat onderzoek een belangrijk onderdeel is in IT.
+Als je niet weet waarmee je werkt geraak je niet ver.
+Vandaag heb ik dan mijn kennis van GIS kunnen toepassen en weet ik wat verschillende factoren kunnen zijn die de snelheid van transfer tussen back-end en front-end goed of slecht maken.
+Onderzoek is nooit echt interessant maar wel nuttig voor later gebruik.
+Nu weet ik waar ik op moet letten als ik morgen snelheidstesten ga doen.
+Ik begin wat moe te worden van het ‘kantoorleven’ maar het is een aanpassing die te kort is op 2 weken.&lt;/p&gt;
 </description>
     </item>
     
@@ -115,6 +126,41 @@
       <description>&lt;p&gt;Vandaag was mijn eerste dag op het bedrijf. Ik kwam binnen in het nieuwe (indrukwekkende) kantoorgebouw waar ik meteen ontvangen werd door een collega. Ik kreeg uitgelegd hoe ze hier werkten. Ik heb de basis van GIS gekregen omdat dit het element is waar dit bedrijf zich met bezighoudt. Om netwerkgericht te kunnen gaan werken moest ik vandaag dus GIS onderzoeken en mocht ik al met enkele programma&amp;rsquo;s werken zoals QGIS.&lt;/p&gt;
 
 &lt;p&gt;GIS is niet per se waar ik voor gekomen ben maar het is zeker leuk om te weten waar het bedrijf zich met bezighoudt. Zo ben ik te weten gekomen dat ze de kaarten bezorgen voor onderhande TomTom en Pidpa. Ik ben benieuwd wat mijn opdracht de morgen zal zijn.&lt;/p&gt;
+
+&lt;div id=&#34;myCarousel&#34; class=&#34;carousel slide&#34; data-ride=&#34;carousel&#34; style=&#34;width:500px; margin: auto auto&#34;&gt;
+  &lt;ol class=&#34;carousel-indicators&#34;&gt;
+    &lt;li data-target=&#34;#myCarousel&#34; data-slide-to=&#34;0&#34; class=&#34;active&#34;&gt;&lt;/li&gt;
+    &lt;li data-target=&#34;#myCarousel&#34; data-slide-to=&#34;1&#34;&gt;&lt;/li&gt;
+    &lt;li data-target=&#34;#myCarousel&#34; data-slide-to=&#34;2&#34;&gt;&lt;/li&gt;
+    &lt;li data-target=&#34;#myCarousel&#34; data-slide-to=&#34;3&#34;&gt;&lt;/li&gt;
+    &lt;li data-target=&#34;#myCarousel&#34; data-slide-to=&#34;4&#34;&gt;&lt;/li&gt;
+  &lt;/ol&gt;
+  &lt;div class=&#34;carousel-inner&#34; role=&#34;listbox&#34;&gt;
+  &lt;div class=&#34;item active&#34;&gt;
+    &lt;img src=&#34;http://jensvl-immalle.github.io/images/d1.jpg&#34; alt=&#34;1&#34;&gt;
+  &lt;/div&gt;
+    &lt;div class=&#34;item&#34;&gt;
+      &lt;img src=&#34;http://jensvl-immalle.github.io/images/d1-1.jpg&#34; alt=&#34;2&#34;&gt;
+    &lt;/div&gt;
+    &lt;div class=&#34;item&#34;&gt;
+      &lt;img src=&#34;http://jensvl-immalle.github.io/images/d1-2.jpg&#34; alt=&#34;3&#34;&gt;
+    &lt;/div&gt;
+    &lt;div class=&#34;item&#34;&gt;
+        &lt;img src=&#34;http://jensvl-immalle.github.io/images/d1-3.jpg&#34; alt=&#34;4&#34;&gt;
+    &lt;/div&gt;
+    &lt;div class=&#34;item&#34;&gt;
+        &lt;img src=&#34;http://jensvl-immalle.github.io/images/d1-4.jpg&#34; alt=&#34;5&#34;&gt;
+    &lt;/div&gt;
+  &lt;/div&gt;
+  &lt;a class=&#34;left carousel-control&#34; href=&#34;#myCarousel&#34; role=&#34;button&#34; data-slide=&#34;prev&#34;&gt;
+    &lt;span class=&#34;glyphicon glyphicon-chevron-left&#34; aria-hidden=&#34;true&#34;&gt;&lt;/span&gt;
+    &lt;span class=&#34;sr-only&#34;&gt;Vorige&lt;/span&gt;
+  &lt;/a&gt;
+  &lt;a class=&#34;right carousel-control&#34; href=&#34;#myCarousel&#34; role=&#34;button&#34; data-slide=&#34;next&#34;&gt;
+    &lt;span class=&#34;glyphicon glyphicon-chevron-right&#34; aria-hidden=&#34;true&#34;&gt;&lt;/span&gt;
+    &lt;span class=&#34;sr-only&#34;&gt;Volgende&lt;/span&gt;
+  &lt;/a&gt;
+&lt;/div&gt;
 </description>
     </item>
     

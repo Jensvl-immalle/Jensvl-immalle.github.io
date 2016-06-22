@@ -43,16 +43,14 @@
         }
         </style>
 
-
         <link href="/css/hover.css" rel="stylesheet" media="all">
         <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Roboto:regular,bold,italic,thin,light,bolditalic,black,medium&amp;lang=en"/>
         <link rel="stylesheet" href="/css/ionicons.min.css"/>
-        <link rel="stylesheet" href="/css/material.grey-orange.min.css"/>
+        
         <link rel="stylesheet" href="/css/styles.css"/>
         <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
         <link href="/css/materialdesignicons.min.css" media="all" rel="stylesheet" type="text/css" />
         <link rel="stylesheet" href="https://storage.googleapis.com/code.getmdl.io/1.0.5/material.grey-light_green.min.css" />
-        
 </head>
 
 <body>
@@ -119,10 +117,7 @@ $('#modal').click(function () {
         <div class="hugo-blog mdl-layout mdl-js-layout has-drawer is-upgraded">
     
 
-        
-
-    
-<div class="mdl-layout mdl-js-layout mdl-layout--fixed-header">
+    <div class="mdl-layout mdl-js-layout mdl-layout--fixed-header">
   <header style="background-color: white" class="mdl-layout__header">
     <div class="mdl-layout__header-row">
       
@@ -134,7 +129,7 @@ $('#modal').click(function () {
         <a class="hvr-fade mdl-layout__tab-panel is-active mdl-navigation__link" href="http://jensvl-immalle.github.io/">Home<a/>
         <a class="hvr-fade mdl-layout__tab-panel is-active mdl-navigation__link" href="/post">Posts</a>
         <a class="hvr-fade mdl-layout__tab-panel is-active mdl-navigation__link" href="/project">Stageverslagen</a>
-        <a class="hvr-fade mdl-layout__tab-panel is-active mdl-navigation__link" href="/about">IT-Profile</a>
+        <a class="hvr-fade mdl-layout__tab-panel is-active mdl-navigation__link" href="/html/about">IT-Profile</a>
 
       </nav>
     </div>
@@ -144,7 +139,7 @@ $('#modal').click(function () {
           <a class="hvr-fade mdl-layout__tab-panel is-active mdl-navigation__link" href="http://jensvl-immalle.github.io/">Home<a/>
           <a class="hvr-fade mdl-layout__tab-panel is-active mdl-navigation__link" href="/post">Posts</a>
           <a class="hvr-fade mdl-layout__tab-panel is-active mdl-navigation__link" href="/project">Stageverslagen</a>
-          <a class="hvr-fade mdl-layout__tab-panel is-active mdl-navigation__link" href="/about">IT-Profile</a>
+          <a class="hvr-fade mdl-layout__tab-panel is-active mdl-navigation__link" href="/html/about">IT-Profile</a>
 
       </nav>
   </div>
@@ -158,88 +153,81 @@ $('#modal').click(function () {
 <div class="hugo-blog__posts mdl-grid">
     
     
-
-<div class="mdl-card profile-card mdl-cell mdl-cell--8-col mdl-cell--4-col-desktop">
-    <div class="mdl-card__media mdl-color--white mdl-color-text--grey-600" style="background-image: url('http://i.imgur.com/2xP6dzz.png');">
+    <div class="mdl-card profile-card mdl-cell mdl-cell--8-col mdl-cell--4-col-desktop">
+        <a style="height: inherit"class="mdl-button mdl-button--colored mdl-js-button mdl-js-ripple-effect is-active" data-toggle="modal" data-target="#memberModal" id="modal">
+            <center><h4 id="welkom">welkomstwoord</h4></center>
+        </a>
+    <div class="mdl-card__media mdl-color--white mdl-color-text--grey-600" style="background-image: url('images/gip.png');">
     </div>
 
-    <div class="mdl-card__supporting-text meta meta--fill mdl-color-text--grey-600 ">
+        <div class="mdl-card__supporting-text meta meta--fill mdl-color-text--grey-600 ">
         <div>
-            <strong>Jens Van Loon -
-              <a style="color: black" class="is-active" data-toggle="modal" data-target="#memberModal" id="modal">
-                Een welkomstwoord
-                            </a>
-            </strong>
-
-
-
+            <strong>Jens Van Loon</strong>
 
         </div>
-
     </div>
 </div>
+
+
 
 
     
      
     
-        <div class="hvr-underline-reveal hvr-shadow mdl-card mdl-cell mdl-cell--8-col">
+            <div class="mdl-card mdl-cell mdl-cell--8-col">
 
-    
-    <div class="mdl-card__media mdl-color-text--grey-50" style=" background-color:rgb(150,200,80);">
-        <h3><a href="/post/review/" >Review Of A Network Tool In The Training Company - GEO Solutions</a></h3>
+
+        <a href="/post/reportage/">
+            <div class="mdl-card__media mdl-color-text--grey-50" style=" background-color:rgb(150,200,80); height: 350px">
+                <h3>Reportage Du Photos De GEO Solutions</h3>
+            </div>
+        </a>
+        <div class="mdl-card__supporting-text meta mdl-color-text--grey-600">
+            <i class="material-icons">chevron_right</i>
+            <div>
+                <span>Mar 17, 2016</span>
+            </div>
+            <a style="margin-left: 60%;" class="mdl-button mdl-button--colored mdl-js-button mdl-js-ripple-effect" href="/post/reportage/" >Bekijken</a>
+        </div>
     </div>
 
+     
+ 
     
+        <div class="mdl-card mdl-cell mdl-cell--12-col">
+
+    
+    <a href="/post/review/">
+        <div class="mdl-card__media mdl-color-text--grey-50" style=" background-color:rgb(150,200,80); height: 350px">
+            <h3>Review Of A Network Tool In The Training Company - GEO Solutions</h3>
+        </div>
+    </a>
+
+
 
     
     <div class="mdl-card__supporting-text meta mdl-color-text--grey-600">
         
         <i class="material-icons">chevron_right</i>
         <div>
-            <strong>Jens Van Loon</strong>
             <span>Mar 17, 2016</span>
         </div>
+        <a style="margin-left: 75%;" class="mdl-button mdl-button--colored mdl-js-button mdl-js-ripple-effect" href="/post/review/" >Bekijken</a>
     </div>
 
 </div>
 
-
-
-
      
  
     
-        <div class="hvr-underline-reveal hvr-glow hvr-shadow mdl-card mdl-cell mdl-cell--12-col">
+        <div class="mdl-card mdl-cell mdl-cell--12-col">
 
     
-    <div class="mdl-card__media mdl-color-text--grey-50" style=" background-color:rgb(150,200,80);">
-        <h3><a href="/post/reportage/" >Pour Un Reportage Du Photos De GEO Solutions, CLIQUEZ ICI!</a></h3>
-    </div>
-
-
-
-    
-    <div class="mdl-card__supporting-text meta mdl-color-text--grey-600">
-        
-        <i class="material-icons">chevron_right</i>
-        <div>
-            <strong>Jens Van Loon</strong>
-            <span>Mar 17, 2016</span>
+    <a href="/post/CaseStudy2/">
+        <div class="mdl-card__media mdl-color-text--grey-50" style=" background-color:rgb(150,200,80); height: 350px">
+            <h3>Case Study - Vervolg</h3>
         </div>
-    </div>
-
-</div>
-
-     
- 
-    
-        <div class="hvr-underline-reveal hvr-glow hvr-shadow mdl-card mdl-cell mdl-cell--12-col">
-
-    
-    <div class="mdl-card__media mdl-color-text--grey-50" style=" background-color:rgb(150,200,80);">
-        <h3><a href="/post/CaseStudy2/" >Case Study - Vervolg</a></h3>
-    </div>
+    </a>
 
 
 
@@ -248,9 +236,9 @@ $('#modal').click(function () {
         
         <i class="material-icons">chevron_right</i>
         <div>
-            <strong>Jens Van Loon</strong>
             <span>Feb 1, 2016</span>
         </div>
+        <a style="margin-left: 75%;" class="mdl-button mdl-button--colored mdl-js-button mdl-js-ripple-effect" href="/post/CaseStudy2/" >Bekijken</a>
     </div>
 
 </div>
@@ -258,12 +246,14 @@ $('#modal').click(function () {
      
  
     
-        <div class="hvr-underline-reveal hvr-glow hvr-shadow mdl-card mdl-cell mdl-cell--12-col">
+        <div class="mdl-card mdl-cell mdl-cell--12-col">
 
     
-    <div class="mdl-card__media mdl-color-text--grey-50" style=" background-color:rgb(150,200,80);">
-        <h3><a href="/post/app/" >Applicatie Met JavaScript</a></h3>
-    </div>
+    <a href="/post/app/">
+        <div class="mdl-card__media mdl-color-text--grey-50" style=" background-color:rgb(150,200,80); height: 350px">
+            <h3>Applicatie Met JavaScript</h3>
+        </div>
+    </a>
 
 
 
@@ -272,9 +262,9 @@ $('#modal').click(function () {
         
         <i class="material-icons">chevron_right</i>
         <div>
-            <strong>Jens Van Loon</strong>
             <span>Feb 1, 2016</span>
         </div>
+        <a style="margin-left: 75%;" class="mdl-button mdl-button--colored mdl-js-button mdl-js-ripple-effect" href="/post/app/" >Bekijken</a>
     </div>
 
 </div>
@@ -282,12 +272,14 @@ $('#modal').click(function () {
      
  
     
-        <div class="hvr-underline-reveal hvr-glow hvr-shadow mdl-card mdl-cell mdl-cell--12-col">
+        <div class="mdl-card mdl-cell mdl-cell--12-col">
 
     
-    <div class="mdl-card__media mdl-color-text--grey-50" style=" background-color:rgb(150,200,80);">
-        <h3><a href="/post/huisstijl/" >Huisstijl Van GEO Solutions</a></h3>
-    </div>
+    <a href="/post/huisstijl/">
+        <div class="mdl-card__media mdl-color-text--grey-50" style=" background-color:rgb(150,200,80); height: 350px">
+            <h3>Huisstijl Van GEO Solutions</h3>
+        </div>
+    </a>
 
 
 
@@ -296,9 +288,9 @@ $('#modal').click(function () {
         
         <i class="material-icons">chevron_right</i>
         <div>
-            <strong>Jens Van Loon</strong>
             <span>Feb 1, 2016</span>
         </div>
+        <a style="margin-left: 75%;" class="mdl-button mdl-button--colored mdl-js-button mdl-js-ripple-effect" href="/post/huisstijl/" >Bekijken</a>
     </div>
 
 </div>
